@@ -3,39 +3,4030 @@
         "version": 1,
         "card_list": [
             {
-                "card_id": 10020,
-                "base_card_id": 10020,
-                "card_type": "Hero",
-                
+                "card_id": "10004",
                 "card_name": {
-                    "english": "Axe" 
-                },
-                "card_text": {
-
-                },
-                "mini_image": {
-                    "default": "https://steamcdn-a.akamaihd.net/apps/583950/icons/set01/10020.023febd622949d771d9f6a4322efc339ced8c560.png"
-                },
-                "large_image": {
-                    "default": "https://steamcdn-a.akamaihd.net/apps/583950/icons/set01/10020_large_english.5cbf0807575742532f53e4e026b6e8567d1b8843.png"
-                },
-                "ingame_image":{
-                    "default": "https://steamcdn-a.akamaihd.net/apps/583950/icons/set01/10020_ingame.4b1773e0546ae29327b3d1be27455ca6b38bc4bc.png"
-                },
-                "illustrator": "Tyler Jacobson",
-                "rarity": "Rare",
-                "is_red": true,
-                "item_def": 110020,
-                "attack": 6,
-                "armor": 2,
-                "hit_points": 10,
-                "references": [
-                    {
-                        "card_id": 10288,
-                        "ref_type": "includes",
-                        "count": 3
-                    }
-                ]
+                    "english": "Meepo"
+                }
+            },
+            {
+                "card_id": "10429",
+                "card_name": {
+                    "english": "Poof"
+                }
+            },
+            {
+                "card_id": "10490",
+                "card_name": {
+                    "english": "United We Fall"
+                }
+            },
+            {
+                "card_id": "10005",
+                "card_name": {
+                    "english": "Divided We Stand"
+                }
+            },
+            {
+                "card_id": "10006",
+                "card_name": {
+                    "english": "Luna"
+                }
+            },
+            {
+                "card_id": "10489",
+                "card_name": {
+                    "english": "Lucent Beam"
+                }
+            },
+            {
+                "card_id": "10007",
+                "card_name": {
+                    "english": "Eclipse"
+                }
+            },
+            {
+                "card_id": "10010",
+                "card_name": {
+                    "english": "Winter Wyvern"
+                }
+            },
+            {
+                "card_id": "10430",
+                "card_name": {
+                    "english": "Arctic Burn"
+                }
+            },
+            {
+                "card_id": "10011",
+                "card_name": {
+                    "english": "Winter's Curse"
+                }
+            },
+            {
+                "card_id": "10014",
+                "card_name": {
+                    "english": "Lycan"
+                }
+            },
+            {
+                "card_id": "10494",
+                "card_name": {
+                    "english": "Feral Impulse"
+                }
+            },
+            {
+                "card_id": "10017",
+                "card_name": {
+                    "english": "Chen"
+                }
+            },
+            {
+                "card_id": "10432",
+                "card_name": {
+                    "english": "Holy Persuasion"
+                }
+            },
+            {
+                "card_id": "10018",
+                "card_name": {
+                    "english": "Bloodseeker"
+                }
+            },
+            {
+                "card_id": "10496",
+                "card_name": {
+                    "english": "Thirst"
+                }
+            },
+            {
+                "card_id": "10020",
+                "card_name": {
+                    "english": "Axe"
+                }
+            },
+            {
+                "card_id": "10816",
+                "card_name": {
+                    "english": "Berserker's Call"
+                }
+            },
+            {
+                "card_id": "10021",
+                "card_name": {
+                    "english": "Centaur Warrunner"
+                }
+            },
+            {
+                "card_id": "10497",
+                "card_name": {
+                    "english": "Stampede"
+                }
+            },
+            {
+                "card_id": "10022",
+                "card_name": {
+                    "english": "Timbersaw"
+                }
+            },
+            {
+                "card_id": "10498",
+                "card_name": {
+                    "english": "Timber Chain"
+                }
+            },
+            {
+                "card_id": "10024",
+                "card_name": {
+                    "english": "Tidehunter"
+                }
+            },
+            {
+                "card_id": "10434",
+                "card_name": {
+                    "english": "Ravage"
+                }
+            },
+            {
+                "card_id": "10025",
+                "card_name": {
+                    "english": "Tinker"
+                }
+            },
+            {
+                "card_id": "10435",
+                "card_name": {
+                    "english": "Laser"
+                }
+            },
+            {
+                "card_id": "10026",
+                "card_name": {
+                    "english": "Rix"
+                }
+            },
+            {
+                "card_id": "10500",
+                "card_name": {
+                    "english": "Relentless Rebel"
+                }
+            },
+            {
+                "card_id": "10029",
+                "card_name": {
+                    "english": "Beastmaster"
+                }
+            },
+            {
+                "card_id": "10437",
+                "card_name": {
+                    "english": "Call of the Wild"
+                }
+            },
+            {
+                "card_id": "11051",
+                "card_name": {
+                    "english": "Inner Beast"
+                }
+            },
+            {
+                "card_id": "10030",
+                "card_name": {
+                    "english": "Bristleback"
+                }
+            },
+            {
+                "card_id": "10502",
+                "card_name": {
+                    "english": "Bristleback"
+                }
+            },
+            {
+                "card_id": "10032",
+                "card_name": {
+                    "english": "Drow Ranger"
+                }
+            },
+            {
+                "card_id": "10504",
+                "card_name": {
+                    "english": "Precision Aura"
+                }
+            },
+            {
+                "card_id": "10033",
+                "card_name": {
+                    "english": "Earthshaker"
+                }
+            },
+            {
+                "card_id": "10438",
+                "card_name": {
+                    "english": "Fissure"
+                }
+            },
+            {
+                "card_id": "10981",
+                "card_name": {
+                    "english": "Aftershock"
+                }
+            },
+            {
+                "card_id": "10036",
+                "card_name": {
+                    "english": "Enchantress"
+                }
+            },
+            {
+                "card_id": "10506",
+                "card_name": {
+                    "english": "Untouchable"
+                }
+            },
+            {
+                "card_id": "10038",
+                "card_name": {
+                    "english": "Lich"
+                }
+            },
+            {
+                "card_id": "10440",
+                "card_name": {
+                    "english": "Sacrifice"
+                }
+            },
+            {
+                "card_id": "10043",
+                "card_name": {
+                    "english": "Ogre Magi"
+                }
+            },
+            {
+                "card_id": "10509",
+                "card_name": {
+                    "english": "Multicast"
+                }
+            },
+            {
+                "card_id": "10044",
+                "card_name": {
+                    "english": "Omniknight"
+                }
+            },
+            {
+                "card_id": "10443",
+                "card_name": {
+                    "english": "Purification"
+                }
+            },
+            {
+                "card_id": "10047",
+                "card_name": {
+                    "english": "Phantom Assassin"
+                }
+            },
+            {
+                "card_id": "10512",
+                "card_name": {
+                    "english": "Efficient Killer"
+                }
+            },
+            {
+                "card_id": "10048",
+                "card_name": {
+                    "english": "Pugna"
+                }
+            },
+            {
+                "card_id": "10444",
+                "card_name": {
+                    "english": "Nether Blast"
+                }
+            },
+            {
+                "card_id": "10050",
+                "card_name": {
+                    "english": "Sniper"
+                }
+            },
+            {
+                "card_id": "10446",
+                "card_name": {
+                    "english": "Headshot"
+                }
+            },
+            {
+                "card_id": "10054",
+                "card_name": {
+                    "english": "Sven"
+                }
+            },
+            {
+                "card_id": "10513",
+                "card_name": {
+                    "english": "Great Cleave"
+                }
+            },
+            {
+                "card_id": "10056",
+                "card_name": {
+                    "english": "Treant Protector"
+                }
+            },
+            {
+                "card_id": "10514",
+                "card_name": {
+                    "english": "Branches of Iron"
+                }
+            },
+            {
+                "card_id": "10058",
+                "card_name": {
+                    "english": "Sorla Khan"
+                }
+            },
+            {
+                "card_id": "10516",
+                "card_name": {
+                    "english": "Warmonger"
+                }
+            },
+            {
+                "card_id": "10059",
+                "card_name": {
+                    "english": "Necrophos"
+                }
+            },
+            {
+                "card_id": "10517",
+                "card_name": {
+                    "english": "Sadist"
+                }
+            },
+            {
+                "card_id": "10062",
+                "card_name": {
+                    "english": "Skywrath Mage"
+                }
+            },
+            {
+                "card_id": "10451",
+                "card_name": {
+                    "english": "Concussive Shot"
+                }
+            },
+            {
+                "card_id": "10063",
+                "card_name": {
+                    "english": "Mystic Flare"
+                }
+            },
+            {
+                "card_id": "10064",
+                "card_name": {
+                    "english": "Crystal Maiden"
+                }
+            },
+            {
+                "card_id": "10518",
+                "card_name": {
+                    "english": "Arcane Aura"
+                }
+            },
+            {
+                "card_id": "10519",
+                "card_name": {
+                    "english": "Static Field"
+                }
+            },
+            {
+                "card_id": "10065",
+                "card_name": {
+                    "english": "Zeus"
+                }
+            },
+            {
+                "card_id": "10068",
+                "card_name": {
+                    "english": "Dark Seer"
+                }
+            },
+            {
+                "card_id": "10452",
+                "card_name": {
+                    "english": "Vacuum"
+                }
+            },
+            {
+                "card_id": "10069",
+                "card_name": {
+                    "english": "Legion Commander"
+                }
+            },
+            {
+                "card_id": "10520",
+                "card_name": {
+                    "english": "Moment of Courage"
+                }
+            },
+            {
+                "card_id": "10070",
+                "card_name": {
+                    "english": "Ursa"
+                }
+            },
+            {
+                "card_id": "10521",
+                "card_name": {
+                    "english": "Fury Swipes"
+                }
+            },
+            {
+                "card_id": "10811",
+                "card_name": {
+                    "english": "Lina"
+                }
+            },
+            {
+                "card_id": "10812",
+                "card_name": {
+                    "english": "Fiery Soul"
+                }
+            },
+            {
+                "card_id": "10813",
+                "card_name": {
+                    "english": "Light Strike Array"
+                }
+            },
+            {
+                "card_id": "10814",
+                "card_name": {
+                    "english": "Dragon Slave"
+                }
+            },
+            {
+                "card_id": "10815",
+                "card_name": {
+                    "english": "Laguna Blade"
+                }
+            },
+            {
+                "card_id": "10076",
+                "card_name": {
+                    "english": "Smeevil Armsmaster"
+                }
+            },
+            {
+                "card_id": "10077",
+                "card_name": {
+                    "english": "Sister of the Void"
+                }
+            },
+            {
+                "card_id": "10454",
+                "card_name": {
+                    "english": "Sister of the Void"
+                }
+            },
+            {
+                "card_id": "10078",
+                "card_name": {
+                    "english": "Tyler Estate Censor"
+                }
+            },
+            {
+                "card_id": "10079",
+                "card_name": {
+                    "english": "Smeevil Blacksmith"
+                }
+            },
+            {
+                "card_id": "10080",
+                "card_name": {
+                    "english": "Rebel Decoy"
+                }
+            },
+            {
+                "card_id": "10455",
+                "card_name": {
+                    "english": "Rebel Decoy"
+                }
+            },
+            {
+                "card_id": "10082",
+                "card_name": {
+                    "english": "Centaur Poacher"
+                }
+            },
+            {
+                "card_id": "10083",
+                "card_name": {
+                    "english": "Pit Fighter of Quoidge"
+                }
+            },
+            {
+                "card_id": "10085",
+                "card_name": {
+                    "english": "Assassin's Shadow"
+                }
+            },
+            {
+                "card_id": "10086",
+                "card_name": {
+                    "english": "Disciple of Nevermore"
+                }
+            },
+            {
+                "card_id": "10087",
+                "card_name": {
+                    "english": "Legion Standard Bearer"
+                }
+            },
+            {
+                "card_id": "10090",
+                "card_name": {
+                    "english": "Relentless Zombie"
+                }
+            },
+            {
+                "card_id": "10091",
+                "card_name": {
+                    "english": "Revtel Convoy"
+                }
+            },
+            {
+                "card_id": "10092",
+                "card_name": {
+                    "english": "Oglodi Vandal"
+                }
+            },
+            {
+                "card_id": "10094",
+                "card_name": {
+                    "english": "Mercenary Exiles"
+                }
+            },
+            {
+                "card_id": "10456",
+                "card_name": {
+                    "english": "Mercenary Exiles"
+                }
+            },
+            {
+                "card_id": "10095",
+                "card_name": {
+                    "english": "Keenfolk Golem"
+                }
+            },
+            {
+                "card_id": "10096",
+                "card_name": {
+                    "english": "Emissary of the Quorum"
+                }
+            },
+            {
+                "card_id": "10457",
+                "card_name": {
+                    "english": "Emissary of the Quorum"
+                }
+            },
+            {
+                "card_id": "10097",
+                "card_name": {
+                    "english": "Marrowfell Brawler"
+                }
+            },
+            {
+                "card_id": "10102",
+                "card_name": {
+                    "english": "Thunderhide Pack"
+                }
+            },
+            {
+                "card_id": "10103",
+                "card_name": {
+                    "english": "Ogre Corpse Tosser"
+                }
+            },
+            {
+                "card_id": "10104",
+                "card_name": {
+                    "english": "Bronze Legionnaire"
+                }
+            },
+            {
+                "card_id": "10107",
+                "card_name": {
+                    "english": "Vhoul Martyr"
+                }
+            },
+            {
+                "card_id": "10108",
+                "card_name": {
+                    "english": "Thunderhide Alpha"
+                }
+            },
+            {
+                "card_id": "10111",
+                "card_name": {
+                    "english": "Satyr Duelist"
+                }
+            },
+            {
+                "card_id": "10112",
+                "card_name": {
+                    "english": "Savage Wolf"
+                }
+            },
+            {
+                "card_id": "10113",
+                "card_name": {
+                    "english": "Rampaging Hellbear"
+                }
+            },
+            {
+                "card_id": "10114",
+                "card_name": {
+                    "english": "Cursed Satyr"
+                }
+            },
+            {
+                "card_id": "10737",
+                "card_name": {
+                    "english": "Cursed Satyr"
+                }
+            },
+            {
+                "card_id": "10115",
+                "card_name": {
+                    "english": "Ravenhook"
+                }
+            },
+            {
+                "card_id": "10524",
+                "card_name": {
+                    "english": "Ravenhook"
+                }
+            },
+            {
+                "card_id": "10116",
+                "card_name": {
+                    "english": "Ravenous Mass"
+                }
+            },
+            {
+                "card_id": "10459",
+                "card_name": {
+                    "english": "Ravenous Mass"
+                }
+            },
+            {
+                "card_id": "10117",
+                "card_name": {
+                    "english": "Roseleaf Druid"
+                }
+            },
+            {
+                "card_id": "10118",
+                "card_name": {
+                    "english": "Hellbear Crippler"
+                }
+            },
+            {
+                "card_id": "10119",
+                "card_name": {
+                    "english": "Selfish Cleric"
+                }
+            },
+            {
+                "card_id": "10127",
+                "card_name": {
+                    "english": "Ogre Conscript"
+                }
+            },
+            {
+                "card_id": "10128",
+                "card_name": {
+                    "english": "Untested Grunt"
+                }
+            },
+            {
+                "card_id": "10129",
+                "card_name": {
+                    "english": "Assassin's Apprentice"
+                }
+            },
+            {
+                "card_id": "10543",
+                "card_name": {
+                    "english": "Assassin's Apprentice"
+                }
+            },
+            {
+                "card_id": "10131",
+                "card_name": {
+                    "english": "Stonehall Elite"
+                }
+            },
+            {
+                "card_id": "10132",
+                "card_name": {
+                    "english": "Red Mist Pillager"
+                }
+            },
+            {
+                "card_id": "10133",
+                "card_name": {
+                    "english": "Champion of the Ancient"
+                }
+            },
+            {
+                "card_id": "10134",
+                "card_name": {
+                    "english": "Roseleaf Rejuvenator"
+                }
+            },
+            {
+                "card_id": "10136",
+                "card_name": {
+                    "english": "Loyal Beast"
+                }
+            },
+            {
+                "card_id": "10137",
+                "card_name": {
+                    "english": "Satyr Magician"
+                }
+            },
+            {
+                "card_id": "10138",
+                "card_name": {
+                    "english": "Troll Soothsayer"
+                }
+            },
+            {
+                "card_id": "10141",
+                "card_name": {
+                    "english": "Assured Destruction"
+                }
+            },
+            {
+                "card_id": "10148",
+                "card_name": {
+                    "english": "Fractured Timeline"
+                }
+            },
+            {
+                "card_id": "10463",
+                "card_name": {
+                    "english": "Fractured Timeline"
+                }
+            },
+            {
+                "card_id": "10149",
+                "card_name": {
+                    "english": "Unearthed Secrets"
+                }
+            },
+            {
+                "card_id": "10154",
+                "card_name": {
+                    "english": "The Tyler Estate"
+                }
+            },
+            {
+                "card_id": "10155",
+                "card_name": {
+                    "english": "Homefield Advantage"
+                }
+            },
+            {
+                "card_id": "10156",
+                "card_name": {
+                    "english": "Bitter Enemies"
+                }
+            },
+            {
+                "card_id": "10157",
+                "card_name": {
+                    "english": "Conflagration"
+                }
+            },
+            {
+                "card_id": "10160",
+                "card_name": {
+                    "english": "Ignite"
+                }
+            },
+            {
+                "card_id": "10161",
+                "card_name": {
+                    "english": "Trebuchets"
+                }
+            },
+            {
+                "card_id": "10162",
+                "card_name": {
+                    "english": "Unsupervised Artillery"
+                }
+            },
+            {
+                "card_id": "10164",
+                "card_name": {
+                    "english": "Revtel Investments"
+                }
+            },
+            {
+                "card_id": "10165",
+                "card_name": {
+                    "english": "Iron Fog Goldmine"
+                }
+            },
+            {
+                "card_id": "10168",
+                "card_name": {
+                    "english": "Selemene's Favor"
+                }
+            },
+            {
+                "card_id": "10169",
+                "card_name": {
+                    "english": "Mist of Avernus"
+                }
+            },
+            {
+                "card_id": "10170",
+                "card_name": {
+                    "english": "Altar of the Mad Moon"
+                }
+            },
+            {
+                "card_id": "10171",
+                "card_name": {
+                    "english": "Howling Mind"
+                }
+            },
+            {
+                "card_id": "10172",
+                "card_name": {
+                    "english": "Temple of War"
+                }
+            },
+            {
+                "card_id": "10763",
+                "card_name": {
+                    "english": "Temple of War"
+                }
+            },
+            {
+                "card_id": "10173",
+                "card_name": {
+                    "english": "Nether Ward"
+                }
+            },
+            {
+                "card_id": "10174",
+                "card_name": {
+                    "english": "Burning Oil"
+                }
+            },
+            {
+                "card_id": "10175",
+                "card_name": {
+                    "english": "Aghanim's Sanctum"
+                }
+            },
+            {
+                "card_id": "10542",
+                "card_name": {
+                    "english": "Satyr Magician"
+                }
+            },
+            {
+                "card_id": "10176",
+                "card_name": {
+                    "english": "Escape Route"
+                }
+            },
+            {
+                "card_id": "10465",
+                "card_name": {
+                    "english": "Escape Route"
+                }
+            },
+            {
+                "card_id": "10177",
+                "card_name": {
+                    "english": "Assault Ladders"
+                }
+            },
+            {
+                "card_id": "10180",
+                "card_name": {
+                    "english": "Messenger Rookery"
+                }
+            },
+            {
+                "card_id": "10466",
+                "card_name": {
+                    "english": "Messenger Rookery"
+                }
+            },
+            {
+                "card_id": "10181",
+                "card_name": {
+                    "english": "Cheating Death"
+                }
+            },
+            {
+                "card_id": "10539",
+                "card_name": {
+                    "english": "Cheating Death"
+                }
+            },
+            {
+                "card_id": "10183",
+                "card_name": {
+                    "english": "The Omexe Arena"
+                }
+            },
+            {
+                "card_id": "10184",
+                "card_name": {
+                    "english": "Keenfolk Turret"
+                }
+            },
+            {
+                "card_id": "10467",
+                "card_name": {
+                    "english": "Keenfolk Turret"
+                }
+            },
+            {
+                "card_id": "10185",
+                "card_name": {
+                    "english": "Steam Cannon"
+                }
+            },
+            {
+                "card_id": "10468",
+                "card_name": {
+                    "english": "Steam Cannon"
+                }
+            },
+            {
+                "card_id": "10187",
+                "card_name": {
+                    "english": "Glyph of Confusion"
+                }
+            },
+            {
+                "card_id": "10192",
+                "card_name": {
+                    "english": "Rumusque Blessing"
+                }
+            },
+            {
+                "card_id": "10193",
+                "card_name": {
+                    "english": "Enchant"
+                }
+            },
+            {
+                "card_id": "10194",
+                "card_name": {
+                    "english": "Watchtower"
+                }
+            },
+            {
+                "card_id": "10202",
+                "card_name": {
+                    "english": "Assassin's Veil"
+                }
+            },
+            {
+                "card_id": "10469",
+                "card_name": {
+                    "english": "Assassin's Veil"
+                }
+            },
+            {
+                "card_id": "10203",
+                "card_name": {
+                    "english": "Phase Boots"
+                }
+            },
+            {
+                "card_id": "10470",
+                "card_name": {
+                    "english": "Phase Boots"
+                }
+            },
+            {
+                "card_id": "10205",
+                "card_name": {
+                    "english": "Stonehall Cloak"
+                }
+            },
+            {
+                "card_id": "10206",
+                "card_name": {
+                    "english": "Blink Dagger"
+                }
+            },
+            {
+                "card_id": "10471",
+                "card_name": {
+                    "english": "Blink Dagger"
+                }
+            },
+            {
+                "card_id": "10208",
+                "card_name": {
+                    "english": "Barbed Mail"
+                }
+            },
+            {
+                "card_id": "10210",
+                "card_name": {
+                    "english": "Demagicking Maul"
+                }
+            },
+            {
+                "card_id": "10212",
+                "card_name": {
+                    "english": "Blade of the Vigil"
+                }
+            },
+            {
+                "card_id": "10215",
+                "card_name": {
+                    "english": "Broadsword"
+                }
+            },
+            {
+                "card_id": "10216",
+                "card_name": {
+                    "english": "Golden Ticket"
+                }
+            },
+            {
+                "card_id": "10218",
+                "card_name": {
+                    "english": "Keenfolk Musket"
+                }
+            },
+            {
+                "card_id": "10474",
+                "card_name": {
+                    "english": "Keenfolk Musket"
+                }
+            },
+            {
+                "card_id": "10220",
+                "card_name": {
+                    "english": "Ring of Tarrasque"
+                }
+            },
+            {
+                "card_id": "10222",
+                "card_name": {
+                    "english": "Bracers of Sacrifice"
+                }
+            },
+            {
+                "card_id": "10476",
+                "card_name": {
+                    "english": "Bracers of Sacrifice"
+                }
+            },
+            {
+                "card_id": "10223",
+                "card_name": {
+                    "english": "Red Mist Maul"
+                }
+            },
+            {
+                "card_id": "10224",
+                "card_name": {
+                    "english": "Helm of the Dominator"
+                }
+            },
+            {
+                "card_id": "10477",
+                "card_name": {
+                    "english": "Helm of the Dominator"
+                }
+            },
+            {
+                "card_id": "10225",
+                "card_name": {
+                    "english": "Vesture of the Tyrant"
+                }
+            },
+            {
+                "card_id": "10226",
+                "card_name": {
+                    "english": "Wingfall Hammer"
+                }
+            },
+            {
+                "card_id": "10230",
+                "card_name": {
+                    "english": "Ristul Emblem"
+                }
+            },
+            {
+                "card_id": "10231",
+                "card_name": {
+                    "english": "Cloak of Endless Carnage"
+                }
+            },
+            {
+                "card_id": "10234",
+                "card_name": {
+                    "english": "Poaching Knife"
+                }
+            },
+            {
+                "card_id": "10238",
+                "card_name": {
+                    "english": "Claymore"
+                }
+            },
+            {
+                "card_id": "10252",
+                "card_name": {
+                    "english": "Hooked Net"
+                }
+            },
+            {
+                "card_id": "10260",
+                "card_name": {
+                    "english": "Horn of the Alpha"
+                }
+            },
+            {
+                "card_id": "10483",
+                "card_name": {
+                    "english": "Horn of the Alpha"
+                }
+            },
+            {
+                "card_id": "10262",
+                "card_name": {
+                    "english": "Nyctasha's Guard"
+                }
+            },
+            {
+                "card_id": "10484",
+                "card_name": {
+                    "english": "Nyctasha's Guard"
+                }
+            },
+            {
+                "card_id": "10263",
+                "card_name": {
+                    "english": "Apotheosis Blade"
+                }
+            },
+            {
+                "card_id": "10541",
+                "card_name": {
+                    "english": "Apotheosis Blade"
+                }
+            },
+            {
+                "card_id": "10142",
+                "card_name": {
+                    "english": "Corrosive Mist"
+                }
+            },
+            {
+                "card_id": "10196",
+                "card_name": {
+                    "english": "...And One For Me"
+                }
+            },
+            {
+                "card_id": "10270",
+                "card_name": {
+                    "english": "Grazing Shot"
+                }
+            },
+            {
+                "card_id": "10272",
+                "card_name": {
+                    "english": "Assassinate"
+                }
+            },
+            {
+                "card_id": "10273",
+                "card_name": {
+                    "english": "Hip Fire"
+                }
+            },
+            {
+                "card_id": "10274",
+                "card_name": {
+                    "english": "Heartstopper Aura"
+                }
+            },
+            {
+                "card_id": "10277",
+                "card_name": {
+                    "english": "Frostbite"
+                }
+            },
+            {
+                "card_id": "10278",
+                "card_name": {
+                    "english": "Thundergod's Wrath"
+                }
+            },
+            {
+                "card_id": "10281",
+                "card_name": {
+                    "english": "Ion Shell"
+                }
+            },
+            {
+                "card_id": "10282",
+                "card_name": {
+                    "english": "Overpower"
+                }
+            },
+            {
+                "card_id": "10288",
+                "card_name": {
+                    "english": "Culling Blade"
+                }
+            },
+            {
+                "card_id": "10289",
+                "card_name": {
+                    "english": "Exsanguinate"
+                }
+            },
+            {
+                "card_id": "10290",
+                "card_name": {
+                    "english": "Kraken Shell"
+                }
+            },
+            {
+                "card_id": "10975",
+                "card_name": {
+                    "english": "Gush"
+                }
+            },
+            {
+                "card_id": "10291",
+                "card_name": {
+                    "english": "March of the Machines"
+                }
+            },
+            {
+                "card_id": "10292",
+                "card_name": {
+                    "english": "Double Edge"
+                }
+            },
+            {
+                "card_id": "10293",
+                "card_name": {
+                    "english": "Primal Roar"
+                }
+            },
+            {
+                "card_id": "10296",
+                "card_name": {
+                    "english": "Whirling Death"
+                }
+            },
+            {
+                "card_id": "10299",
+                "card_name": {
+                    "english": "Defend the Weak"
+                }
+            },
+            {
+                "card_id": "10303",
+                "card_name": {
+                    "english": "Bellow"
+                }
+            },
+            {
+                "card_id": "10305",
+                "card_name": {
+                    "english": "Raze"
+                }
+            },
+            {
+                "card_id": "10306",
+                "card_name": {
+                    "english": "Smash Their Defenses!"
+                }
+            },
+            {
+                "card_id": "10307",
+                "card_name": {
+                    "english": "Foresight"
+                }
+            },
+            {
+                "card_id": "10308",
+                "card_name": {
+                    "english": "Coup de Grace"
+                }
+            },
+            {
+                "card_id": "10310",
+                "card_name": {
+                    "english": "Oglodi Catapult"
+                }
+            },
+            {
+                "card_id": "10311",
+                "card_name": {
+                    "english": "Arm the Rebellion"
+                }
+            },
+            {
+                "card_id": "10312",
+                "card_name": {
+                    "english": "Arc Bolt"
+                }
+            },
+            {
+                "card_id": "10313",
+                "card_name": {
+                    "english": "Poised to Strike"
+                }
+            },
+            {
+                "card_id": "10315",
+                "card_name": {
+                    "english": "Annihilation"
+                }
+            },
+            {
+                "card_id": "10318",
+                "card_name": {
+                    "english": "Chain Frost"
+                }
+            },
+            {
+                "card_id": "10323",
+                "card_name": {
+                    "english": "Echo Slam"
+                }
+            },
+            {
+                "card_id": "10326",
+                "card_name": {
+                    "english": "No Hesitation"
+                }
+            },
+            {
+                "card_id": "10327",
+                "card_name": {
+                    "english": "Heroic Resolve"
+                }
+            },
+            {
+                "card_id": "10328",
+                "card_name": {
+                    "english": "Gank"
+                }
+            },
+            {
+                "card_id": "10330",
+                "card_name": {
+                    "english": "God's Strength"
+                }
+            },
+            {
+                "card_id": "10332",
+                "card_name": {
+                    "english": "Murder Plot"
+                }
+            },
+            {
+                "card_id": "10334",
+                "card_name": {
+                    "english": "Stars Align"
+                }
+            },
+            {
+                "card_id": "10335",
+                "card_name": {
+                    "english": "Call the Reserves"
+                }
+            },
+            {
+                "card_id": "10336",
+                "card_name": {
+                    "english": "Better Late Than Never"
+                }
+            },
+            {
+                "card_id": "10338",
+                "card_name": {
+                    "english": "Divine Intervention"
+                }
+            },
+            {
+                "card_id": "10339",
+                "card_name": {
+                    "english": "Gust"
+                }
+            },
+            {
+                "card_id": "10340",
+                "card_name": {
+                    "english": "Hand of God"
+                }
+            },
+            {
+                "card_id": "10341",
+                "card_name": {
+                    "english": "Duel"
+                }
+            },
+            {
+                "card_id": "10342",
+                "card_name": {
+                    "english": "Fighting Words"
+                }
+            },
+            {
+                "card_id": "10344",
+                "card_name": {
+                    "english": "Clear the Deck"
+                }
+            },
+            {
+                "card_id": "10348",
+                "card_name": {
+                    "english": "Repel"
+                }
+            },
+            {
+                "card_id": "10350",
+                "card_name": {
+                    "english": "Sucker Punch"
+                }
+            },
+            {
+                "card_id": "10352",
+                "card_name": {
+                    "english": "Lightning Strike"
+                }
+            },
+            {
+                "card_id": "10353",
+                "card_name": {
+                    "english": "Bolt of Damocles"
+                }
+            },
+            {
+                "card_id": "10354",
+                "card_name": {
+                    "english": "Pick Off"
+                }
+            },
+            {
+                "card_id": "10358",
+                "card_name": {
+                    "english": "Restoration Effort"
+                }
+            },
+            {
+                "card_id": "10359",
+                "card_name": {
+                    "english": "Buying Time"
+                }
+            },
+            {
+                "card_id": "10360",
+                "card_name": {
+                    "english": "Friendly Fire"
+                }
+            },
+            {
+                "card_id": "10365",
+                "card_name": {
+                    "english": "Juke"
+                }
+            },
+            {
+                "card_id": "10366",
+                "card_name": {
+                    "english": "New Orders"
+                }
+            },
+            {
+                "card_id": "10367",
+                "card_name": {
+                    "english": "Rend Armor"
+                }
+            },
+            {
+                "card_id": "10373",
+                "card_name": {
+                    "english": "Soul of Spring"
+                }
+            },
+            {
+                "card_id": "10374",
+                "card_name": {
+                    "english": "Arcane Assault"
+                }
+            },
+            {
+                "card_id": "10376",
+                "card_name": {
+                    "english": "Remote Detonation"
+                }
+            },
+            {
+                "card_id": "10377",
+                "card_name": {
+                    "english": "Fog of War"
+                }
+            },
+            {
+                "card_id": "10378",
+                "card_name": {
+                    "english": "Divine Purpose"
+                }
+            },
+            {
+                "card_id": "10379",
+                "card_name": {
+                    "english": "Intimidation"
+                }
+            },
+            {
+                "card_id": "10385",
+                "card_name": {
+                    "english": "Tresdin's Standards"
+                }
+            },
+            {
+                "card_id": "10391",
+                "card_name": {
+                    "english": "Compel"
+                }
+            },
+            {
+                "card_id": "10396",
+                "card_name": {
+                    "english": "Caught Unprepared"
+                }
+            },
+            {
+                "card_id": "10402",
+                "card_name": {
+                    "english": "Tower Barrage"
+                }
+            },
+            {
+                "card_id": "10403",
+                "card_name": {
+                    "english": "Steal Strength"
+                }
+            },
+            {
+                "card_id": "10404",
+                "card_name": {
+                    "english": "The Cover of Night"
+                }
+            },
+            {
+                "card_id": "10410",
+                "card_name": {
+                    "english": "Slay"
+                }
+            },
+            {
+                "card_id": "10411",
+                "card_name": {
+                    "english": "Cunning Plan"
+                }
+            },
+            {
+                "card_id": "10412",
+                "card_name": {
+                    "english": "Thunderstorm"
+                }
+            },
+            {
+                "card_id": "10417",
+                "card_name": {
+                    "english": "Spring the Trap"
+                }
+            },
+            {
+                "card_id": "10418",
+                "card_name": {
+                    "english": "Ventriloquy"
+                }
+            },
+            {
+                "card_id": "10419",
+                "card_name": {
+                    "english": "Viscous Nasal Goo"
+                }
+            },
+            {
+                "card_id": "10420",
+                "card_name": {
+                    "english": "Act of Defiance"
+                }
+            },
+            {
+                "card_id": "10422",
+                "card_name": {
+                    "english": "Whispers of Madness"
+                }
+            },
+            {
+                "card_id": "10424",
+                "card_name": {
+                    "english": "At Any Cost"
+                }
+            },
+            {
+                "card_id": "10425",
+                "card_name": {
+                    "english": "Time of Triumph"
+                }
+            },
+            {
+                "card_id": "10536",
+                "card_name": {
+                    "english": "Storm Spirit"
+                }
+            },
+            {
+                "card_id": "10537",
+                "card_name": {
+                    "english": "Static Remnant"
+                }
+            },
+            {
+                "card_id": "10538",
+                "card_name": {
+                    "english": "Ball Lightning"
+                }
+            },
+            {
+                "card_id": "18001",
+                "card_name": {
+                    "english": "Harmony in Chaos"
+                }
+            },
+            {
+                "card_id": "10600",
+                "card_name": {
+                    "english": "Berserker of the Abyssm"
+                }
+            },
+            {
+                "card_id": "10601",
+                "card_name": {
+                    "english": "Stonehall Conscriptor"
+                }
+            },
+            {
+                "card_id": "10602",
+                "card_name": {
+                    "english": "Unstable Elemental"
+                }
+            },
+            {
+                "card_id": "10645",
+                "card_name": {
+                    "english": "Unstable Elemental"
+                }
+            },
+            {
+                "card_id": "10603",
+                "card_name": {
+                    "english": "Burning Pitch"
+                }
+            },
+            {
+                "card_id": "10604",
+                "card_name": {
+                    "english": "Summoning Circle"
+                }
+            },
+            {
+                "card_id": "10363",
+                "card_name": {
+                    "english": "Summoning Circle"
+                }
+            },
+            {
+                "card_id": "10637",
+                "card_name": {
+                    "english": "Ozkavosh Horror"
+                }
+            },
+            {
+                "card_id": "10605",
+                "card_name": {
+                    "english": "Slumbering Brute"
+                }
+            },
+            {
+                "card_id": "10606",
+                "card_name": {
+                    "english": "Mimicry"
+                }
+            },
+            {
+                "card_id": "10607",
+                "card_name": {
+                    "english": "Flesh of Iron"
+                }
+            },
+            {
+                "card_id": "10608",
+                "card_name": {
+                    "english": "Iron Sharpens Iron"
+                }
+            },
+            {
+                "card_id": "10609",
+                "card_name": {
+                    "english": "Committed Rebel"
+                }
+            },
+            {
+                "card_id": "10610",
+                "card_name": {
+                    "english": "Honor Guard"
+                }
+            },
+            {
+                "card_id": "10611",
+                "card_name": {
+                    "english": "Wildwing Bait"
+                }
+            },
+            {
+                "card_id": "10638",
+                "card_name": {
+                    "english": "Wildwing"
+                }
+            },
+            {
+                "card_id": "10612",
+                "card_name": {
+                    "english": "Fell Spirit"
+                }
+            },
+            {
+                "card_id": "10639",
+                "card_name": {
+                    "english": "Fell Spirit"
+                }
+            },
+            {
+                "card_id": "10613",
+                "card_name": {
+                    "english": "Shifting Loyalties"
+                }
+            },
+            {
+                "card_id": "10614",
+                "card_name": {
+                    "english": "Wall of Secrets"
+                }
+            },
+            {
+                "card_id": "10615",
+                "card_name": {
+                    "english": "Wave of Madness"
+                }
+            },
+            {
+                "card_id": "10616",
+                "card_name": {
+                    "english": "Tower Explosion"
+                }
+            },
+            {
+                "card_id": "10617",
+                "card_name": {
+                    "english": "Living Armor"
+                }
+            },
+            {
+                "card_id": "10618",
+                "card_name": {
+                    "english": "Back For More"
+                }
+            },
+            {
+                "card_id": "10619",
+                "card_name": {
+                    "english": "Infernal Ally"
+                }
+            },
+            {
+                "card_id": "10621",
+                "card_name": {
+                    "english": "Knife of the Sisterhood"
+                }
+            },
+            {
+                "card_id": "10622",
+                "card_name": {
+                    "english": "Demolishing Warhammer"
+                }
+            },
+            {
+                "card_id": "10623",
+                "card_name": {
+                    "english": "Main Gauche"
+                }
+            },
+            {
+                "card_id": "10624",
+                "card_name": {
+                    "english": "Rumusque Scythe"
+                }
+            },
+            {
+                "card_id": "10625",
+                "card_name": {
+                    "english": "Mortred's Dagger"
+                }
+            },
+            {
+                "card_id": "10626",
+                "card_name": {
+                    "english": "Healing Blade"
+                }
+            },
+            {
+                "card_id": "10627",
+                "card_name": {
+                    "english": "Warhorn"
+                }
+            },
+            {
+                "card_id": "10628",
+                "card_name": {
+                    "english": "Crown of the Undying"
+                }
+            },
+            {
+                "card_id": "10629",
+                "card_name": {
+                    "english": "Artificer's Mail"
+                }
+            },
+            {
+                "card_id": "10640",
+                "card_name": {
+                    "english": "Artificer's Mail"
+                }
+            },
+            {
+                "card_id": "10641",
+                "card_name": {
+                    "english": "Animated Armor"
+                }
+            },
+            {
+                "card_id": "10630",
+                "card_name": {
+                    "english": "Infernal Amulet"
+                }
+            },
+            {
+                "card_id": "10631",
+                "card_name": {
+                    "english": "Revtel Mercenary Contract"
+                }
+            },
+            {
+                "card_id": "10642",
+                "card_name": {
+                    "english": "Revtel Mercenary"
+                }
+            },
+            {
+                "card_id": "10634",
+                "card_name": {
+                    "english": "Robes of the Envoy"
+                }
+            },
+            {
+                "card_id": "10644",
+                "card_name": {
+                    "english": "Robes of the Envoy"
+                }
+            },
+            {
+                "card_id": "10635",
+                "card_name": {
+                    "english": "Midas Greaves"
+                }
+            },
+            {
+                "card_id": "10646",
+                "card_name": {
+                    "english": "Anti-Mage"
+                }
+            },
+            {
+                "card_id": "10647",
+                "card_name": {
+                    "english": "Blink Strike"
+                }
+            },
+            {
+                "card_id": "10648",
+                "card_name": {
+                    "english": "Mana Void"
+                }
+            },
+            {
+                "card_id": "10649",
+                "card_name": {
+                    "english": "Death Prophet"
+                }
+            },
+            {
+                "card_id": "10650",
+                "card_name": {
+                    "english": "Spirit Siphon"
+                }
+            },
+            {
+                "card_id": "10651",
+                "card_name": {
+                    "english": "Exorcism"
+                }
+            },
+            {
+                "card_id": "10652",
+                "card_name": {
+                    "english": "Lady Anshu"
+                }
+            },
+            {
+                "card_id": "10653",
+                "card_name": {
+                    "english": "Devoted Disciple"
+                }
+            },
+            {
+                "card_id": "10654",
+                "card_name": {
+                    "english": "Hymn of St. Crella"
+                }
+            },
+            {
+                "card_id": "10655",
+                "card_name": {
+                    "english": "Mirana"
+                }
+            },
+            {
+                "card_id": "10656",
+                "card_name": {
+                    "english": "Leap"
+                }
+            },
+            {
+                "card_id": "10657",
+                "card_name": {
+                    "english": "Sacred Arrow"
+                }
+            },
+            {
+                "card_id": "10658",
+                "card_name": {
+                    "english": "Pierpont"
+                }
+            },
+            {
+                "card_id": "10659",
+                "card_name": {
+                    "english": "Inspect"
+                }
+            },
+            {
+                "card_id": "10660",
+                "card_name": {
+                    "english": "Archon Investigation"
+                }
+            },
+            {
+                "card_id": "10662",
+                "card_name": {
+                    "english": "Sapphire Archon"
+                }
+            },
+            {
+                "card_id": "10663",
+                "card_name": {
+                    "english": "Rix, Oathbound"
+                }
+            },
+            {
+                "card_id": "10664",
+                "card_name": {
+                    "english": "Assault"
+                }
+            },
+            {
+                "card_id": "10665",
+                "card_name": {
+                    "english": "Oathed"
+                }
+            },
+            {
+                "card_id": "10666",
+                "card_name": {
+                    "english": "The Twisted Path"
+                }
+            },
+            {
+                "card_id": "10667",
+                "card_name": {
+                    "english": "The Twisted Path"
+                }
+            },
+            {
+                "card_id": "10668",
+                "card_name": {
+                    "english": "Rubick"
+                }
+            },
+            {
+                "card_id": "10669",
+                "card_name": {
+                    "english": "Telekinesis"
+                }
+            },
+            {
+                "card_id": "10670",
+                "card_name": {
+                    "english": "Spell Steal"
+                }
+            },
+            {
+                "card_id": "10671",
+                "card_name": {
+                    "english": "Shadow Fiend"
+                }
+            },
+            {
+                "card_id": "10819",
+                "card_name": {
+                    "english": "Necromastery"
+                }
+            },
+            {
+                "card_id": "10672",
+                "card_name": {
+                    "english": "Requiem of Souls"
+                }
+            },
+            {
+                "card_id": "10673",
+                "card_name": {
+                    "english": "Presence of the Dark Lord"
+                }
+            },
+            {
+                "card_id": "10674",
+                "card_name": {
+                    "english": "Tusk"
+                }
+            },
+            {
+                "card_id": "10675",
+                "card_name": {
+                    "english": "Walrus Punch"
+                }
+            },
+            {
+                "card_id": "10676",
+                "card_name": {
+                    "english": "Ice Shards"
+                }
+            },
+            {
+                "card_id": "10677",
+                "card_name": {
+                    "english": "Ice Shard"
+                }
+            },
+            {
+                "card_id": "10678",
+                "card_name": {
+                    "english": "Underlord"
+                }
+            },
+            {
+                "card_id": "10679",
+                "card_name": {
+                    "english": "Dark Rift"
+                }
+            },
+            {
+                "card_id": "10700",
+                "card_name": {
+                    "english": "Atrophy Aura"
+                }
+            },
+            {
+                "card_id": "10701",
+                "card_name": {
+                    "english": "Vanessa"
+                }
+            },
+            {
+                "card_id": "10702",
+                "card_name": {
+                    "english": "Versatile Occultist"
+                }
+            },
+            {
+                "card_id": "10703",
+                "card_name": {
+                    "english": "Void Theft"
+                }
+            },
+            {
+                "card_id": "10704",
+                "card_name": {
+                    "english": "Dazzle"
+                }
+            },
+            {
+                "card_id": "10705",
+                "card_name": {
+                    "english": "Shadow Wave"
+                }
+            },
+            {
+                "card_id": "10706",
+                "card_name": {
+                    "english": "Weave"
+                }
+            },
+            {
+                "card_id": "10708",
+                "card_name": {
+                    "english": "Agent of Claszureme"
+                }
+            },
+            {
+                "card_id": "10709",
+                "card_name": {
+                    "english": "Spirit Swordsman"
+                }
+            },
+            {
+                "card_id": "10710",
+                "card_name": {
+                    "english": "Enemy Of My Enemy"
+                }
+            },
+            {
+                "card_id": "10711",
+                "card_name": {
+                    "english": "Into the Fray"
+                }
+            },
+            {
+                "card_id": "10712",
+                "card_name": {
+                    "english": "Stonehall Armory"
+                }
+            },
+            {
+                "card_id": "10713",
+                "card_name": {
+                    "english": "Team Fight"
+                }
+            },
+            {
+                "card_id": "10714",
+                "card_name": {
+                    "english": "Rumusque Redeemer"
+                }
+            },
+            {
+                "card_id": "10715",
+                "card_name": {
+                    "english": "Fist of the Allseeing One"
+                }
+            },
+            {
+                "card_id": "10721",
+                "card_name": {
+                    "english": "Phantom Lancer"
+                }
+            },
+            {
+                "card_id": "10722",
+                "card_name": {
+                    "english": "Juxtapose"
+                }
+            },
+            {
+                "card_id": "10723",
+                "card_name": {
+                    "english": "Lancer Illusion"
+                }
+            },
+            {
+                "card_id": "10724",
+                "card_name": {
+                    "english": "JuxtaposeOld"
+                }
+            },
+            {
+                "card_id": "11050",
+                "card_name": {
+                    "english": "Phantom Rush"
+                }
+            },
+            {
+                "card_id": "10727",
+                "card_name": {
+                    "english": "Orchid"
+                }
+            },
+            {
+                "card_id": "10728",
+                "card_name": {
+                    "english": "Orchid"
+                }
+            },
+            {
+                "card_id": "10716",
+                "card_name": {
+                    "english": "Abyssm Flesh Render"
+                }
+            },
+            {
+                "card_id": "10717",
+                "card_name": {
+                    "english": "Horde Stryder"
+                }
+            },
+            {
+                "card_id": "10718",
+                "card_name": {
+                    "english": "Horde Stryder"
+                }
+            },
+            {
+                "card_id": "10719",
+                "card_name": {
+                    "english": "Insidious Plot"
+                }
+            },
+            {
+                "card_id": "10720",
+                "card_name": {
+                    "english": "Destroyed from Within"
+                }
+            },
+            {
+                "card_id": "10729",
+                "card_name": {
+                    "english": "Red Mist Grunt"
+                }
+            },
+            {
+                "card_id": "10730",
+                "card_name": {
+                    "english": "Imperia"
+                }
+            },
+            {
+                "card_id": "10731",
+                "card_name": {
+                    "english": "Skullduggery"
+                }
+            },
+            {
+                "card_id": "10732",
+                "card_name": {
+                    "english": "Conspiracy of Ravens"
+                }
+            },
+            {
+                "card_id": "10733",
+                "card_name": {
+                    "english": "Noxious Bloat-rat"
+                }
+            },
+            {
+                "card_id": "10734",
+                "card_name": {
+                    "english": "Acolyte of the Forbidden Gate"
+                }
+            },
+            {
+                "card_id": "10735",
+                "card_name": {
+                    "english": "Eidolon"
+                }
+            },
+            {
+                "card_id": "10736",
+                "card_name": {
+                    "english": "Wild Boar"
+                }
+            },
+            {
+                "card_id": "10738",
+                "card_name": {
+                    "english": "Marrowfell Longspear"
+                }
+            },
+            {
+                "card_id": "10739",
+                "card_name": {
+                    "english": "Hellbear Smasher"
+                }
+            },
+            {
+                "card_id": "10740",
+                "card_name": {
+                    "english": "Pretty Big Spider"
+                }
+            },
+            {
+                "card_id": "10741",
+                "card_name": {
+                    "english": "Stone Bulwark"
+                }
+            },
+            {
+                "card_id": "10742",
+                "card_name": {
+                    "english": "Petrify"
+                }
+            },
+            {
+                "card_id": "10743",
+                "card_name": {
+                    "english": "Quicksap Sproutling"
+                }
+            },
+            {
+                "card_id": "10744",
+                "card_name": {
+                    "english": "Fey Wayfinder"
+                }
+            },
+            {
+                "card_id": "10745",
+                "card_name": {
+                    "english": "Lashvine Creeper"
+                }
+            },
+            {
+                "card_id": "10746",
+                "card_name": {
+                    "english": "Overgrowther"
+                }
+            },
+            {
+                "card_id": "10747",
+                "card_name": {
+                    "english": "Moonglade Fusilier"
+                }
+            },
+            {
+                "card_id": "10545",
+                "card_name": {
+                    "english": "Moonglade Fusilier"
+                }
+            },
+            {
+                "card_id": "10748",
+                "card_name": {
+                    "english": "Doppelganger"
+                }
+            },
+            {
+                "card_id": "10749",
+                "card_name": {
+                    "english": "Spirit of Desolation"
+                }
+            },
+            {
+                "card_id": "10750",
+                "card_name": {
+                    "english": "Morphling Whelp"
+                }
+            },
+            {
+                "card_id": "10751",
+                "card_name": {
+                    "english": "Resonant Construct"
+                }
+            },
+            {
+                "card_id": "10752",
+                "card_name": {
+                    "english": "Claddish Archivist"
+                }
+            },
+            {
+                "card_id": "10762",
+                "card_name": {
+                    "english": "Claddish Archivist"
+                }
+            },
+            {
+                "card_id": "10753",
+                "card_name": {
+                    "english": "Defenestrating Ogre"
+                }
+            },
+            {
+                "card_id": "10754",
+                "card_name": {
+                    "english": "Maelrawn Pupate"
+                }
+            },
+            {
+                "card_id": "10758",
+                "card_name": {
+                    "english": "Spawn of Maelrawn"
+                }
+            },
+            {
+                "card_id": "10755",
+                "card_name": {
+                    "english": "Outworld Devourer"
+                }
+            },
+            {
+                "card_id": "10756",
+                "card_name": {
+                    "english": "Arcane Flux"
+                }
+            },
+            {
+                "card_id": "10757",
+                "card_name": {
+                    "english": "Astral Imprisonment"
+                }
+            },
+            {
+                "card_id": "10759",
+                "card_name": {
+                    "english": "Arclight Elemental"
+                }
+            },
+            {
+                "card_id": "10760",
+                "card_name": {
+                    "english": "Arclight Elemental"
+                }
+            },
+            {
+                "card_id": "10761",
+                "card_name": {
+                    "english": "Arc Remnant"
+                }
+            },
+            {
+                "card_id": "10764",
+                "card_name": {
+                    "english": "Battlefield Promotion"
+                }
+            },
+            {
+                "card_id": "10765",
+                "card_name": {
+                    "english": "Unbreakable Column"
+                }
+            },
+            {
+                "card_id": "10766",
+                "card_name": {
+                    "english": "Throw Down"
+                }
+            },
+            {
+                "card_id": "10767",
+                "card_name": {
+                    "english": "Veteran's Insight"
+                }
+            },
+            {
+                "card_id": "10768",
+                "card_name": {
+                    "english": "Punch it!"
+                }
+            },
+            {
+                "card_id": "10769",
+                "card_name": {
+                    "english": "Overpower2"
+                }
+            },
+            {
+                "card_id": "10770",
+                "card_name": {
+                    "english": "Spriggan Mischief"
+                }
+            },
+            {
+                "card_id": "10771",
+                "card_name": {
+                    "english": "Lost Woods"
+                }
+            },
+            {
+                "card_id": "10772",
+                "card_name": {
+                    "english": "Ironwood Heart"
+                }
+            },
+            {
+                "card_id": "10773",
+                "card_name": {
+                    "english": "Leech Seed"
+                }
+            },
+            {
+                "card_id": "10774",
+                "card_name": {
+                    "english": "Relentless Pursuit"
+                }
+            },
+            {
+                "card_id": "10775",
+                "card_name": {
+                    "english": "Path of the Cunning"
+                }
+            },
+            {
+                "card_id": "10776",
+                "card_name": {
+                    "english": "Path of the Wise"
+                }
+            },
+            {
+                "card_id": "10777",
+                "card_name": {
+                    "english": "Path of the Dreamer"
+                }
+            },
+            {
+                "card_id": "10778",
+                "card_name": {
+                    "english": "Path of the Bold"
+                }
+            },
+            {
+                "card_id": "10779",
+                "card_name": {
+                    "english": "Rebel Rabble Rouser"
+                }
+            },
+            {
+                "card_id": "10780",
+                "card_name": {
+                    "english": "Revtel Signet Ring"
+                }
+            },
+            {
+                "card_id": "10781",
+                "card_name": {
+                    "english": "Hero's Cape"
+                }
+            },
+            {
+                "card_id": "10782",
+                "card_name": {
+                    "english": "Claszureme Hourglass"
+                }
+            },
+            {
+                "card_id": "10783",
+                "card_name": {
+                    "english": "Bounty Hunter"
+                }
+            },
+            {
+                "card_id": "10784",
+                "card_name": {
+                    "english": "Track"
+                }
+            },
+            {
+                "card_id": "10785",
+                "card_name": {
+                    "english": "Shadow Walk"
+                }
+            },
+            {
+                "card_id": "10786",
+                "card_name": {
+                    "english": "Venomancer"
+                }
+            },
+            {
+                "card_id": "10787",
+                "card_name": {
+                    "english": "Venomous Nature"
+                }
+            },
+            {
+                "card_id": "10788",
+                "card_name": {
+                    "english": "Sow Venom"
+                }
+            },
+            {
+                "card_id": "10789",
+                "card_name": {
+                    "english": "Plague Ward"
+                }
+            },
+            {
+                "card_id": "10790",
+                "card_name": {
+                    "english": "Sorla Khan's Spear"
+                }
+            },
+            {
+                "card_id": "10792",
+                "card_name": {
+                    "english": "Spot Weakness"
+                }
+            },
+            {
+                "card_id": "10793",
+                "card_name": {
+                    "english": "Jasper Daggers"
+                }
+            },
+            {
+                "card_id": "10794",
+                "card_name": {
+                    "english": "Possessed Blade"
+                }
+            },
+            {
+                "card_id": "10795",
+                "card_name": {
+                    "english": "Spirit of St. Crella"
+                }
+            },
+            {
+                "card_id": "10796",
+                "card_name": {
+                    "english": "Sonic Bubble"
+                }
+            },
+            {
+                "card_id": "10797",
+                "card_name": {
+                    "english": "Mana Short"
+                }
+            },
+            {
+                "card_id": "10798",
+                "card_name": {
+                    "english": "Body Modifications"
+                }
+            },
+            {
+                "card_id": "10799",
+                "card_name": {
+                    "english": "Wild Magic"
+                }
+            },
+            {
+                "card_id": "10800",
+                "card_name": {
+                    "english": "Essence Font"
+                }
+            },
+            {
+                "card_id": "10801",
+                "card_name": {
+                    "english": "Killer Instinct"
+                }
+            },
+            {
+                "card_id": "10802",
+                "card_name": {
+                    "english": "Sapper"
+                }
+            },
+            {
+                "card_id": "10803",
+                "card_name": {
+                    "english": "A Thousand Cuts"
+                }
+            },
+            {
+                "card_id": "10804",
+                "card_name": {
+                    "english": "Knives in the Dark"
+                }
+            },
+            {
+                "card_id": "10805",
+                "card_name": {
+                    "english": "Objective Vision"
+                }
+            },
+            {
+                "card_id": "10806",
+                "card_name": {
+                    "english": "Ramp Bolt"
+                }
+            },
+            {
+                "card_id": "10807",
+                "card_name": {
+                    "english": "Psychic Surgery"
+                }
+            },
+            {
+                "card_id": "10809",
+                "card_name": {
+                    "english": "Incarnation of Selemene"
+                }
+            },
+            {
+                "card_id": "10810",
+                "card_name": {
+                    "english": "The Oath"
+                }
+            },
+            {
+                "card_id": "10817",
+                "card_name": {
+                    "english": "Battle Hunger"
+                }
+            },
+            {
+                "card_id": "10818",
+                "card_name": {
+                    "english": "Death Pulse"
+                }
+            },
+            {
+                "card_id": "10820",
+                "card_name": {
+                    "english": "Static Remnant"
+                }
+            },
+            {
+                "card_id": "10821",
+                "card_name": {
+                    "english": "Life Drain"
+                }
+            },
+            {
+                "card_id": "10822",
+                "card_name": {
+                    "english": "Transmuted Weapon"
+                }
+            },
+            {
+                "card_id": "10823",
+                "card_name": {
+                    "english": "Squirmified-Straps"
+                }
+            },
+            {
+                "card_id": "10824",
+                "card_name": {
+                    "english": "Malchanted Mango"
+                }
+            },
+            {
+                "card_id": "10906",
+                "card_name": {
+                    "english": "Kanna"
+                }
+            },
+            {
+                "card_id": "10907",
+                "card_name": {
+                    "english": "Bringer of Conquest"
+                }
+            },
+            {
+                "card_id": "10910",
+                "card_name": {
+                    "english": "Prey on the Weak"
+                }
+            },
+            {
+                "card_id": "10908",
+                "card_name": {
+                    "english": "Diabolic Conclusion"
+                }
+            },
+            {
+                "card_id": "10909",
+                "card_name": {
+                    "english": "Hound of War"
+                }
+            },
+            {
+                "card_id": "10928",
+                "card_name": {
+                    "english": "Force Staff"
+                }
+            },
+            {
+                "card_id": "10929",
+                "card_name": {
+                    "english": "Force Staff"
+                }
+            },
+            {
+                "card_id": "10930",
+                "card_name": {
+                    "english": "Sheep Stick"
+                }
+            },
+            {
+                "card_id": "10931",
+                "card_name": {
+                    "english": "Sheep Stick"
+                }
+            },
+            {
+                "card_id": "10932",
+                "card_name": {
+                    "english": "Sheep"
+                }
+            },
+            {
+                "card_id": "10935",
+                "card_name": {
+                    "english": "Terrapin Channeler"
+                }
+            },
+            {
+                "card_id": "10969",
+                "card_name": {
+                    "english": "Terrapin Placeholder"
+                }
+            },
+            {
+                "card_id": "10936",
+                "card_name": {
+                    "english": "Roused Rabble"
+                }
+            },
+            {
+                "card_id": "10937",
+                "card_name": {
+                    "english": "Sand King"
+                }
+            },
+            {
+                "card_id": "10938",
+                "card_name": {
+                    "english": "Sandstorm"
+                }
+            },
+            {
+                "card_id": "10939",
+                "card_name": {
+                    "english": "Burrowstrike"
+                }
+            },
+            {
+                "card_id": "10940",
+                "card_name": {
+                    "english": "Tiny"
+                }
+            },
+            {
+                "card_id": "10941",
+                "card_name": {
+                    "english": "Grow"
+                }
+            },
+            {
+                "card_id": "10942",
+                "card_name": {
+                    "english": "Toss"
+                }
+            },
+            {
+                "card_id": "10053",
+                "card_name": {
+                    "english": "Prellex"
+                }
+            },
+            {
+                "card_id": "10523",
+                "card_name": {
+                    "english": "Gather the Faithful"
+                }
+            },
+            {
+                "card_id": "10055",
+                "card_name": {
+                    "english": "Barracks"
+                }
+            },
+            {
+                "card_id": "10990",
+                "card_name": {
+                    "english": "Mega Creep"
+                }
+            },
+            {
+                "card_id": "10943",
+                "card_name": {
+                    "english": "Ring of Basilius"
+                }
+            },
+            {
+                "card_id": "10944",
+                "card_name": {
+                    "english": "Necronomicon"
+                }
+            },
+            {
+                "card_id": "10955",
+                "card_name": {
+                    "english": "Demonic Archer"
+                }
+            },
+            {
+                "card_id": "10956",
+                "card_name": {
+                    "english": "Snarling Harpy"
+                }
+            },
+            {
+                "card_id": "10957",
+                "card_name": {
+                    "english": "Screeching Harpy"
+                }
+            },
+            {
+                "card_id": "10958",
+                "card_name": {
+                    "english": "Thieving Greevil"
+                }
+            },
+            {
+                "card_id": "10959",
+                "card_name": {
+                    "english": "Gaseous Greevil"
+                }
+            },
+            {
+                "card_id": "10960",
+                "card_name": {
+                    "english": "Greevil Bronco"
+                }
+            },
+            {
+                "card_id": "10961",
+                "card_name": {
+                    "english": "Greevil Eggtender"
+                }
+            },
+            {
+                "card_id": "10962",
+                "card_name": {
+                    "english": "Spirited Greevil"
+                }
+            },
+            {
+                "card_id": "10963",
+                "card_name": {
+                    "english": "Sticky Greevil"
+                }
+            },
+            {
+                "card_id": "10964",
+                "card_name": {
+                    "english": "Spitting Greevil"
+                }
+            },
+            {
+                "card_id": "10965",
+                "card_name": {
+                    "english": "Determined Greevil"
+                }
+            },
+            {
+                "card_id": "10966",
+                "card_name": {
+                    "english": "Naked Greevil"
+                }
+            },
+            {
+                "card_id": "10967",
+                "card_name": {
+                    "english": "Greevil Egg"
+                }
+            },
+            {
+                "card_id": "10968",
+                "card_name": {
+                    "english": "Legion Recruiter"
+                }
+            },
+            {
+                "card_id": "10970",
+                "card_name": {
+                    "english": "Parade Veteran"
+                }
+            },
+            {
+                "card_id": "10971",
+                "card_name": {
+                    "english": "Stonehall Keep Breaker"
+                }
+            },
+            {
+                "card_id": "10972",
+                "card_name": {
+                    "english": "Legion Consul"
+                }
+            },
+            {
+                "card_id": "10973",
+                "card_name": {
+                    "english": "Imperial Herald"
+                }
+            },
+            {
+                "card_id": "10974",
+                "card_name": {
+                    "english": "Beyond the Veil"
+                }
+            },
+            {
+                "card_id": "10980",
+                "card_name": {
+                    "english": "Rock"
+                }
+            },
+            {
+                "card_id": "10982",
+                "card_name": {
+                    "english": "Dragon Knight"
+                }
+            },
+            {
+                "card_id": "10983",
+                "card_name": {
+                    "english": "Dragon Blood"
+                }
+            },
+            {
+                "card_id": "10984",
+                "card_name": {
+                    "english": "Dragon Form"
+                }
+            },
+            {
+                "card_id": "11033",
+                "card_name": {
+                    "english": "Dragon Tail"
+                }
+            },
+            {
+                "card_id": "10987",
+                "card_name": {
+                    "english": "Dragon"
+                }
+            },
+            {
+                "card_id": "11052",
+                "card_name": {
+                    "english": "Corrosive Breath"
+                }
+            },
+            {
+                "card_id": "10991",
+                "card_name": {
+                    "english": "Wraith King"
+                }
+            },
+            {
+                "card_id": "10992",
+                "card_name": {
+                    "english": "Reincarnation"
+                }
+            },
+            {
+                "card_id": "10993",
+                "card_name": {
+                    "english": "Wraithfire Blast"
+                }
+            },
+            {
+                "card_id": "11000",
+                "card_name": {
+                    "english": "Farvhan the Dreamer"
+                }
+            },
+            {
+                "card_id": "11001",
+                "card_name": {
+                    "english": "Pack Leader"
+                }
+            },
+            {
+                "card_id": "11002",
+                "card_name": {
+                    "english": "Prowler Vanguard"
+                }
+            },
+            {
+                "card_id": "11003",
+                "card_name": {
+                    "english": "Keefe the Bold"
+                }
+            },
+            {
+                "card_id": "11004",
+                "card_name": {
+                    "english": "Reckless Charge"
+                }
+            },
+            {
+                "card_id": "11005",
+                "card_name": {
+                    "english": "Debbi the Cunning"
+                }
+            },
+            {
+                "card_id": "11006",
+                "card_name": {
+                    "english": "Scrapper"
+                }
+            },
+            {
+                "card_id": "11007",
+                "card_name": {
+                    "english": "No Accident"
+                }
+            },
+            {
+                "card_id": "11008",
+                "card_name": {
+                    "english": "J'Muy the Wise"
+                }
+            },
+            {
+                "card_id": "11009",
+                "card_name": {
+                    "english": "Wisdom of the Elders"
+                }
+            },
+            {
+                "card_id": "11010",
+                "card_name": {
+                    "english": "Runic Instigation"
+                }
+            },
+            {
+                "card_id": "11011",
+                "card_name": {
+                    "english": "Stop Hittin' Yourself"
+                }
+            },
+            {
+                "card_id": "11012",
+                "card_name": {
+                    "english": "Quill Spray"
+                }
+            },
+            {
+                "card_id": "11013",
+                "card_name": {
+                    "english": "Mjolnir"
+                }
+            },
+            {
+                "card_id": "11014",
+                "card_name": {
+                    "english": "Silver Edge"
+                }
+            },
+            {
+                "card_id": "11015",
+                "card_name": {
+                    "english": "Nullifier"
+                }
+            },
+            {
+                "card_id": "11053",
+                "card_name": {
+                    "english": "Nullifier"
+                }
+            },
+            {
+                "card_id": "11016",
+                "card_name": {
+                    "english": "Guardian Greaves"
+                }
+            },
+            {
+                "card_id": "11017",
+                "card_name": {
+                    "english": "Vladmir's Offering"
+                }
+            },
+            {
+                "card_id": "11018",
+                "card_name": {
+                    "english": "Spirit Vessel"
+                }
+            },
+            {
+                "card_id": "11019",
+                "card_name": {
+                    "english": "Holy Locket"
+                }
+            },
+            {
+                "card_id": "11020",
+                "card_name": {
+                    "english": "Radiance"
+                }
+            },
+            {
+                "card_id": "11021",
+                "card_name": {
+                    "english": "Darkblight Shield"
+                }
+            },
+            {
+                "card_id": "11022",
+                "card_name": {
+                    "english": "Refresher Orb"
+                }
+            },
+            {
+                "card_id": "11023",
+                "card_name": {
+                    "english": "Dagon"
+                }
+            },
+            {
+                "card_id": "11024",
+                "card_name": {
+                    "english": "Silver Edge"
+                }
+            },
+            {
+                "card_id": "11025",
+                "card_name": {
+                    "english": "Guardian Greaves"
+                }
+            },
+            {
+                "card_id": "11026",
+                "card_name": {
+                    "english": "Spirit Vessel"
+                }
+            },
+            {
+                "card_id": "11027",
+                "card_name": {
+                    "english": "Refresher Orb"
+                }
+            },
+            {
+                "card_id": "11028",
+                "card_name": {
+                    "english": "Dagon"
+                }
+            },
+            {
+                "card_id": "11029",
+                "card_name": {
+                    "english": "Vanguard"
+                }
+            },
+            {
+                "card_id": "11030",
+                "card_name": {
+                    "english": "Gem of Truesight"
+                }
+            },
+            {
+                "card_id": "11031",
+                "card_name": {
+                    "english": "Ghost Scepter"
+                }
+            },
+            {
+                "card_id": "11032",
+                "card_name": {
+                    "english": "Ghost Scepter"
+                }
+            },
+            {
+                "card_id": "11034",
+                "card_name": {
+                    "english": "Leading from Behind"
+                }
+            },
+            {
+                "card_id": "11035",
+                "card_name": {
+                    "english": "Mana Break"
+                }
+            },
+            {
+                "card_id": "10028",
+                "card_name": {
+                    "english": "Viper"
+                }
+            },
+            {
+                "card_id": "11036",
+                "card_name": {
+                    "english": "Poison Attack"
+                }
+            },
+            {
+                "card_id": "10294",
+                "card_name": {
+                    "english": "Nethertoxin"
+                }
+            },
+            {
+                "card_id": "11037",
+                "card_name": {
+                    "english": "Rod of Atos"
+                }
+            },
+            {
+                "card_id": "11038",
+                "card_name": {
+                    "english": "Rod of Atos"
+                }
+            },
+            {
+                "card_id": "11039",
+                "card_name": {
+                    "english": "Troll Warlord"
+                }
+            },
+            {
+                "card_id": "11040",
+                "card_name": {
+                    "english": "Fervor"
+                }
+            },
+            {
+                "card_id": "11041",
+                "card_name": {
+                    "english": "Battle Trance"
+                }
+            },
+            {
+                "card_id": "11042",
+                "card_name": {
+                    "english": "Reaper's Scythe"
+                }
+            },
+            {
+                "card_id": "11043",
+                "card_name": {
+                    "english": "Courier"
+                }
+            },
+            {
+                "card_id": "11044",
+                "card_name": {
+                    "english": "Root Boots"
+                }
+            },
+            {
+                "card_id": "11045",
+                "card_name": {
+                    "english": "Stonehall Paragon"
+                }
+            },
+            {
+                "card_id": "11046",
+                "card_name": {
+                    "english": "Arc Warden"
+                }
+            },
+            {
+                "card_id": "11047",
+                "card_name": {
+                    "english": "Tempest Double"
+                }
+            },
+            {
+                "card_id": "11048",
+                "card_name": {
+                    "english": "The Double"
+                }
+            },
+            {
+                "card_id": "11049",
+                "card_name": {
+                    "english": "Spark Wraith"
+                }
+            },
+            {
+                "card_id": "11054",
+                "card_name": {
+                    "english": "Shattered Terrapin"
+                }
+            },
+            {
+                "card_id": "11055",
+                "card_name": {
+                    "english": "Terrapin Greatshell"
+                }
+            },
+            {
+                "card_id": "11056",
+                "card_name": {
+                    "english": "Nyx Assassin"
+                }
+            },
+            {
+                "card_id": "11057",
+                "card_name": {
+                    "english": "Vendetta"
+                }
+            },
+            {
+                "card_id": "11058",
+                "card_name": {
+                    "english": "Spiked Carapace"
+                }
+            },
+            {
+                "card_id": "19000",
+                "card_name": {
+                    "english": "I Deploy Every Turn"
+                }
+            },
+            {
+                "card_id": "19001",
+                "card_name": {
+                    "english": "Easy Win"
+                }
+            },
+            {
+                "card_id": "19002",
+                "card_name": {
+                    "english": "No Shopping"
+                }
+            },
+            {
+                "card_id": "19003",
+                "card_name": {
+                    "english": "Global Retaliation"
+                }
+            },
+            {
+                "card_id": "19004",
+                "card_name": {
+                    "english": "Bronze Legion Invasion of Roseleaf"
+                }
+            },
+            {
+                "card_id": "19005",
+                "card_name": {
+                    "english": "Red Mist Invasion of Roseleaf"
+                }
+            },
+            {
+                "card_id": "19006",
+                "card_name": {
+                    "english": "My Towers Are Invulnerable"
+                }
+            },
+            {
+                "card_id": "19007",
+                "card_name": {
+                    "english": "The Hunger"
+                }
+            },
+            {
+                "card_id": "19008",
+                "card_name": {
+                    "english": "The Hunger Towers 1"
+                }
+            },
+            {
+                "card_id": "19009",
+                "card_name": {
+                    "english": "The Hunger Towers 2"
+                }
+            },
+            {
+                "card_id": "19010",
+                "card_name": {
+                    "english": "The Hunger Towers 3"
+                }
+            },
+            {
+                "card_id": "19011",
+                "card_name": {
+                    "english": "The Hunger Towers 4"
+                }
+            },
+            {
+                "card_id": "10825",
+                "card_name": {
+                    "english": "Quoidgic Outreach Coordinator"
+                }
+            },
+            {
+                "card_id": "10826",
+                "card_name": {
+                    "english": "Let's Keep Moving"
+                }
+            },
+            {
+                "card_id": "10827",
+                "card_name": {
+                    "english": "Quoidgic Hospitality"
+                }
+            },
+            {
+                "card_id": "10828",
+                "card_name": {
+                    "english": "Merjuun the Gibbering"
+                }
+            },
+            {
+                "card_id": "10868",
+                "card_name": {
+                    "english": "Marrow Rust"
+                }
+            },
+            {
+                "card_id": "10829",
+                "card_name": {
+                    "english": "Living Shadow of Carter St."
+                }
+            },
+            {
+                "card_id": "10864",
+                "card_name": {
+                    "english": "Infectious Blight"
+                }
+            },
+            {
+                "card_id": "10830",
+                "card_name": {
+                    "english": "Bodega Wraith"
+                }
+            },
+            {
+                "card_id": "10865",
+                "card_name": {
+                    "english": "You Are The Product"
+                }
+            },
+            {
+                "card_id": "10831",
+                "card_name": {
+                    "english": "Sewer Phantom"
+                }
+            },
+            {
+                "card_id": "10866",
+                "card_name": {
+                    "english": "Sewer Phantom Power"
+                }
+            },
+            {
+                "card_id": "10862",
+                "card_name": {
+                    "english": "Accumulated Pigeon Rage"
+                }
+            },
+            {
+                "card_id": "10867",
+                "card_name": {
+                    "english": "Pigeon Rage Power"
+                }
+            },
+            {
+                "card_id": "10870",
+                "card_name": {
+                    "english": "Helpful Treant Tourist"
+                }
+            },
+            {
+                "card_id": "10871",
+                "card_name": {
+                    "english": "Calming Vines"
+                }
+            },
+            {
+                "card_id": "10872",
+                "card_name": {
+                    "english": "Djinni Tourist"
+                }
+            },
+            {
+                "card_id": "10873",
+                "card_name": {
+                    "english": "Djinni Power"
+                }
+            },
+            {
+                "card_id": "10874",
+                "card_name": {
+                    "english": "Disguised Lady Anshu"
+                }
+            },
+            {
+                "card_id": "10875",
+                "card_name": {
+                    "english": "Golem Tourist"
+                }
+            },
+            {
+                "card_id": "10876",
+                "card_name": {
+                    "english": "Golem Power"
+                }
+            },
+            {
+                "card_id": "10832",
+                "card_name": {
+                    "english": "Pigeon"
+                }
+            },
+            {
+                "card_id": "10833",
+                "card_name": {
+                    "english": "Pigeon Ghost"
+                }
+            },
+            {
+                "card_id": "10860",
+                "card_name": {
+                    "english": "Children of Necrophos"
+                }
+            },
+            {
+                "card_id": "10861",
+                "card_name": {
+                    "english": "Caustic Insight"
+                }
+            },
+            {
+                "card_id": "10863",
+                "card_name": {
+                    "english": "Citizen of Quoidge"
+                }
+            },
+            {
+                "card_id": "10835",
+                "card_name": {
+                    "english": "Plague-Ridden Wolf"
+                }
+            },
+            {
+                "card_id": "10836",
+                "card_name": {
+                    "english": "Infectious Bite"
+                }
+            },
+            {
+                "card_id": "10837",
+                "card_name": {
+                    "english": "Gelatinous Vapor"
+                }
+            },
+            {
+                "card_id": "10838",
+                "card_name": {
+                    "english": "Pneumonic Spray"
+                }
+            },
+            {
+                "card_id": "10839",
+                "card_name": {
+                    "english": "Sentient Pustule"
+                }
+            },
+            {
+                "card_id": "10840",
+                "card_name": {
+                    "english": "Burst"
+                }
+            },
+            {
+                "card_id": "10841",
+                "card_name": {
+                    "english": "Tortured Soul"
+                }
+            },
+            {
+                "card_id": "10842",
+                "card_name": {
+                    "english": "Rix, Legionnaire"
+                }
+            },
+            {
+                "card_id": "10843",
+                "card_name": {
+                    "english": "Kinetic Diplomacy"
+                }
+            },
+            {
+                "card_id": "10844",
+                "card_name": {
+                    "english": "Scout Ertun"
+                }
+            },
+            {
+                "card_id": "10845",
+                "card_name": {
+                    "english": "Scout Qamis"
+                }
+            },
+            {
+                "card_id": "10846",
+                "card_name": {
+                    "english": "Scout Ur Maq"
+                }
+            },
+            {
+                "card_id": "10852",
+                "card_name": {
+                    "english": "Marcus"
+                }
+            },
+            {
+                "card_id": "10853",
+                "card_name": {
+                    "english": "Out of Earshot"
+                }
+            },
+            {
+                "card_id": "10854",
+                "card_name": {
+                    "english": "Behold my Glory"
+                }
+            },
+            {
+                "card_id": "10855",
+                "card_name": {
+                    "english": "Vhoul Conscript"
+                }
+            },
+            {
+                "card_id": "10856",
+                "card_name": {
+                    "english": "Alcur"
+                }
+            },
+            {
+                "card_id": "10857",
+                "card_name": {
+                    "english": "Meet the Moment"
+                }
+            },
+            {
+                "card_id": "10858",
+                "card_name": {
+                    "english": "Fight For Roseleaf"
+                }
+            },
+            {
+                "card_id": "10859",
+                "card_name": {
+                    "english": "Null Hero"
+                }
+            },
+            {
+                "card_id": "10900",
+                "card_name": {
+                    "english": "Undying"
+                }
+            },
+            {
+                "card_id": "10901",
+                "card_name": {
+                    "english": "Soul Rip"
+                }
+            },
+            {
+                "card_id": "10902",
+                "card_name": {
+                    "english": "Herald of the Dead God"
+                }
+            },
+            {
+                "card_id": "10904",
+                "card_name": {
+                    "english": "Restless Spirit"
+                }
+            },
+            {
+                "card_id": "10905",
+                "card_name": {
+                    "english": "Spirit Strike"
+                }
+            },
+            {
+                "card_id": "10911",
+                "card_name": {
+                    "english": "Sunken Ikhshid"
+                }
+            },
+            {
+                "card_id": "10912",
+                "card_name": {
+                    "english": "Fell Edict"
+                }
+            },
+            {
+                "card_id": "10913",
+                "card_name": {
+                    "english": "Sogd Wraith"
+                }
+            },
+            {
+                "card_id": "10914",
+                "card_name": {
+                    "english": "Wretched Coffers"
+                }
+            },
+            {
+                "card_id": "10915",
+                "card_name": {
+                    "english": "Shadow Aspirant of Ra'hul"
+                }
+            },
+            {
+                "card_id": "10916",
+                "card_name": {
+                    "english": "Seal of Binding"
+                }
+            },
+            {
+                "card_id": "10917",
+                "card_name": {
+                    "english": "Fae Haunt"
+                }
+            },
+            {
+                "card_id": "10918",
+                "card_name": {
+                    "english": "Malignant Notion"
+                }
+            },
+            {
+                "card_id": "10919",
+                "card_name": {
+                    "english": "Elder Mass"
+                }
+            },
+            {
+                "card_id": "10920",
+                "card_name": {
+                    "english": "Informed Consumption"
+                }
+            },
+            {
+                "card_id": "10921",
+                "card_name": {
+                    "english": "Unspeakable Seepage"
+                }
+            },
+            {
+                "card_id": "10922",
+                "card_name": {
+                    "english": "Entrail Adder"
+                }
+            },
+            {
+                "card_id": "10923",
+                "card_name": {
+                    "english": "Vile Embrace"
+                }
+            },
+            {
+                "card_id": "10924",
+                "card_name": {
+                    "english": "Ambassador of Quoidge"
+                }
+            },
+            {
+                "card_id": "10925",
+                "card_name": {
+                    "english": "Message of Peace"
+                }
+            },
+            {
+                "card_id": "10926",
+                "card_name": {
+                    "english": "Handmaiden of the Dead God"
+                }
+            },
+            {
+                "card_id": "10927",
+                "card_name": {
+                    "english": "Unclean Blessing"
+                }
+            },
+            {
+                "card_id": "10933",
+                "card_name": {
+                    "english": "Phalangeal Horror"
+                }
+            },
+            {
+                "card_id": "10934",
+                "card_name": {
+                    "english": "Boneshard Weapons"
+                }
+            },
+            {
+                "card_id": "10880",
+                "card_name": {
+                    "english": "Ear of the Dead God"
+                }
+            },
+            {
+                "card_id": "10881",
+                "card_name": {
+                    "english": "Hand of the Dead God"
+                }
+            },
+            {
+                "card_id": "10882",
+                "card_name": {
+                    "english": "Mouth of the Dead God"
+                }
+            },
+            {
+                "card_id": "10883",
+                "card_name": {
+                    "english": "Lukol-Po"
+                }
+            },
+            {
+                "card_id": "10884",
+                "card_name": {
+                    "english": "Cutting Boast"
+                }
+            },
+            {
+                "card_id": "10885",
+                "card_name": {
+                    "english": "Sly Riposte"
+                }
+            },
+            {
+                "card_id": "10886",
+                "card_name": {
+                    "english": "Rumusque Consecration Ritual"
+                }
+            },
+            {
+                "card_id": "10887",
+                "card_name": {
+                    "english": "Rumusque Consecration Ritual"
+                }
+            },
+            {
+                "card_id": "10999",
+                "card_name": {
+                    "english": "Murder Creep"
+                }
             }
         ]
     }
