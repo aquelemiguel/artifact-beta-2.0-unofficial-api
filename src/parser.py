@@ -2,6 +2,14 @@ import re
 import json
 import requests
 
+def remove_attr_syntax(s): 
+    m = re.findall(r'(?<=\[)([^\[\]]+)(?=\[)', s)
+
+    for token in m:
+        s = s.replace(token, '')
+
+    return re.sub('[\[\]]', '', s)
+
 # Fetch the card set from SteamDatabase
 card_url = 'https://raw.githubusercontent.com/SteamDatabase/GameTracking-Artifact-Beta/master/game/dcg/resource/card_set_01_english.txt'
 r = requests.get(card_url).text
@@ -16,8 +24,7 @@ cards = [[entries[i][0], entries[i][1], entries[i+1][1]] for i in range(0, len(e
 # Clean card text to readable format
 for card in cards:
     card[2] = card[2].replace('{s:thisCardName}', card[1])
-    card[2] = re.sub(r'&#\d+;', '', card[2])
-    card[2] = card[2].replace('\\n', '')
+    card[2] = remove_attr_syntax(card[2])
 
 with open('../cards.json', 'w+') as f:
     card_dict = { 'card_set': { 'version': 1, 'card_list': [] } }
