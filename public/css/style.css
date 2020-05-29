@@ -8,20 +8,46 @@
     src: url(../fonts/Radiance-RegularCondensed.otf);
 }
 
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-image: radial-gradient(circle 926px at 5% 11%,  rgb(36, 0, 70) 0%, rgb(16, 0, 31) 90% );
+}
+
 .container {
     position: absolute;
-    left: 50%;
     top: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    left: 40%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    margin-left: 10em;
 }
+
 
 h1 {
     font-family: "Radiance-Bold";
+    font-size: 60px;
+    color: rgb(214, 164, 123);
 }
 
 p {
     font-family: "Radiance-RegularCondensed";
+    font-size: 25px;
     margin-top: -1em;
-    text-align: center;
+    color: rgb(199, 199, 199);
+}
+
+a {
+    font-size: 25px;
+    font-family: "Radiance-RegularCondensed";
+    text-decoration: none;
+    color: rgb(199, 199, 199);
+}
+
+a:hover {
+    color: rgb(214, 164, 123);
 }
