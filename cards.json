@@ -1,0 +1,42 @@
+{
+    "card_set": {
+        "version": 1,
+        "card_list": [
+            {
+                "card_id": 10020,
+                "base_card_id": 10020,
+                "card_type": "Hero",
+                
+                "card_name": {
+                    "english": "Axe" 
+                },
+                "card_text": {
+
+                },
+                "mini_image": {
+                    "default": "https://steamcdn-a.akamaihd.net/apps/583950/icons/set01/10020.023febd622949d771d9f6a4322efc339ced8c560.png"
+                },
+                "large_image": {
+                    "default": "https://steamcdn-a.akamaihd.net/apps/583950/icons/set01/10020_large_english.5cbf0807575742532f53e4e026b6e8567d1b8843.png"
+                },
+                "ingame_image":{
+                    "default": "https://steamcdn-a.akamaihd.net/apps/583950/icons/set01/10020_ingame.4b1773e0546ae29327b3d1be27455ca6b38bc4bc.png"
+                },
+                "illustrator": "Tyler Jacobson",
+                "rarity": "Rare",
+                "is_red": true,
+                "item_def": 110020,
+                "attack": 6,
+                "armor": 2,
+                "hit_points": 10,
+                "references": [
+                    {
+                        "card_id": 10288,
+                        "ref_type": "includes",
+                        "count": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Radiance-Bold;
+    src: url(../fonts/Radiance-Bold.otf);
+}
+
+@font-face {
+    font-family: Radiance-RegularCondensed;
+    src: url(../fonts/Radiance-RegularCondensed.otf);
+}
+
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-family: "Radiance-Bold";
+}
+
+p {
+    font-family: "Radiance-RegularCondensed";
+    margin-top: -1em;
+    text-align: center;
+}
