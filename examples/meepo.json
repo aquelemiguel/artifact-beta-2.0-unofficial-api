@@ -1,0 +1,29 @@
+{
+    "card_set": {
+        "version": 1,
+        "card_list": [
+            {
+                "card_id": "10004",
+                "base_card_id": "10004",
+                "card_type": "Hero",
+                "card_name": {
+                    "english": "Meepo"
+                },
+                "card_text": {
+                    "english": "Poof<br>Active 2, 1 Mana: Move Meepo to the first empty position in any Meepo's lane (including this one). Deal 2 damage to the new adjacent enemies.<br><br> Quickcast<br><br><br><br>United We Fall<br>Soulbound. (If one Meepo dies, all your Meepos die.)"
+                },
+                "ingame_image": {
+                    "default": "https://raw.githubusercontent.com/aquelemiguel/artifact-beta-2.0-unofficial-api/master/images/meepo.png"
+                },
+                "rarity": "Epic",
+                "is_blue": true,
+                "attack": "3",
+                "hit_points": "4",
+                "references": [
+                    "10429",
+                    "10490"
+                ]
+            }
+        ]
+    }
+}
