@@ -8,7 +8,7 @@
                     "english": "Meepo"
                 },
                 "card_text": {
-                    "english": "PoofActive 2 &#9632;, 1 Mana: Move Meepo to the first empty position in any Meepo's lane (including this one). Deal 2 damage to the new adjacent enemies.<br><br>  &#9634; Quickcast<BR/>\\n<BR/>\\nUnited We FallSoulbound. (If one Meepo dies, all your Meepos die.)"
+                    "english": "Poof<br>Active 2, 1 Mana: Move Meepo to the first empty position in any Meepo's lane (including this one). Deal 2 damage to the new adjacent enemies.<br><br> Quickcast<br><br><br><br>United We Fall<br>Soulbound. (If one Meepo dies, all your Meepos die.)"
                 },
                 "references": [
                     "10429",
@@ -21,7 +21,7 @@
                     "english": "Poof"
                 },
                 "card_text": {
-                    "english": "Move Meepo to the first empty position in any Meepo's lane (including this one). Deal 2 damage to the new adjacent enemies.<br><br>  &#9634; Quickcast"
+                    "english": "Move Meepo to the first empty position in any Meepo's lane (including this one). Deal 2 damage to the new adjacent enemies.<br><br> Quickcast"
                 },
                 "references": []
             },
@@ -51,7 +51,7 @@
                     "english": "Luna"
                 },
                 "card_text": {
-                    "english": "Lucent BeamRound Start:  Deal 1 piercing damage to a random enemy and add a charge to your Eclipse cards."
+                    "english": "Lucent Beam<br>Round Start:  Deal 1 piercing damage to a random enemy and add a charge to your Eclipse cards."
                 },
                 "references": [
                     "10489"
@@ -73,7 +73,7 @@
                     "english": "Eclipse"
                 },
                 "card_text": {
-                    "english": "Repeat one time for each charge: &#9633; Deal 2 piercing damage to a random enemy."
+                    "english": "Repeat one time for each charge:Deal 2 piercing damage to a random enemy."
                 },
                 "references": []
             },
@@ -83,7 +83,7 @@
                     "english": "Winter Wyvern"
                 },
                 "card_text": {
-                    "english": "Arctic BurnActive 2 &#9632;, 1 Mana: +3&#9635;. Move up to 3 slots. Give +2 Decay to each enemy passed."
+                    "english": "Arctic Burn<br>Active 2, 1 Mana: +3 Attack . Move up to 3 slots. Give +2 Decay to each enemy passed."
                 },
                 "references": [
                     "10430"
@@ -95,7 +95,7 @@
                     "english": "Arctic Burn"
                 },
                 "card_text": {
-                    "english": "+3&#9635;. Move up to 3 slots. Give +2 Decay to each enemy passed."
+                    "english": "+3 Attack . Move up to 3 slots. Give +2 Decay to each enemy passed."
                 },
                 "references": []
             },
@@ -115,7 +115,7 @@
                     "english": "Lycan"
                 },
                 "card_text": {
-                    "english": "Feral ImpulseAura:  Lycan's allies up to 2 slots away in this lane have +2&#9635;."
+                    "english": "Feral Impulse<br>Aura:  Lycan's allies up to 2 slots away in this lane have +2 Attack ."
                 },
                 "references": [
                     "10494"
@@ -127,7 +127,7 @@
                     "english": "Feral Impulse"
                 },
                 "card_text": {
-                    "english": "Aura:  Lycan's allies up to 2 slots away in this lane have +2&#9635;."
+                    "english": "Aura:  Lycan's allies up to 2 slots away in this lane have +2 Attack ."
                 },
                 "references": []
             },
@@ -137,7 +137,7 @@
                     "english": "Chen"
                 },
                 "card_text": {
-                    "english": "Holy PersuasionActive 3 &#9632;, 1 Mana: Steal an enemy creep."
+                    "english": "Holy Persuasion<br>Active 3, 1 Mana: Steal an enemy creep."
                 },
                 "references": [
                     "10432"
@@ -159,7 +159,7 @@
                     "english": "Bloodseeker"
                 },
                 "card_text": {
-                    "english": "ThirstBloodseeker has +Attack equal to the highest missing Health from an enemy hero in any lane.<br><br>  Cross Lane"
+                    "english": "Thirst<br>Bloodseeker has +Attack equal to the highest missing Health from an enemy hero in any lane.<br><br>  Cross Lane"
                 },
                 "references": [
                     "10496"
@@ -181,7 +181,7 @@
                     "english": "Axe"
                 },
                 "card_text": {
-                    "english": "Berserker's CallActive 2 &#9632;, 1 Mana: Battle all adjacent enemies."
+                    "english": "Berserker's Call<br>Active 2, 1 Mana: Battle all adjacent enemies."
                 },
                 "references": [
                     "10816"
@@ -203,7 +203,7 @@
                     "english": "Centaur Warrunner"
                 },
                 "card_text": {
-                    "english": "StampedeActive 3 &#9632;, 1 Mana: Give your units Trample."
+                    "english": "Stampede<br>Active 3, 1 Mana: Give your units Trample."
                 },
                 "references": [
                     "10497"
@@ -225,7 +225,7 @@
                     "english": "Timbersaw"
                 },
                 "card_text": {
-                    "english": "Timber ChainActive 3 &#9632;, 1 Mana: Move Timbersaw up to 5 slots away. Deal 1 damage to each enemy passed on the way.<br><br>  Cross Lane"
+                    "english": "Timber Chain<br>Active 3, 1 Mana: Move Timbersaw up to 5 slots away. Deal 1 damage to each enemy passed on the way.<br><br>  Cross Lane"
                 },
                 "references": [
                     "10498"
@@ -247,7 +247,7 @@
                     "english": "Tidehunter"
                 },
                 "card_text": {
-                    "english": "RavageActive 5 &#9632;, 1 Mana: Stun enemies up to 2 slots away.<BR/>\\n<BR/>\\nKraken ShellThe first time Tidehunter takes damage each round, purge your opponent's effects from it."
+                    "english": "Ravage<br>Active 5, 1 Mana: Stun enemies up to 2 slots away.<br><br><br><br>Kraken Shell<br>The first time Tidehunter takes damage each round, purge your opponent's effects from it."
                 },
                 "references": [
                     "10434",
@@ -270,7 +270,7 @@
                     "english": "Tinker"
                 },
                 "card_text": {
-                    "english": "LaserActive 3 &#9632;, 1 Mana: Deal 3 damage to a unit and disarm it."
+                    "english": "Laser<br>Active 3, 1 Mana: Deal 3 damage to a unit and disarm it."
                 },
                 "references": [
                     "10435"
@@ -292,7 +292,7 @@
                     "english": "Rix"
                 },
                 "card_text": {
-                    "english": "Relentless RebelRapid Deployment<br><br>  Death Effect:  Gain +1&#9635; permanently."
+                    "english": "Relentless Rebel<br>Rapid Deployment<br><br>  Death Effect:  Gain +1 Attack permanently."
                 },
                 "references": [
                     "10500"
@@ -304,7 +304,7 @@
                     "english": "Relentless Rebel"
                 },
                 "card_text": {
-                    "english": "Rapid Deployment<br><br>  Death Effect:  Gain +1&#9635; permanently."
+                    "english": "Rapid Deployment<br><br>  Death Effect:  Gain +1 Attack permanently."
                 },
                 "references": []
             },
@@ -314,7 +314,7 @@
                     "english": "Beastmaster"
                 },
                 "card_text": {
-                    "english": "Call of the WildActive 2 &#9632;, 1 Mana: Summon a Loyal Beast.<BR/>\\n<BR/>\\nInner BeastBeastmaster has +2 attack per neighboring Loyal Beast."
+                    "english": "Call of the Wild<br>Active 2, 1 Mana: Summon a Loyal Beast.<br><br><br><br>Inner Beast<br>Beastmaster has +2 attack per neighboring Loyal Beast."
                 },
                 "references": [
                     "10437",
@@ -347,7 +347,7 @@
                     "english": "Bristleback"
                 },
                 "card_text": {
-                    "english": "BristlebackWhen Bristleback takes non-battle damage, reduce that damage to 1, then activate Quill Spray.<br><br>Quill SprayActive 3 &#9632;, 1 Mana: Deal 1 battle damage to adjacent enemies."
+                    "english": "Bristleback<br>When Bristleback<br> takes non-battle damage, reduce that damage to 1, then activate Quill Spray<br>.<br><br>Quill Spray<br>Active 3, 1 Mana: Deal 1 battle damage to adjacent enemies."
                 },
                 "references": [
                     "10030",
@@ -370,7 +370,7 @@
                     "english": "Drow Ranger"
                 },
                 "card_text": {
-                    "english": "Precision AuraAura:  Drow Ranger's allies in all lanes have +1&#9635;."
+                    "english": "Precision Aura<br>Aura:  Drow Ranger's allies in all lanes have +1 Attack ."
                 },
                 "references": [
                     "10504"
@@ -382,7 +382,7 @@
                     "english": "Precision Aura"
                 },
                 "card_text": {
-                    "english": "Aura:  Drow Ranger's allies in all lanes have +1&#9635;."
+                    "english": "Aura:  Drow Ranger's allies in all lanes have +1 Attack ."
                 },
                 "references": []
             },
@@ -392,7 +392,7 @@
                     "english": "Earthshaker"
                 },
                 "card_text": {
-                    "english": "FissureActive 3 &#9632;, 1 Mana: Bounce allies in a line up to 3 slots away and summon Rocks in their place.<BR/>\\n<BR/>\\nAftershockStun Earthshaker's adjacent enemies for one action after you play a spell or enchantment from this lane."
+                    "english": "Fissure<br>Active 3, 1 Mana: Bounce allies in a line up to 3 slots away and summon Rocks in their place.<br><br><br><br>Aftershock<br>Stun Earthshaker's adjacent enemies for one action after you play a spell or enchantment from this lane."
                 },
                 "references": [
                     "10438",
@@ -425,7 +425,7 @@
                     "english": "Enchantress"
                 },
                 "card_text": {
-                    "english": "UntouchableWhen a unit deals battle damage to Enchantress it is disarmed for the next combat.<br><br>Deploy:  Disarm the enemy blocking Enchantress for the next combat."
+                    "english": "Untouchable<br>When a unit deals battle damage to Enchantress it is disarmed for the next combat.<br><br>Deploy:  Disarm the enemy blocking Enchantress for the next combat."
                 },
                 "references": [
                     "10506"
@@ -447,7 +447,7 @@
                     "english": "Lich"
                 },
                 "card_text": {
-                    "english": "SacrificeActive 2 &#9632;, 1 Mana: Slay another ally and draw a card. Restore 2 Mana."
+                    "english": "Sacrifice<br>Active 2, 1 Mana: Slay another ally and draw a card. Restore 2 Mana."
                 },
                 "references": [
                     "10440"
@@ -469,7 +469,7 @@
                     "english": "Ogre Magi"
                 },
                 "card_text": {
-                    "english": "MulticastThe first spell or enchantment you cast from this lane can be repeated this round.<br><br>2 round cooldown."
+                    "english": "Multicast<br>The first spell or enchantment you cast from this lane can be repeated this round.<br><br>2 round cooldown."
                 },
                 "references": [
                     "10509"
@@ -491,7 +491,7 @@
                     "english": "Omniknight"
                 },
                 "card_text": {
-                    "english": "PurificationActive 2 &#9632;, 1 Mana: Heal an ally 3 and deal 1 piercing damage to each of its adjacent enemies."
+                    "english": "Purification<br>Active 2, 1 Mana: Heal an ally 3 and deal 1 piercing damage to each of its adjacent enemies."
                 },
                 "references": [
                     "10443"
@@ -513,7 +513,7 @@
                     "english": "Phantom Assassin"
                 },
                 "card_text": {
-                    "english": "Efficient KillerDouble damage when attacking a hero."
+                    "english": "Efficient Killer<br>Double damage when attacking a hero."
                 },
                 "references": [
                     "10512"
@@ -535,7 +535,7 @@
                     "english": "Pugna"
                 },
                 "card_text": {
-                    "english": "Nether BlastActive 2 &#9632;, 1 Mana: Deal 3 damage to the enemy tower. Dispel a random enchantment from it."
+                    "english": "Nether Blast<br>Active 2, 1 Mana: Deal 3 damage to the enemy tower. Dispel a random enchantment from it."
                 },
                 "references": [
                     "10444"
@@ -557,7 +557,7 @@
                     "english": "Sniper"
                 },
                 "card_text": {
-                    "english": "HeadshotActive 3 &#9632;, 1 Mana: Deal 4 damage to a unit."
+                    "english": "Headshot<br>Active 3, 1 Mana: Deal 4 damage to a unit."
                 },
                 "references": [
                     "10446"
@@ -579,7 +579,7 @@
                     "english": "Sven"
                 },
                 "card_text": {
-                    "english": "Great CleaveSven's Attack counts as Cleave in the combat phase.<br><br>Sven still hits the tower if unblocked."
+                    "english": "Great Cleave<br>Sven's Attack counts as Cleave in the combat phase.<br><br>Sven still hits the tower if unblocked."
                 },
                 "references": [
                     "10513"
@@ -601,7 +601,7 @@
                     "english": "Treant Protector"
                 },
                 "card_text": {
-                    "english": "Branches of IronAura:  Treant Protector's allies up to 2 slots away in this lane have +2&#9636;."
+                    "english": "Branches of Iron<br>Aura:  Treant Protector's allies up to 2 slots away in this lane have +2 Armor ."
                 },
                 "references": [
                     "10514"
@@ -613,7 +613,7 @@
                     "english": "Branches of Iron"
                 },
                 "card_text": {
-                    "english": "Aura:  Treant Protector's allies up to 2 slots away in this lane have +2&#9636;."
+                    "english": "Aura:  Treant Protector's allies up to 2 slots away in this lane have +2 Armor ."
                 },
                 "references": []
             },
@@ -623,7 +623,7 @@
                     "english": "Sorla Khan"
                 },
                 "card_text": {
-                    "english": "WarmongerPillager<br><br> +2 damage when attacking a tower."
+                    "english": "Warmonger<br>Pillager<br><br> +2 damage when attacking a tower."
                 },
                 "references": [
                     "10516"
@@ -645,7 +645,7 @@
                     "english": "Necrophos"
                 },
                 "card_text": {
-                    "english": "SadistRestore 1 mana after Necrophos kills a unit.<br><br>Reaper's ScytheActive 2 &#9632;, 1 Mana: Deal damage to a unit equal to its missing Health."
+                    "english": "Sadist<br>Restore 1 mana after Necrophos kills a unit.<br><br>Reaper's Scythe<br>Active 2, 1 Mana: Deal damage to a unit equal to its missing Health."
                 },
                 "references": [
                     "10517",
@@ -668,7 +668,7 @@
                     "english": "Skywrath Mage"
                 },
                 "card_text": {
-                    "english": "Concussive ShotActive 2 &#9632;, 1 Mana: Give an enemy and its neighbors -3&#9636;.<br><br>  &#9634; Quickcast"
+                    "english": "Concussive Shot<br>Active 2, 1 Mana: Give an enemy and its neighbors -3 Armor .<br><br> Quickcast"
                 },
                 "references": [
                     "10451"
@@ -680,7 +680,7 @@
                     "english": "Concussive Shot"
                 },
                 "card_text": {
-                    "english": "Give an enemy and its neighbors -3&#9636;.<br><br>  &#9634; Quickcast"
+                    "english": "Give an enemy and its neighbors -3 Armor .<br><br> Quickcast"
                 },
                 "references": []
             },
@@ -700,7 +700,7 @@
                     "english": "Crystal Maiden"
                 },
                 "card_text": {
-                    "english": "Arcane AuraRestore 2 Mana the first time you play a spell or enchantment in any lane."
+                    "english": "Arcane Aura<br>Restore 2 Mana the first time you play a spell or enchantment in any lane."
                 },
                 "references": [
                     "10518"
@@ -742,7 +742,7 @@
                     "english": "Dark Seer"
                 },
                 "card_text": {
-                    "english": "VacuumActive 3 &#9632;, 1 Mana: Choose a slot. Deal 1 damage to enemies in lane then pull them towards the target slot.<br><br>  &#9634; Quickcast"
+                    "english": "Vacuum<br>Active 3, 1 Mana: Choose a slot. Deal 1 damage to enemies in lane then pull them towards the target slot.<br><br> Quickcast"
                 },
                 "references": [
                     "10452"
@@ -754,7 +754,7 @@
                     "english": "Vacuum"
                 },
                 "card_text": {
-                    "english": "Choose a slot. Deal 1 damage to enemies in lane then pull them towards the target slot.<br><br>  &#9634; Quickcast"
+                    "english": "Choose a slot. Deal 1 damage to enemies in lane then pull them towards the target slot.<br><br> Quickcast"
                 },
                 "references": []
             },
@@ -764,7 +764,7 @@
                     "english": "Legion Commander"
                 },
                 "card_text": {
-                    "english": "Moment of CourageAfter battling a unit, heal 2."
+                    "english": "Moment of Courage<br>After battling a unit, heal 2."
                 },
                 "references": [
                     "10520"
@@ -786,7 +786,7 @@
                     "english": "Ursa"
                 },
                 "card_text": {
-                    "english": "Fury SwipesGive units who take battle damage from Ursa -1&#9636; permanently."
+                    "english": "Fury Swipes<br>Give units who take battle damage from Ursa -1 Armor permanently."
                 },
                 "references": [
                     "10521"
@@ -798,7 +798,7 @@
                     "english": "Fury Swipes"
                 },
                 "card_text": {
-                    "english": "Give units who take battle damage from Ursa -1&#9636; permanently."
+                    "english": "Give units who take battle damage from Ursa -1 Armor permanently."
                 },
                 "references": []
             },
@@ -808,7 +808,7 @@
                     "english": "Lina"
                 },
                 "card_text": {
-                    "english": "Fiery SoulThe first time you play a spell or enchantment from this lane, deal damage to Lina's combat target equal to the number of charges on Lina and add 1 charge to Lina."
+                    "english": "Fiery Soul<br>The first time you play a spell or enchantment from this lane, deal damage to Lina's combat target equal to the number of charges on Lina and add 1 charge to Lina."
                 },
                 "references": [
                     "10812"
@@ -860,7 +860,7 @@
                     "english": "Smeevil Armsmaster"
                 },
                 "card_text": {
-                    "english": "When one of your units deals battle damage to an enemy, give it +1&#9635; permanently."
+                    "english": "When one of your units deals battle damage to an enemy, give it +1 Attack permanently."
                 },
                 "references": []
             },
@@ -880,7 +880,7 @@
                     "english": "Sister of the Void"
                 },
                 "card_text": {
-                    "english": "Choose a combat target for Sister of the Void. Sister of the Void deals +2 damage when attacking a unit.  &#9634; Quickcast"
+                    "english": "Choose a combat target for Sister of the Void. Sister of the Void deals +2 damage when attacking a unit. Quickcast"
                 },
                 "references": []
             },
@@ -910,7 +910,7 @@
                     "english": "Rebel Decoy"
                 },
                 "card_text": {
-                    "english": "Active 1 &#9632;, 1 Mana: Swap Rebel Decoy with an ally."
+                    "english": "Active 1, 1 Mana: Swap Rebel Decoy with an ally."
                 },
                 "references": []
             },
@@ -940,7 +940,7 @@
                     "english": "Pit Fighter of Quoidge"
                 },
                 "card_text": {
-                    "english": "After a neighbor dies: Gain +3&#9635; permanently."
+                    "english": "After a neighbor dies: Gain +3 Attack permanently."
                 },
                 "references": []
             },
@@ -960,7 +960,7 @@
                     "english": "Disciple of Nevermore"
                 },
                 "card_text": {
-                    "english": "Aura:  Disciple of Nevermore's allies have +1&#9635; and -1&#9636;."
+                    "english": "Aura:  Disciple of Nevermore's allies have +1 Attack and -1 Armor ."
                 },
                 "references": []
             },
@@ -970,7 +970,7 @@
                     "english": "Legion Standard Bearer"
                 },
                 "card_text": {
-                    "english": "Aura:  Neighbors have +3&#9635;."
+                    "english": "Aura:  Neighbors have +3 Attack ."
                 },
                 "references": []
             },
@@ -1010,7 +1010,7 @@
                     "english": "Mercenary Exiles"
                 },
                 "card_text": {
-                    "english": "Active 2 &#9632;, 1 Mana: Spend all your gold. Mercenary Exiles gains Attack and Health permanently equal to half the gold spent."
+                    "english": "Active 2, 1 Mana: Spend all your gold. Mercenary Exiles gains Attack and Health permanently equal to half the gold spent."
                 },
                 "references": []
             },
@@ -1030,7 +1030,7 @@
                     "english": "Keenfolk Golem"
                 },
                 "card_text": {
-                    "english": "Play Effect:  Discard your hand. Give Keenfolk Golem +1&#9635;/+1&#9637; permanently for each card discarded."
+                    "english": "Play Effect:  Discard your hand. Give Keenfolk Golem +1 Attack /+1 Health permanently for each card discarded."
                 },
                 "references": []
             },
@@ -1040,7 +1040,7 @@
                     "english": "Emissary of the Quorum"
                 },
                 "card_text": {
-                    "english": "Active 1 &#9632;, 1 Mana: Give Emissary of the Quorum's allies +2&#9635;/+2&#9637; permanently."
+                    "english": "Active 1, 1 Mana: Give Emissary of the Quorum's allies +2 Attack /+2 Health permanently."
                 },
                 "references": []
             },
@@ -1050,7 +1050,7 @@
                     "english": "Emissary of the Quorum"
                 },
                 "card_text": {
-                    "english": "Give Emissary of the Quorum's allies +2&#9635;/+2&#9637; permanently."
+                    "english": "Give Emissary of the Quorum's allies +2 Attack /+2 Health permanently."
                 },
                 "references": []
             },
@@ -1060,7 +1060,7 @@
                     "english": "Marrowfell Brawler"
                 },
                 "card_text": {
-                    "english": "Give units damaged by Marrowfell Brawler -1&#9635; permanently.<br><br> Play Effect:  Marrowfell Brawler battles the enemy blocking it."
+                    "english": "Give units damaged by Marrowfell Brawler -1 Attack permanently.<br><br> Play Effect:  Marrowfell Brawler battles the enemy blocking it."
                 },
                 "references": []
             },
@@ -1100,7 +1100,7 @@
                     "english": "Vhoul Martyr"
                 },
                 "card_text": {
-                    "english": "Death Effect:  Give Vhoul Martyr's allies +1&#9635;/+1&#9637; permanently."
+                    "english": "Death Effect:  Give Vhoul Martyr's allies +1 Attack /+1 Health permanently."
                 },
                 "references": []
             },
@@ -1120,7 +1120,7 @@
                     "english": "Satyr Duelist"
                 },
                 "card_text": {
-                    "english": "<br><br>After Combat:  Gain +3&#9635; permanently."
+                    "english": "<br><br>After Combat:  Gain +3 Attack permanently."
                 },
                 "references": []
             },
@@ -1130,7 +1130,7 @@
                     "english": "Savage Wolf"
                 },
                 "card_text": {
-                    "english": "<br><br>After Combat:  Gain +2&#9635;/+1&#9637; permanently."
+                    "english": "<br><br>After Combat:  Gain +2 Attack /+1 Health permanently."
                 },
                 "references": []
             },
@@ -1140,7 +1140,7 @@
                     "english": "Rampaging Hellbear"
                 },
                 "card_text": {
-                    "english": "<br><br>After Combat:  Gain +4&#9635; permanently."
+                    "english": "<br><br>After Combat:  Gain +4 Attack permanently."
                 },
                 "references": []
             },
@@ -1150,7 +1150,7 @@
                     "english": "Cursed Satyr"
                 },
                 "card_text": {
-                    "english": "Active 3 &#9632;, 1 Mana: Choose a blocked unit. It battles the unit blocking it."
+                    "english": "Active 3, 1 Mana: Choose a blocked unit. It battles the unit blocking it."
                 },
                 "references": []
             },
@@ -1170,7 +1170,7 @@
                     "english": "Ravenhook"
                 },
                 "card_text": {
-                    "english": "Active 1 &#9632;, 1 Mana: Choose a hero adjacent to Ravenhook. Destroy a random item equipped by that hero. Gain gold equal to the base cost of that item."
+                    "english": "Active 1, 1 Mana: Choose a hero adjacent to Ravenhook. Destroy a random item equipped by that hero. Gain gold equal to the base cost of that item."
                 },
                 "references": []
             },
@@ -1190,7 +1190,7 @@
                     "english": "Ravenous Mass"
                 },
                 "card_text": {
-                    "english": "Play Effect:  Devour. Activate Ravenous Mass.<br><br>Active 0 &#9632;, 1 Mana: Devour Ravenous Mass's neighbors.  &#9634; Quickcast"
+                    "english": "Play Effect:  Devour. Activate Ravenous Mass.<br><br>Active 0, 1 Mana: Devour Ravenous Mass's neighbors. Quickcast"
                 },
                 "references": []
             },
@@ -1200,7 +1200,7 @@
                     "english": "Ravenous Mass"
                 },
                 "card_text": {
-                    "english": "Devour Ravenous Mass's neighbors.  &#9634; Quickcast"
+                    "english": "Devour Ravenous Mass's neighbors. Quickcast"
                 },
                 "references": []
             },
@@ -1220,7 +1220,7 @@
                     "english": "Hellbear Crippler"
                 },
                 "card_text": {
-                    "english": "Give units damaged by Hellbear Crippler -1&#9636; permanently.<br><br> <br>Play Effect:  Hellbear Crippler battles the enemy blocking it."
+                    "english": "Give units damaged by Hellbear Crippler -1 Armor permanently.<br><br> <br>Play Effect:  Hellbear Crippler battles the enemy blocking it."
                 },
                 "references": []
             },
@@ -1270,7 +1270,7 @@
                     "english": "Assassin's Apprentice"
                 },
                 "card_text": {
-                    "english": "Choose a combat target for Assassin's Apprentice. Assassin's Apprentice deals +2 damage when attacking a unit.  &#9634; Quickcast"
+                    "english": "Choose a combat target for Assassin's Apprentice. Assassin's Apprentice deals +2 damage when attacking a unit. Quickcast"
                 },
                 "references": []
             },
@@ -1300,7 +1300,7 @@
                     "english": "Champion of the Ancient"
                 },
                 "card_text": {
-                    "english": "Play Effect:  For each enemy, gain +1&#9635;/+1&#9637; and +1 Cleave permanently."
+                    "english": "Play Effect:  For each enemy, gain +1 Attack /+1 Health and +1 Cleave permanently."
                 },
                 "references": []
             },
@@ -1320,7 +1320,7 @@
                     "english": "Loyal Beast"
                 },
                 "card_text": {
-                    "english": "<br>Minion:  +2&#9635;/+2&#9637; when neighboring Beastmaster."
+                    "english": "<br>Minion:  +2 Attack /+2 Health when neighboring Beastmaster."
                 },
                 "references": []
             },
@@ -1330,7 +1330,7 @@
                     "english": "Satyr Magician"
                 },
                 "card_text": {
-                    "english": "Active 1 &#9632;, 1 Mana: Restore 4 Mana."
+                    "english": "Active 1, 1 Mana: Restore 4 Mana."
                 },
                 "references": []
             },
@@ -1360,7 +1360,7 @@
                     "english": "Fractured Timeline"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Disable Round Start and After Combat effects.<br><br>Active 1 &#9632;, 1 Mana: Trigger the disabled effects."
+                    "english": "Enchant Tower<br><br>Disable Round Start and After Combat effects.<br><br>Active 1, 1 Mana: Trigger the disabled effects."
                 },
                 "references": []
             },
@@ -1490,7 +1490,7 @@
                     "english": "Mist of Avernus"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Round Start:  Give allies +1&#9635; permanently."
+                    "english": "Enchant Tower<br><br>Round Start:  Give allies +1 Attack permanently."
                 },
                 "references": []
             },
@@ -1520,7 +1520,7 @@
                     "english": "Temple of War"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Active 1 &#9632;, 1 Mana: Equip an allied hero with basic items."
+                    "english": "Enchant Tower<br><br>Active 1, 1 Mana: Equip an allied hero with basic items."
                 },
                 "references": []
             },
@@ -1580,7 +1580,7 @@
                     "english": "Escape Route"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Active 1 &#9632;, 1 Mana: Move one of your heroes to an adjacent lane."
+                    "english": "Enchant Tower<br><br>Active 1, 1 Mana: Move one of your heroes to an adjacent lane."
                 },
                 "references": []
             },
@@ -1610,7 +1610,7 @@
                     "english": "Messenger Rookery"
                 },
                 "card_text": {
-                    "english": "Active 1 &#9632;, 1 Mana: Choose an ally. Choose a combat target for it. Give that unit Pierce until end of its next combat phase."
+                    "english": "Active 1, 1 Mana: Choose an ally. Choose a combat target for it. Give that unit Pierce until end of its next combat phase."
                 },
                 "references": []
             },
@@ -1630,7 +1630,7 @@
                     "english": "Cheating Death"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Active 1 &#9632;, 1 Mana: Give a unit a Death Shield."
+                    "english": "Enchant Tower<br><br>Active 1, 1 Mana: Give a unit a Death Shield."
                 },
                 "references": []
             },
@@ -1660,7 +1660,7 @@
                     "english": "Keenfolk Turret"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Active 1 &#9632;, 1 Mana: Deal 2 piercing damage to a unit."
+                    "english": "Enchant Tower<br><br>Active 1, 1 Mana: Deal 2 piercing damage to a unit."
                 },
                 "references": []
             },
@@ -1680,7 +1680,7 @@
                     "english": "Steam Cannon"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Active 1 &#9632;, 1 Mana: Deal 4 piercing damage to a unit in any lane.<br><br>  Cross Lane"
+                    "english": "Enchant Tower<br><br>Active 1, 1 Mana: Deal 4 piercing damage to a unit in any lane.<br><br>  Cross Lane"
                 },
                 "references": []
             },
@@ -1710,7 +1710,7 @@
                     "english": "Rumusque Blessing"
                 },
                 "card_text": {
-                    "english": "Give caster +2&#9637; permanently and give your units in any lane +2&#9637; permanently. <br><br>Cross Lane"
+                    "english": "Give caster +2 Health permanently and give your units in any lane +2 Health permanently. <br><br>Cross Lane"
                 },
                 "references": []
             },
@@ -1740,7 +1740,7 @@
                     "english": "Assassin's Veil"
                 },
                 "card_text": {
-                    "english": "+3&#9637;<br><br>Active 2 &#9632;, 1 Mana: Choose a combat target for equipped hero. (needs fix, should be equip effect)"
+                    "english": "+3 Health <br><br>Active 2, 1 Mana: Choose a combat target for equipped hero. (needs fix, should be equip effect)"
                 },
                 "references": []
             },
@@ -1760,7 +1760,7 @@
                     "english": "Phase Boots"
                 },
                 "card_text": {
-                    "english": "+3&#9637;<br><br>Active 2 &#9632;, 1 Mana: Swap this hero to another position."
+                    "english": "+3 Health <br><br>Active 2, 1 Mana: Swap this hero to another position."
                 },
                 "references": []
             },
@@ -1780,7 +1780,7 @@
                     "english": "Stonehall Cloak"
                 },
                 "card_text": {
-                    "english": "+3&#9637; <br><br>After Combat:  Increase Health by 1."
+                    "english": "+3 Health <br><br>After Combat:  Increase Health by 1."
                 },
                 "references": []
             },
@@ -1790,7 +1790,7 @@
                     "english": "Blink Dagger"
                 },
                 "card_text": {
-                    "english": "+2&#9635;<br><br>Active 2 &#9632;, 1 Mana: Move this hero to an adjacent lane."
+                    "english": "+2 Attack <br><br>Active 2, 1 Mana: Move this hero to an adjacent lane."
                 },
                 "references": []
             },
@@ -1810,7 +1810,7 @@
                     "english": "Barbed Mail"
                 },
                 "card_text": {
-                    "english": "+1&#9636;, +2 Retaliate <br><br>Play Effect:  Taunt."
+                    "english": "+1 Armor , +2 Retaliate <br><br>Play Effect:  Taunt."
                 },
                 "references": []
             },
@@ -1820,7 +1820,7 @@
                     "english": "Demagicking Maul"
                 },
                 "card_text": {
-                    "english": "+2&#9635;<br><br> Dispel a random tower enchantment when dealing battle damage to a tower."
+                    "english": "+2 Attack <br><br> Dispel a random tower enchantment when dealing battle damage to a tower."
                 },
                 "references": []
             },
@@ -1830,7 +1830,7 @@
                     "english": "Blade of the Vigil"
                 },
                 "card_text": {
-                    "english": "+2&#9635;, +3 Cleave"
+                    "english": "+2 Attack , +3 Cleave"
                 },
                 "references": []
             },
@@ -1840,7 +1840,7 @@
                     "english": "Broadsword"
                 },
                 "card_text": {
-                    "english": "+5&#9635;"
+                    "english": "+5 Attack "
                 },
                 "references": []
             },
@@ -1860,7 +1860,7 @@
                     "english": "Keenfolk Musket"
                 },
                 "card_text": {
-                    "english": "+2&#9635;<br><br>Active 2 &#9632;, 1 Mana: Deal 2 damage to a unit. (needs fix, should be an equip effect)"
+                    "english": "+2 Attack <br><br>Active 2, 1 Mana: Deal 2 damage to a unit. (needs fix, should be an equip effect)"
                 },
                 "references": []
             },
@@ -1880,7 +1880,7 @@
                     "english": "Ring of Tarrasque"
                 },
                 "card_text": {
-                    "english": "+3&#9637;, +3 Regeneration."
+                    "english": "+3 Health , +3 Regeneration."
                 },
                 "references": []
             },
@@ -1890,7 +1890,7 @@
                     "english": "Bracers of Sacrifice"
                 },
                 "card_text": {
-                    "english": "+1&#9636;<br><br>Active 0 &#9632;, 1 Mana: Slay this hero and deal 5 damage to adjacent enemies."
+                    "english": "+1 Armor <br><br>Active 0, 1 Mana: Slay this hero and deal 5 damage to adjacent enemies."
                 },
                 "references": []
             },
@@ -1910,7 +1910,7 @@
                     "english": "Red Mist Maul"
                 },
                 "card_text": {
-                    "english": "+2&#9635;, +3 Siege"
+                    "english": "+2 Attack , +3 Siege"
                 },
                 "references": []
             },
@@ -1920,7 +1920,7 @@
                     "english": "Helm of the Dominator"
                 },
                 "card_text": {
-                    "english": "+2&#9636;<br><br>Active 2 &#9632;, 1 Mana: Steal an enemy creep."
+                    "english": "+2 Armor <br><br>Active 2, 1 Mana: Steal an enemy creep."
                 },
                 "references": []
             },
@@ -1940,7 +1940,7 @@
                     "english": "Vesture of the Tyrant"
                 },
                 "card_text": {
-                    "english": "+3&#9636;, Rapid Deployment<br><br> Your tower has +3&#9636;."
+                    "english": "+3 Armor , Rapid Deployment<br><br> Your tower has +3 Armor ."
                 },
                 "references": []
             },
@@ -1950,7 +1950,7 @@
                     "english": "Wingfall Hammer"
                 },
                 "card_text": {
-                    "english": "Aura:  You and your neighbors have +3&#9635; and +3 Regeneration."
+                    "english": "Aura:  You and your neighbors have +3 Attack and +3 Regeneration."
                 },
                 "references": []
             },
@@ -1960,7 +1960,7 @@
                     "english": "Ristul Emblem"
                 },
                 "card_text": {
-                    "english": "+2&#9636;<br><br> Aura:  Adjacent enemies have -2&#9636;."
+                    "english": "+2 Armor <br><br> Aura:  Adjacent enemies have -2 Armor ."
                 },
                 "references": []
             },
@@ -1970,7 +1970,7 @@
                     "english": "Cloak of Endless Carnage"
                 },
                 "card_text": {
-                    "english": "+6&#9637; <br><br>The first time a neighbor dies each turn, Draw a card."
+                    "english": "+6 Health <br><br>The first time a neighbor dies each turn, Draw a card."
                 },
                 "references": []
             },
@@ -1980,7 +1980,7 @@
                     "english": "Poaching Knife"
                 },
                 "card_text": {
-                    "english": "+2&#9635; +5 gold when this kills a hero."
+                    "english": "+2 Attack +5 gold when this kills a hero."
                 },
                 "references": []
             },
@@ -1990,7 +1990,7 @@
                     "english": "Claymore"
                 },
                 "card_text": {
-                    "english": "+10&#9635;"
+                    "english": "+10 Attack "
                 },
                 "references": []
             },
@@ -2000,7 +2000,7 @@
                     "english": "Hooked Net"
                 },
                 "card_text": {
-                    "english": "+2&#9635; <br><br>Round Start:  Disarm the closest enemy creep."
+                    "english": "+2 Attack <br><br>Round Start:  Disarm the closest enemy creep."
                 },
                 "references": []
             },
@@ -2010,7 +2010,7 @@
                     "english": "Horn of the Alpha"
                 },
                 "card_text": {
-                    "english": "+3&#9637;<br><br>Active 2 &#9632;, 1 Mana: Summon a Thunderhide Pack."
+                    "english": "+3 Health <br><br>Active 2, 1 Mana: Summon a Thunderhide Pack."
                 },
                 "references": []
             },
@@ -2030,7 +2030,7 @@
                     "english": "Nyctasha's Guard"
                 },
                 "card_text": {
-                    "english": "+1&#9636;<br><br>Active 1 &#9632;, 1 Mana: Reduce adjacent enemies to 1 Health. They are stunned, rooted and feeble."
+                    "english": "+1 Armor <br><br>Active 1, 1 Mana: Reduce adjacent enemies to 1 Health. They are stunned, rooted and feeble."
                 },
                 "references": []
             },
@@ -2050,7 +2050,7 @@
                     "english": "Apotheosis Blade"
                 },
                 "card_text": {
-                    "english": "+6&#9635;<br><br>Active 1 &#9632;, 1 Mana: Slay combat target and destroy all of their items. Dispel all enemy tower enchantments."
+                    "english": "+6 Attack <br><br>Active 1, 1 Mana: Slay combat target and destroy all of their items. Dispel all enemy tower enchantments."
                 },
                 "references": []
             },
@@ -2080,7 +2080,7 @@
                     "english": "...And One For Me"
                 },
                 "card_text": {
-                    "english": "Choose a hero. Copy a random item from it. <br><br>&#9634; Quickcast"
+                    "english": "Choose a hero. Copy a random item from it. <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -2110,7 +2110,7 @@
                     "english": "Hip Fire"
                 },
                 "card_text": {
-                    "english": "Deal 3 Damage. <br><br>&#9634; Quickcast"
+                    "english": "Deal 3 Damage. <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -2160,7 +2160,7 @@
                     "english": "Overpower"
                 },
                 "card_text": {
-                    "english": "Repeat three times: &#9633; Deal 1 battle damage to the enemy blocking the caster."
+                    "english": "Repeat three times:Deal 1 battle damage to the enemy blocking the caster."
                 },
                 "references": []
             },
@@ -2200,7 +2200,7 @@
                     "english": "Gush"
                 },
                 "card_text": {
-                    "english": "Deal 2 damage to a unit, give it -2&#9636;. <br><br>&#9634; Quickcast"
+                    "english": "Deal 2 damage to a unit, give it -2 Armor . <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -2220,7 +2220,7 @@
                     "english": "Double Edge"
                 },
                 "card_text": {
-                    "english": "Give a hero on either team +6&#9635; and -6&#9636;."
+                    "english": "Give a hero on either team +6 Attack and -6 Armor ."
                 },
                 "references": []
             },
@@ -2240,7 +2240,7 @@
                     "english": "Whirling Death"
                 },
                 "card_text": {
-                    "english": "Deal 2 damage to caster's adjacent enemies and give them -2&#9635;."
+                    "english": "Deal 2 damage to caster's adjacent enemies and give them -2 Attack ."
                 },
                 "references": []
             },
@@ -2250,7 +2250,7 @@
                     "english": "Defend the Weak"
                 },
                 "card_text": {
-                    "english": "Enchant Unit<br><br> Aura:  Neighbors have +2&#9636;."
+                    "english": "Enchant Unit<br><br> Aura:  Neighbors have +2 Armor ."
                 },
                 "references": []
             },
@@ -2280,7 +2280,7 @@
                     "english": "Smash Their Defenses!"
                 },
                 "card_text": {
-                    "english": "Dispel a tower enchantment. <br>&#9633; Draw a card."
+                    "english": "Dispel a tower enchantment. <br>Draw a card."
                 },
                 "references": []
             },
@@ -2320,7 +2320,7 @@
                     "english": "Arm the Rebellion"
                 },
                 "card_text": {
-                    "english": "Give your creeps +2&#9635; and +1&#9636; permanently."
+                    "english": "Give your creeps +2 Attack and +1 Armor permanently."
                 },
                 "references": []
             },
@@ -2330,7 +2330,7 @@
                     "english": "Arc Bolt"
                 },
                 "card_text": {
-                    "english": "Deal 1 damage.<br><br>Repeat twice: &#9633; Jump left or right and deal 1 damage."
+                    "english": "Deal 1 damage.<br><br>Repeat twice:Jump left or right and deal 1 damage."
                 },
                 "references": []
             },
@@ -2340,7 +2340,7 @@
                     "english": "Poised to Strike"
                 },
                 "card_text": {
-                    "english": "Repeat three times: &#9633; Deal 1 damage to a random enemy with the least Health."
+                    "english": "Repeat three times:Deal 1 damage to a random enemy with the least Health."
                 },
                 "references": []
             },
@@ -2360,7 +2360,7 @@
                     "english": "Chain Frost"
                 },
                 "card_text": {
-                    "english": "Deal 2 damage.<br><br>Repeat 7 times: &#9633; Jump left or right and deal 2 damage."
+                    "english": "Deal 2 damage.<br><br>Repeat 7 times:Jump left or right and deal 2 damage."
                 },
                 "references": []
             },
@@ -2390,7 +2390,7 @@
                     "english": "Heroic Resolve"
                 },
                 "card_text": {
-                    "english": "Enchant Caster<br><br> Caster has +1&#9635; per missing Health."
+                    "english": "Enchant Caster<br><br> Caster has +1 Attack per missing Health."
                 },
                 "references": []
             },
@@ -2410,7 +2410,7 @@
                     "english": "God's Strength"
                 },
                 "card_text": {
-                    "english": "Caster gains +3&#9635; permanently."
+                    "english": "Caster gains +3 Attack permanently."
                 },
                 "references": []
             },
@@ -2420,7 +2420,7 @@
                     "english": "Murder Plot"
                 },
                 "card_text": {
-                    "english": "Caster gains +6&#9635;. Choose a combat target for it."
+                    "english": "Caster gains +6 Attack . Choose a combat target for it."
                 },
                 "references": []
             },
@@ -2490,7 +2490,7 @@
                     "english": "Duel"
                 },
                 "card_text": {
-                    "english": "Caster battles another hero.<br><br>Give the winner +1&#9635; permanently."
+                    "english": "Caster battles another hero.<br><br>Give the winner +1 Attack permanently."
                 },
                 "references": []
             },
@@ -2520,7 +2520,7 @@
                     "english": "Repel"
                 },
                 "card_text": {
-                    "english": "Purge opponent's effects from a unit. Give it Untargetable. <br><br>&#9634; Quickcast"
+                    "english": "Purge opponent's effects from a unit. Give it Untargetable. <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -2600,7 +2600,7 @@
                     "english": "Juke"
                 },
                 "card_text": {
-                    "english": "Swap an ally with one of its neighbors. <br><br>&#9634; Quickcast"
+                    "english": "Swap an ally with one of its neighbors. <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -2640,7 +2640,7 @@
                     "english": "Arcane Assault"
                 },
                 "card_text": {
-                    "english": "Deal 2 damage to the enemy tower.<br><br>Draw a card. <br><br>&#9634; Quickcast"
+                    "english": "Deal 2 damage to the enemy tower.<br><br>Draw a card. <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -2730,7 +2730,7 @@
                     "english": "Steal Strength"
                 },
                 "card_text": {
-                    "english": "Give a unit -3&#9635; and give another +3&#9635;."
+                    "english": "Give a unit -3 Attack and give another +3 Attack ."
                 },
                 "references": []
             },
@@ -2740,7 +2740,7 @@
                     "english": "The Cover of Night"
                 },
                 "card_text": {
-                    "english": "Move caster to a empty position in any lane and give it \\\"Scheme: +4 Siege\\\". <br><br>Cross Lane  <br><br>&#9634; Quickcast"
+                    "english": "Move caster to a empty position in any lane and give it \\\"Scheme: +4 Siege\\\". <br><br>Cross Lane  <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -2800,7 +2800,7 @@
                     "english": "Viscous Nasal Goo"
                 },
                 "card_text": {
-                    "english": "Give a unit -3&#9636; permanently."
+                    "english": "Give a unit -3 Armor permanently."
                 },
                 "references": []
             },
@@ -2840,7 +2840,7 @@
                     "english": "Time of Triumph"
                 },
                 "card_text": {
-                    "english": "Give your heroes +3&#9635;, +3&#9637;, +3&#9636;, +3 Cleave, +3 Retaliate, and +3 Siege permanently."
+                    "english": "Give your heroes +3 Attack , +3 Health , +3 Armor , +3 Cleave, +3 Retaliate, and +3 Siege permanently."
                 },
                 "references": []
             },
@@ -2850,7 +2850,7 @@
                     "english": "Storm Spirit"
                 },
                 "card_text": {
-                    "english": "Static RemnantLeave a Static Remnant behind when Storm Spirit moves from a slot."
+                    "english": "Static Remnant<br>Leave a Static Remnant<br> behind when Storm Spirit moves from a slot."
                 },
                 "references": [
                     "10537"
@@ -2902,7 +2902,7 @@
                     "english": "Stonehall Conscriptor"
                 },
                 "card_text": {
-                    "english": "After battling a unit, draw the next creep card from your deck. That card has +1&#9636; and costs 2 less."
+                    "english": "After battling a unit, draw the next creep card from your deck. That card has +1 Armor and costs 2 less."
                 },
                 "references": []
             },
@@ -2912,7 +2912,7 @@
                     "english": "Unstable Elemental"
                 },
                 "card_text": {
-                    "english": "Play Effect:  Give Unstable Elemental a Death Shield.<br><br>Active 1 &#9632;, 1 Mana: Deal 1 damage to all units on both teams."
+                    "english": "Play Effect:  Give Unstable Elemental a Death Shield.<br><br>Active 1, 1 Mana: Deal 1 damage to all units on both teams."
                 },
                 "references": []
             },
@@ -2942,7 +2942,7 @@
                     "english": "Summoning Circle"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Active 2 &#9632;, 1 Mana: Spend all your Mana. Summon an Ozkavosh Horror with +1&#9635;/+1&#9637; for each Mana spent."
+                    "english": "Enchant Tower<br><br>Active 2, 1 Mana: Spend all your Mana. Summon an Ozkavosh Horror with +1 Attack /+1 Health for each Mana spent."
                 },
                 "references": []
             },
@@ -2952,7 +2952,7 @@
                     "english": "Summoning Circle"
                 },
                 "card_text": {
-                    "english": "Spend all your Mana. Summon an Ozkavosh Horror with +1&#9635;/+1&#9637; for each Mana spent."
+                    "english": "Spend all your Mana. Summon an Ozkavosh Horror with +1 Attack /+1 Health for each Mana spent."
                 },
                 "references": []
             },
@@ -3002,7 +3002,7 @@
                     "english": "Iron Sharpens Iron"
                 },
                 "card_text": {
-                    "english": "Enchant Caster<br><br> When damaged, gain +1&#9635; permanently.<br><br>Round Start:  Take one piecing damage."
+                    "english": "Enchant Caster<br><br> When damaged, gain +1 Attack permanently.<br><br>Round Start:  Take one piecing damage."
                 },
                 "references": []
             },
@@ -3022,7 +3022,7 @@
                     "english": "Honor Guard"
                 },
                 "card_text": {
-                    "english": "<br>Minion:  Honor Guard has +1&#9635; and +1&#9636; per neighboring hero.<br><br> Play Effect:  Honor Guard taunts."
+                    "english": "<br>Minion:  Honor Guard has +1 Attack and +1 Armor per neighboring hero.<br><br> Play Effect:  Honor Guard taunts."
                 },
                 "references": []
             },
@@ -3052,7 +3052,7 @@
                     "english": "Fell Spirit"
                 },
                 "card_text": {
-                    "english": "Active 2 &#9632;, 1 Mana: Disarm a unit."
+                    "english": "Active 2, 1 Mana: Disarm a unit."
                 },
                 "references": []
             },
@@ -3112,7 +3112,7 @@
                     "english": "Living Armor"
                 },
                 "card_text": {
-                    "english": "Mulch <br><br>Give caster and another unit in any lane +1&#9635; and +2 Regeneration. <br><br>Cross Lane"
+                    "english": "Mulch <br><br>Give caster and another unit in any lane +1 Attack and +2 Regeneration. <br><br>Cross Lane"
                 },
                 "references": []
             },
@@ -3142,7 +3142,7 @@
                     "english": "Knife of the Sisterhood"
                 },
                 "card_text": {
-                    "english": "+2&#9635;, +3 damage when attacking a hero."
+                    "english": "+2 Attack , +3 damage when attacking a hero."
                 },
                 "references": []
             },
@@ -3152,7 +3152,7 @@
                     "english": "Demolishing Warhammer"
                 },
                 "card_text": {
-                    "english": "+2&#9635;, +3 damage when attacking a tower."
+                    "english": "+2 Attack , +3 damage when attacking a tower."
                 },
                 "references": []
             },
@@ -3162,7 +3162,7 @@
                     "english": "Main Gauche"
                 },
                 "card_text": {
-                    "english": "+2&#9635;<br> <br> Does not use an item slot.<br> <br>When you buy Main Gauche, get another one."
+                    "english": "+2 Attack <br> <br> Does not use an item slot.<br> <br>When you buy Main Gauche, get another one."
                 },
                 "references": []
             },
@@ -3172,7 +3172,7 @@
                     "english": "Rumusque Scythe"
                 },
                 "card_text": {
-                    "english": "+2&#9635;, +3 Cleave <br><br>Slays creeps you damage in combat."
+                    "english": "+2 Attack , +3 Cleave <br><br>Slays creeps you damage in combat."
                 },
                 "references": []
             },
@@ -3182,7 +3182,7 @@
                     "english": "Mortred's Dagger"
                 },
                 "card_text": {
-                    "english": "+2&#9635;, Quickstrike"
+                    "english": "+2 Attack , Quickstrike"
                 },
                 "references": []
             },
@@ -3192,7 +3192,7 @@
                     "english": "Healing Blade"
                 },
                 "card_text": {
-                    "english": "+2&#9635; <br><br>Play Effect:  Heal 4."
+                    "english": "+2 Attack <br><br>Play Effect:  Heal 4."
                 },
                 "references": []
             },
@@ -3202,7 +3202,7 @@
                     "english": "Warhorn"
                 },
                 "card_text": {
-                    "english": "+6&#9637; <br><br>Play Effect:  Give allies +2&#9635;."
+                    "english": "+6 Health <br><br>Play Effect:  Give allies +2 Attack ."
                 },
                 "references": []
             },
@@ -3212,7 +3212,7 @@
                     "english": "Crown of the Undying"
                 },
                 "card_text": {
-                    "english": "+2&#9636; <br><br>After Combat:  Summon a Zombie into the closest position."
+                    "english": "+2 Armor <br><br>After Combat:  Summon a Zombie into the closest position."
                 },
                 "references": []
             },
@@ -3222,7 +3222,7 @@
                     "english": "Artificer's Mail"
                 },
                 "card_text": {
-                    "english": "+2&#9636;<br><br>Active 1 &#9632;, 1 Mana: Destroy Artificer's Mail and summon an Animated Armor."
+                    "english": "+2 Armor <br><br>Active 1, 1 Mana: Destroy Artificer's Mail and summon an Animated Armor."
                 },
                 "references": []
             },
@@ -3252,7 +3252,7 @@
                     "english": "Infernal Amulet"
                 },
                 "card_text": {
-                    "english": "+6&#9637; <br><br>Round Start:  Deal 1 piercing damage to adjacent enemies."
+                    "english": "+6 Health <br><br>Round Start:  Deal 1 piercing damage to adjacent enemies."
                 },
                 "references": []
             },
@@ -3282,7 +3282,7 @@
                     "english": "Robes of the Envoy"
                 },
                 "card_text": {
-                    "english": "+1&#9636;<br><br>Active 2 &#9632;, 1 Mana: Hero is disarmed and gains Damage Immunity."
+                    "english": "+1 Armor <br><br>Active 2, 1 Mana: Hero is disarmed and gains Damage Immunity."
                 },
                 "references": []
             },
@@ -3302,7 +3302,7 @@
                     "english": "Midas Greaves"
                 },
                 "card_text": {
-                    "english": "+1&#9636;, +5 Income"
+                    "english": "+1 Armor , +5 Income"
                 },
                 "references": []
             },
@@ -3312,7 +3312,7 @@
                     "english": "Anti-Mage"
                 },
                 "card_text": {
-                    "english": "Blink StrikeActive 3 &#9632;, 1 Mana: Move Anti-Mage up to 5 slots away. Deal 1 battle damage to the unit now blocking Anti-Mage.<br><br>  Cross Lane<BR/>\\n<BR/>\\nMana BreakBurn 1 mana when Anti-Mage deals battle damage to an enemy hero before combat."
+                    "english": "Blink Strike<br>Active 3, 1 Mana: Move Anti-Mage up to 5 slots away. Deal 1 battle damage to the unit now blocking Anti-Mage.<br><br>  Cross Lane<br><br><br><br>Mana Break<br>Burn 1 mana when Anti-Mage deals battle damage to an enemy hero before combat."
                 },
                 "references": [
                     "10647",
@@ -3345,7 +3345,7 @@
                     "english": "Death Prophet"
                 },
                 "card_text": {
-                    "english": "Spirit SiphonRound Start:  If blocked, gain +2 Regeneration and deal 2 damage to the enemy blocking Death Prophet."
+                    "english": "Spirit Siphon<br>Round Start:  If blocked, gain +2 Regeneration and deal 2 damage to the enemy blocking Death Prophet."
                 },
                 "references": [
                     "10650"
@@ -3377,7 +3377,7 @@
                     "english": "Lady Anshu"
                 },
                 "card_text": {
-                    "english": "Devoted DiscipleRapid Deployment. <br><br>Death Effect:  Give your allies +2&#9637; permanently."
+                    "english": "Devoted Disciple<br>Rapid Deployment. <br><br>Death Effect:  Give your allies +2 Health permanently."
                 },
                 "references": [
                     "10653"
@@ -3389,7 +3389,7 @@
                     "english": "Devoted Disciple"
                 },
                 "card_text": {
-                    "english": "Rapid Deployment. <br><br>Death Effect:  Give your allies +2&#9637; permanently."
+                    "english": "Rapid Deployment. <br><br>Death Effect:  Give your allies +2 Health permanently."
                 },
                 "references": []
             },
@@ -3399,7 +3399,7 @@
                     "english": "Hymn of St. Crella"
                 },
                 "card_text": {
-                    "english": "Slay Caster. <br>&#9633; Deploy heroes in your fountain to the first empty positions in this lane."
+                    "english": "Slay Caster. <br>Deploy heroes in your fountain to the first empty positions in this lane."
                 },
                 "references": []
             },
@@ -3409,7 +3409,7 @@
                     "english": "Mirana"
                 },
                 "card_text": {
-                    "english": "LeapActive 3 &#9632;, 1 Mana: Move Mirana up to 5 slots away. Give Mirana and new neighbors +2&#9635;.<br><br>   Cross Lane"
+                    "english": "Leap<br>Active 3, 1 Mana: Move Mirana up to 5 slots away. Give Mirana and new neighbors +2 Attack .<br><br>   Cross Lane"
                 },
                 "references": [
                     "10656"
@@ -3421,7 +3421,7 @@
                     "english": "Leap"
                 },
                 "card_text": {
-                    "english": "Move Mirana up to 5 slots away. Give Mirana and new neighbors +2&#9635;.<br><br>   Cross Lane"
+                    "english": "Move Mirana up to 5 slots away. Give Mirana and new neighbors +2 Attack .<br><br>   Cross Lane"
                 },
                 "references": []
             },
@@ -3441,7 +3441,7 @@
                     "english": "Pierpont"
                 },
                 "card_text": {
-                    "english": "InspectActive 2 &#9632;, 1 Mana: Increase Mana cost of two random cards in your opponents hand by 1. Reveal them.<br><br>  &#9634; Quickcast"
+                    "english": "Inspect<br>Active 2, 1 Mana: Increase Mana cost of two random cards in your opponents hand by 1. Reveal them.<br><br> Quickcast"
                 },
                 "references": [
                     "10659"
@@ -3453,7 +3453,7 @@
                     "english": "Inspect"
                 },
                 "card_text": {
-                    "english": "Increase Mana cost of two random cards in your opponents hand by 1. Reveal them.<br><br>  &#9634; Quickcast"
+                    "english": "Increase Mana cost of two random cards in your opponents hand by 1. Reveal them.<br><br> Quickcast"
                 },
                 "references": []
             },
@@ -3483,7 +3483,7 @@
                     "english": "Rix, Oathbound"
                 },
                 "card_text": {
-                    "english": "AssaultRapid Deployment<br><br> Deploy:  Give your other allies +1 Siege.<BR/>\\n<BR/>\\nOathed+3&#9635;. Silenced."
+                    "english": "Assault<br>Rapid Deployment<br><br> Deploy:  Give your other allies +1 Siege.<br><br><br><br>Oathed<br>+3 Attack . Silenced."
                 },
                 "references": [
                     "10664",
@@ -3506,7 +3506,7 @@
                     "english": "Oathed"
                 },
                 "card_text": {
-                    "english": "+3&#9635;. Silenced."
+                    "english": "+3 Attack . Silenced."
                 },
                 "references": []
             },
@@ -3516,7 +3516,7 @@
                     "english": "The Twisted Path"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Active 1 &#9632;, 1 Mana: Choose an ally. It battles the enemy tower. Slay that ally."
+                    "english": "Enchant Tower<br><br>Active 1, 1 Mana: Choose an ally. It battles the enemy tower. Slay that ally."
                 },
                 "references": []
             },
@@ -3536,7 +3536,7 @@
                     "english": "Rubick"
                 },
                 "card_text": {
-                    "english": "TelekinesisActive 2 &#9632;, 1 Mana: Swap an enemy to another position.<br><br>  &#9634; Quickcast"
+                    "english": "Telekinesis<br>Active 2, 1 Mana: Swap an enemy to another position.<br><br> Quickcast"
                 },
                 "references": [
                     "10669"
@@ -3548,7 +3548,7 @@
                     "english": "Telekinesis"
                 },
                 "card_text": {
-                    "english": "Swap an enemy to another position.<br><br>  &#9634; Quickcast"
+                    "english": "Swap an enemy to another position.<br><br> Quickcast"
                 },
                 "references": []
             },
@@ -3558,7 +3558,7 @@
                     "english": "Spell Steal"
                 },
                 "card_text": {
-                    "english": "Put a copy of the last non-item card your opponent played into your hand. That card is blue and costs 3. <br><br>&#9634; Quickcast"
+                    "english": "Put a copy of the last non-item card your opponent played into your hand. That card is blue and costs 3. <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -3568,7 +3568,7 @@
                     "english": "Shadow Fiend"
                 },
                 "card_text": {
-                    "english": "NecromasteryShadow Fiend has +1&#9635; per charge.<br><br>Add 1 charge after an adjacent enemy dies.  <br><br>Death Effect:  Halve the charges on Necromastery.<br><br>Requiem of SoulsActive 2 &#9632;, 1 Mana: Repeat for each charge on Necromastery: &#9633; Deal 1 damage to a random enemy."
+                    "english": "Necromastery<br>Shadow Fiend has +1 Attack per charge.<br><br>Add 1 charge after an adjacent enemy dies.  <br><br>Death Effect:  Halve the charges on Necromastery<br>.<br><br>Requiem of Souls<br>Active 2, 1 Mana: Repeat for each charge on Necromastery<br>:Deal 1 damage to a random enemy."
                 },
                 "references": [
                     "10819",
@@ -3581,7 +3581,7 @@
                     "english": "Necromastery"
                 },
                 "card_text": {
-                    "english": "Shadow Fiend has +1&#9635; per charge.<br><br>Add 1 charge after an adjacent enemy dies.  <br><br>Death Effect:  Halve the charges on Necromastery."
+                    "english": "Shadow Fiend has +1 Attack per charge.<br><br>Add 1 charge after an adjacent enemy dies.  <br><br>Death Effect:  Halve the charges on Necromastery."
                 },
                 "references": []
             },
@@ -3591,7 +3591,7 @@
                     "english": "Requiem of Souls"
                 },
                 "card_text": {
-                    "english": "Repeat for each charge on Necromastery: &#9633; Deal 1 damage to a random enemy."
+                    "english": "Repeat for each charge on Necromastery:Deal 1 damage to a random enemy."
                 },
                 "references": []
             },
@@ -3601,7 +3601,7 @@
                     "english": "Presence of the Dark Lord"
                 },
                 "card_text": {
-                    "english": "Enchant Caster<br><br> Aura:  Adjacent enemies have -2&#9636;."
+                    "english": "Enchant Caster<br><br> Aura:  Adjacent enemies have -2 Armor ."
                 },
                 "references": []
             },
@@ -3611,7 +3611,7 @@
                     "english": "Tusk"
                 },
                 "card_text": {
-                    "english": "Walrus PunchActive 3 &#9632;, 1 Mana: Double Tusk's Attack."
+                    "english": "Walrus Punch<br>Active 3, 1 Mana: Double Tusk's Attack."
                 },
                 "references": [
                     "10675"
@@ -3653,7 +3653,7 @@
                     "english": "Underlord"
                 },
                 "card_text": {
-                    "english": "Dark RiftActive 3 &#9632;, 1 Mana: Move all your heroes in this lane to another lane."
+                    "english": "Dark Rift<br>Active 3, 1 Mana: Move all your heroes in this lane to another lane."
                 },
                 "references": [
                     "10679"
@@ -3675,7 +3675,7 @@
                     "english": "Atrophy Aura"
                 },
                 "card_text": {
-                    "english": "Enchant Unit<br><br> Aura:  Enemies up to 2 slots away have -1&#9635;. When one dies gain +1&#9635; permanently."
+                    "english": "Enchant Unit<br><br> Aura:  Enemies up to 2 slots away have -1 Attack . When one dies gain +1 Attack permanently."
                 },
                 "references": []
             },
@@ -3685,7 +3685,7 @@
                     "english": "Vanessa"
                 },
                 "card_text": {
-                    "english": "Versatile OccultistActive 2 &#9632;, 1 Mana: Reduce the Mana cost of two random cards in your hand by 1. Change their color to blue.<br><br>  &#9634; Quickcast"
+                    "english": "Versatile Occultist<br>Active 2, 1 Mana: Reduce the Mana cost of two random cards in your hand by 1. Change their color to blue.<br><br> Quickcast"
                 },
                 "references": [
                     "10702"
@@ -3697,7 +3697,7 @@
                     "english": "Versatile Occultist"
                 },
                 "card_text": {
-                    "english": "Reduce the Mana cost of two random cards in your hand by 1. Change their color to blue.<br><br>  &#9634; Quickcast"
+                    "english": "Reduce the Mana cost of two random cards in your hand by 1. Change their color to blue.<br><br> Quickcast"
                 },
                 "references": []
             },
@@ -3717,7 +3717,7 @@
                     "english": "Dazzle"
                 },
                 "card_text": {
-                    "english": "Shadow WaveActive 2 &#9632;, 1 Mana: Repeat 4 times: Heal a damaged ally 1 and deal 1 damage to the closest adjacent enemy. Jump left or right to a damaged ally."
+                    "english": "Shadow Wave<br>Active 2, 1 Mana: Repeat 4 times: Heal a damaged ally 1 and deal 1 damage to the closest adjacent enemy. Jump left or right to a damaged ally."
                 },
                 "references": [
                     "10705"
@@ -3739,7 +3739,7 @@
                     "english": "Weave"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Aura:  Allies have +1&#9636; per round and enemies have -1&#9636; per round. <br><br>Dispel after 3 rounds."
+                    "english": "Enchant Tower<br><br>Aura:  Allies have +1 Armor per round and enemies have -1 Armor per round. <br><br>Dispel after 3 rounds."
                 },
                 "references": []
             },
@@ -3779,7 +3779,7 @@
                     "english": "Into the Fray"
                 },
                 "card_text": {
-                    "english": "Caster gains +2&#9635;. <br><br>&#9634; Quickcast"
+                    "english": "Caster gains +2 Attack . <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -3829,7 +3829,7 @@
                     "english": "Phantom Lancer"
                 },
                 "card_text": {
-                    "english": "Juxtapose<br><br>After Combat:  Summon a Lancer Illusion into the closest position.<BR/>\\n<BR/>\\nPhantom RushAura:  When Phantom Lancer is blocked, Phantom Lancer and Lancer Illusions have +1&#9635; and +1&#9636;."
+                    "english": "Juxtapose<br><br><br>After Combat:  Summon a Lancer Illusion into the closest position.<br><br><br><br>Phantom Rush<br>Aura:  When Phantom Lancer is blocked, Phantom Lancer and Lancer Illusions have +1 Attack and +1 Armor ."
                 },
                 "references": [
                     "10722",
@@ -3872,7 +3872,7 @@
                     "english": "Phantom Rush"
                 },
                 "card_text": {
-                    "english": "Aura:  When Phantom Lancer is blocked, Phantom Lancer and Lancer Illusions have +1&#9635; and +1&#9636;."
+                    "english": "Aura:  When Phantom Lancer is blocked, Phantom Lancer and Lancer Illusions have +1 Attack and +1 Armor ."
                 },
                 "references": []
             },
@@ -3882,7 +3882,7 @@
                     "english": "Orchid"
                 },
                 "card_text": {
-                    "english": "+2&#9635;<br><br>Active 3 &#9632;, 1 Mana: <br><br>Silence an enemy and give it -3&#9636;."
+                    "english": "+2 Attack <br><br>Active 3, 1 Mana: <br><br>Silence an enemy and give it -3 Armor ."
                 },
                 "references": []
             },
@@ -3892,7 +3892,7 @@
                     "english": "Orchid"
                 },
                 "card_text": {
-                    "english": "<br><br>Silence an enemy and give it -3&#9636;."
+                    "english": "<br><br>Silence an enemy and give it -3 Armor ."
                 },
                 "references": []
             },
@@ -3912,7 +3912,7 @@
                     "english": "Horde Stryder"
                 },
                 "card_text": {
-                    "english": "+2 damage when attacking a tower.<br><br>Active 1 &#9632;, 1 Mana: Move to an empty position."
+                    "english": "+2 damage when attacking a tower.<br><br>Active 1, 1 Mana: Move to an empty position."
                 },
                 "references": []
             },
@@ -3962,7 +3962,7 @@
                     "english": "Imperia"
                 },
                 "card_text": {
-                    "english": "SkullduggeryActive 2 &#9632;, 1 Mana: Choose a non-item card in your opponent's hand. They discard it then draw 1.<br><br>Give Imperia +10Attack equal to the discarded card's 13Mana cost."
+                    "english": "Skullduggery<br>Active 2, 1 Mana: Choose a non-item card in your opponent's hand. They discard it then draw 1.<br><br>Give Imperia +10Attack equal to the discarded card's 13Mana cost."
                 },
                 "references": [
                     "10731"
@@ -4084,7 +4084,7 @@
                     "english": "Quicksap Sproutling"
                 },
                 "card_text": {
-                    "english": "<br><br>After Combat:  Gain +1&#9635;/+1&#9637; permanently."
+                    "english": "<br><br>After Combat:  Gain +1 Attack /+1 Health permanently."
                 },
                 "references": []
             },
@@ -4124,7 +4124,7 @@
                     "english": "Moonglade Fusilier"
                 },
                 "card_text": {
-                    "english": "Active 1 &#9632;, 1 Mana: Deal 1 damage to all enemies to the left of Moonglade Fusilier."
+                    "english": "Active 1, 1 Mana: Deal 1 damage to all enemies to the left of Moonglade Fusilier."
                 },
                 "references": []
             },
@@ -4154,7 +4154,7 @@
                     "english": "Spirit of Desolation"
                 },
                 "card_text": {
-                    "english": "+1&#9635;/+1&#9637; for each empty slot on your opponent's side."
+                    "english": "+1 Attack /+1 Health for each empty slot on your opponent's side."
                 },
                 "references": []
             },
@@ -4174,7 +4174,7 @@
                     "english": "Resonant Construct"
                 },
                 "card_text": {
-                    "english": "Deploy Resonant Constructs instead of Melee Creeps.<br><br> +1&#9635; when you play a spell or enchantment in any lane."
+                    "english": "Deploy Resonant Constructs instead of Melee Creeps.<br><br> +1 Attack when you play a spell or enchantment in any lane."
                 },
                 "references": []
             },
@@ -4184,7 +4184,7 @@
                     "english": "Claddish Archivist"
                 },
                 "card_text": {
-                    "english": "Active 1 &#9632;, 1 Mana: Choose a card in your hand. Discard all copies and draw to replace them."
+                    "english": "Active 1, 1 Mana: Choose a card in your hand. Discard all copies and draw to replace them."
                 },
                 "references": []
             },
@@ -4234,7 +4234,7 @@
                     "english": "Outworld Devourer"
                 },
                 "card_text": {
-                    "english": "Arcane FluxRound Start:  Adjacent enemy heroes get -1&#9635; for two rounds. <br>Round Start:  If there is an adjacent enemy hero, you get +1 Mana."
+                    "english": "Arcane Flux<br>Round Start:  Adjacent enemy heroes get -1 Attack for two rounds. <br>Round Start:  If there is an adjacent enemy hero, you get +1 Mana."
                 },
                 "references": [
                     "10756"
@@ -4246,7 +4246,7 @@
                     "english": "Arcane Flux"
                 },
                 "card_text": {
-                    "english": "Round Start:  Adjacent enemy heroes get -1&#9635; for two rounds. <br>Round Start:  If there is an adjacent enemy hero, you get +1 Mana."
+                    "english": "Round Start:  Adjacent enemy heroes get -1 Attack for two rounds. <br>Round Start:  If there is an adjacent enemy hero, you get +1 Mana."
                 },
                 "references": []
             },
@@ -4266,7 +4266,7 @@
                     "english": "Arclight Elemental"
                 },
                 "card_text": {
-                    "english": "Feeble, Pierce<br><br>Active 1 &#9632;, 1 Mana: Bounce Arclight Elemental and give it +2&#9635; until end of its next combat phase. Summon a Arc Remnant into this position."
+                    "english": "Feeble, Pierce<br><br>Active 1, 1 Mana: Bounce Arclight Elemental and give it +2 Attack until end of its next combat phase. Summon a Arc Remnant into this position."
                 },
                 "references": []
             },
@@ -4276,7 +4276,7 @@
                     "english": "Arclight Elemental"
                 },
                 "card_text": {
-                    "english": "Bounce Arclight Elemental and give it +2&#9635; until end of its next combat phase. Summon a Arc Remnant into this position."
+                    "english": "Bounce Arclight Elemental and give it +2 Attack until end of its next combat phase. Summon a Arc Remnant into this position."
                 },
                 "references": []
             },
@@ -4326,7 +4326,7 @@
                     "english": "Veteran's Insight"
                 },
                 "card_text": {
-                    "english": "Enchant Caster<br><br> Aura:  Allies randomly gain +1 &#9635;, &#9636;, or &#9637; after dealing battle damage."
+                    "english": "Enchant Caster<br><br> Aura:  Allies randomly gain +1 Attack , Armor , or Health after dealing battle damage."
                 },
                 "references": []
             },
@@ -4346,7 +4346,7 @@
                     "english": "Overpower2"
                 },
                 "card_text": {
-                    "english": "Enchant Caster<br><br> Modify caster with +2&#9635; and \\\"This hero's attackers with attack lower than you are disarmed.\\\""
+                    "english": "Enchant Caster<br><br> Modify caster with +2 Attack and \\\"This hero's attackers with attack lower than you are disarmed.\\\""
                 },
                 "references": []
             },
@@ -4376,7 +4376,7 @@
                     "english": "Ironwood Heart"
                 },
                 "card_text": {
-                    "english": "Enchant Caster, Mulch<br><br> Gain +1&#9635;/+1&#9637; permanently.<br><br>Round Start:  Repeat this effect."
+                    "english": "Enchant Caster, Mulch<br><br> Gain +1 Attack /+1 Health permanently.<br><br>Round Start:  Repeat this effect."
                 },
                 "references": []
             },
@@ -4396,7 +4396,7 @@
                     "english": "Relentless Pursuit"
                 },
                 "card_text": {
-                    "english": "Move caster to an unblocked enemy in another lane. <br>&#9633; Deal 2 damage to that enemy. <br><br>Cross Lane"
+                    "english": "Move caster to an unblocked enemy in another lane. <br>Deal 2 damage to that enemy. <br><br>Cross Lane"
                 },
                 "references": []
             },
@@ -4406,7 +4406,7 @@
                     "english": "Path of the Cunning"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>The enemy tower has -1&#9636; per charge.<br><br>Add a charge after you play a black card."
+                    "english": "Enchant Tower<br><br>The enemy tower has -1 Armor per charge.<br><br>Add a charge after you play a black card."
                 },
                 "references": []
             },
@@ -4426,7 +4426,7 @@
                     "english": "Path of the Dreamer"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>After you play a green card, give this tower +2&#9637; permanently."
+                    "english": "Enchant Tower<br><br>After you play a green card, give this tower +2 Health permanently."
                 },
                 "references": []
             },
@@ -4436,7 +4436,7 @@
                     "english": "Path of the Bold"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Your blocked heroes have +1&#9635; per charge.<br><br>Add a charge after you play a red card."
+                    "english": "Enchant Tower<br><br>Your blocked heroes have +1 Attack per charge.<br><br>Add a charge after you play a red card."
                 },
                 "references": []
             },
@@ -4456,7 +4456,7 @@
                     "english": "Revtel Signet Ring"
                 },
                 "card_text": {
-                    "english": "+3&#9637;, -5 Bounty."
+                    "english": "+3 Health , -5 Bounty."
                 },
                 "references": []
             },
@@ -4466,7 +4466,7 @@
                     "english": "Hero's Cape"
                 },
                 "card_text": {
-                    "english": "+12&#9637;"
+                    "english": "+12 Health "
                 },
                 "references": []
             },
@@ -4476,7 +4476,7 @@
                     "english": "Claszureme Hourglass"
                 },
                 "card_text": {
-                    "english": "+3&#9637; <br><br>+2 Lock to any extra cards your opponent draws each round."
+                    "english": "+3 Health <br><br>+2 Lock to any extra cards your opponent draws each round."
                 },
                 "references": []
             },
@@ -4486,7 +4486,7 @@
                     "english": "Bounty Hunter"
                 },
                 "card_text": {
-                    "english": "TrackBounty Hunter deals +3 damage when attacking tracked heroes.<br><br>Deploy:  Track Bounty Hunter's target until it dies if it's a hero. Tracked heroes have +5 Bounty."
+                    "english": "Track<br>Bounty Hunter deals +3 damage when attacking tracked heroes.<br><br>Deploy:  Track<br> Bounty Hunter's target until it dies if it's a hero. Track<br>ed heroes have +5 Bounty."
                 },
                 "references": [
                     "10784"
@@ -4518,7 +4518,7 @@
                     "english": "Venomancer"
                 },
                 "card_text": {
-                    "english": "Venomous Nature<br><br>After Combat:  Summon a Plague Ward into the closest position."
+                    "english": "Venomous Nature<br><br><br>After Combat:  Summon a Plague Ward into the closest position."
                 },
                 "references": [
                     "10787"
@@ -4560,7 +4560,7 @@
                     "english": "Sorla Khan's Spear"
                 },
                 "card_text": {
-                    "english": "+2&#9635;, +2 Siege <br><br>Scheme: +2&#9635; and +2 Siege."
+                    "english": "+2 Attack , +2 Siege <br><br>Scheme: +2 Attack and +2 Siege."
                 },
                 "references": []
             },
@@ -4580,7 +4580,7 @@
                     "english": "Jasper Daggers"
                 },
                 "card_text": {
-                    "english": "+2&#9635;, Pierce <br><br>Play Effect:  Purge your opponent's effects from equipped hero."
+                    "english": "+2 Attack , Pierce <br><br>Play Effect:  Purge your opponent's effects from equipped hero."
                 },
                 "references": []
             },
@@ -4600,7 +4600,7 @@
                     "english": "Spirit of St. Crella"
                 },
                 "card_text": {
-                    "english": "<br><br>After Combat:  heal Spirit of St. Crella, give it +3&#9635; permanently, and move it to the next lane on the right."
+                    "english": "<br><br>After Combat:  heal Spirit of St. Crella, give it +3 Attack permanently, and move it to the next lane on the right."
                 },
                 "references": []
             },
@@ -4660,7 +4660,7 @@
                     "english": "Killer Instinct"
                 },
                 "card_text": {
-                    "english": "Enchant Unit<br><br> Scheme: +2&#9635;<br><br>Dispel Killer Instinct on death. <br><br>&#9634; Quickcast"
+                    "english": "Enchant Unit<br><br> Scheme: +2 Attack <br><br>Dispel Killer Instinct on death. <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -4690,7 +4690,7 @@
                     "english": "Knives in the Dark"
                 },
                 "card_text": {
-                    "english": "Give a unit -3&#9635;. It battles its adjacent enemies."
+                    "english": "Give a unit -3 Attack . It battles its adjacent enemies."
                 },
                 "references": []
             },
@@ -4720,7 +4720,7 @@
                     "english": "Psychic Surgery"
                 },
                 "card_text": {
-                    "english": "Choosen caster gains Spectral.<br><br>Swap the colors of two heroes on the same team. <br><br>&#9634; Quickcast"
+                    "english": "Choosen caster gains Spectral.<br><br>Swap the colors of two heroes on the same team. <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -4740,7 +4740,7 @@
                     "english": "The Oath"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Your units are silenced and have +3&#9635;."
+                    "english": "Enchant Tower<br><br>Your units are silenced and have +3 Attack ."
                 },
                 "references": []
             },
@@ -4790,7 +4790,7 @@
                     "english": "Transmuted Weapon"
                 },
                 "card_text": {
-                    "english": "Cursed. -1&#9635;"
+                    "english": "Cursed. -1 Attack "
                 },
                 "references": []
             },
@@ -4800,7 +4800,7 @@
                     "english": "Squirmified-Straps"
                 },
                 "card_text": {
-                    "english": "Cursed. -1&#9636;"
+                    "english": "Cursed. -1 Armor "
                 },
                 "references": []
             },
@@ -4820,7 +4820,7 @@
                     "english": "Kanna"
                 },
                 "card_text": {
-                    "english": "Bringer of Conquest<br><br>After Combat:  If you have three empty slots, your lane creeps are all deployed into this lane.<BR/>\\n<BR/>\\nPrey on the WeakWhenever a creep enters this lane under your control, summon a Hound of War to devour it."
+                    "english": "Bringer of Conquest<br><br><br>After Combat:  If you have three empty slots, your lane creeps are all deployed into this lane.<br><br><br><br>Prey on the Weak<br>Whenever a creep enters this lane under your control, summon a Hound of War to devour it."
                 },
                 "references": [
                     "10907",
@@ -4873,7 +4873,7 @@
                     "english": "Force Staff"
                 },
                 "card_text": {
-                    "english": "+2&#9635;<br><br>Active 2 &#9632;, 1 Mana: Push a unit."
+                    "english": "+2 Attack <br><br>Active 2, 1 Mana: Push a unit."
                 },
                 "references": []
             },
@@ -4893,7 +4893,7 @@
                     "english": "Sheep Stick"
                 },
                 "card_text": {
-                    "english": "+5&#9635;<br><br>Active 2 &#9632;, 1 Mana: Hex an enemy for two rounds. (They are stunned and look like a sheep.)"
+                    "english": "+5 Attack <br><br>Active 2, 1 Mana: Hex an enemy for two rounds. (They are stunned and look like a sheep.)"
                 },
                 "references": []
             },
@@ -4953,7 +4953,7 @@
                     "english": "Sand King"
                 },
                 "card_text": {
-                    "english": "BurrowstrikeActive 4 &#9632;, 1 Mana: Move up to 4 slots away in any lane. Stun and deal 1 damage to the new adjacent enemies.<br><br>  Cross Lane"
+                    "english": "Burrowstrike<br>Active 4, 1 Mana: Move up to 4 slots away in any lane. Stun and deal 1 damage to the new adjacent enemies.<br><br>  Cross Lane"
                 },
                 "references": [
                     "10939"
@@ -4985,7 +4985,7 @@
                     "english": "Tiny"
                 },
                 "card_text": {
-                    "english": "GrowActive 3 &#9632;, 1 Mana: Gain +4&#9635;/+4&#9637; permanently."
+                    "english": "Grow<br>Active 3, 1 Mana: Gain +4 Attack /+4 Health permanently."
                 },
                 "references": [
                     "10941"
@@ -4997,7 +4997,7 @@
                     "english": "Grow"
                 },
                 "card_text": {
-                    "english": "Gain +4&#9635;/+4&#9637; permanently."
+                    "english": "Gain +4 Attack /+4 Health permanently."
                 },
                 "references": []
             },
@@ -5017,7 +5017,7 @@
                     "english": "Prellex"
                 },
                 "card_text": {
-                    "english": "Gather the FaithfulDeploy to the right instead of the left and Mega Creeps instead of Melee Creeps.<br><br>Deploy:  Redeploy your leftmost Melee Creep"
+                    "english": "Gather the Faithful<br>Deploy to the right instead of the left and Mega Creeps instead of Melee Creeps.<br><br>Deploy:  Redeploy your leftmost Melee Creep"
                 },
                 "references": [
                     "10523"
@@ -5039,7 +5039,7 @@
                     "english": "Barracks"
                 },
                 "card_text": {
-                    "english": "Enchant Tower<br><br>Aura:  Your creeps have +1&#9635;/+1&#9637;."
+                    "english": "Enchant Tower<br><br>Aura:  Your creeps have +1 Attack /+1 Health ."
                 },
                 "references": []
             },
@@ -5059,7 +5059,7 @@
                     "english": "Ring of Basilius"
                 },
                 "card_text": {
-                    "english": "+1&#9636; <br><br>Aura:  Your creeps have +1&#9636;."
+                    "english": "+1 Armor <br><br>Aura:  Your creeps have +1 Armor ."
                 },
                 "references": []
             },
@@ -5069,7 +5069,7 @@
                     "english": "Necronomicon"
                 },
                 "card_text": {
-                    "english": "+6&#9637;. <br><br>Deploy Demonic Archers instead of Melee Creeps."
+                    "english": "+6 Health . <br><br>Deploy Demonic Archers instead of Melee Creeps."
                 },
                 "references": []
             },
@@ -5229,7 +5229,7 @@
                     "english": "Stonehall Keep Breaker"
                 },
                 "card_text": {
-                    "english": "Stonehall Keep Breaker has +1&#9635; for each allied Bronze Legion unit in every lane."
+                    "english": "Stonehall Keep Breaker has +1 Attack for each allied Bronze Legion unit in every lane."
                 },
                 "references": []
             },
@@ -5249,7 +5249,7 @@
                     "english": "Imperial Herald"
                 },
                 "card_text": {
-                    "english": "Play Effect:  Modify allied Bronze Legion units everywhere with +1&#9635;."
+                    "english": "Play Effect:  Modify allied Bronze Legion units everywhere with +1 Attack ."
                 },
                 "references": []
             },
@@ -5279,7 +5279,7 @@
                     "english": "Dragon Knight"
                 },
                 "card_text": {
-                    "english": "Dragon Blood+2 Regeneration<br><br>Dragon FormActive 3 &#9632;, 1 Mana: Transform to a Dragon for one round.<br><br>When you deal battle damage to towers or units in dragon form, give them +3 Decay for 3 rounds."
+                    "english": "Dragon Blood<br>+2 Regeneration<br><br>Dragon Form<br>Active 3, 1 Mana: Transform to a Dragon for one round.<br><br>When you deal battle damage to towers or units in dragon form, give them +3 Decay for 3 rounds."
                 },
                 "references": [
                     "10983",
@@ -5342,7 +5342,7 @@
                     "english": "Wraith King"
                 },
                 "card_text": {
-                    "english": "ReincarnationWhen Wraith King uses a death shield, heal to full and give enemies -2&#9635; for their next combat.<br><br>Deploy:  Gain a death shield until death."
+                    "english": "Reincarnation<br>When Wraith King uses a death shield, heal to full and give enemies -2 Attack for their next combat.<br><br>Deploy:  Gain a death shield until death."
                 },
                 "references": [
                     "10992"
@@ -5354,7 +5354,7 @@
                     "english": "Reincarnation"
                 },
                 "card_text": {
-                    "english": "When Wraith King uses a death shield, heal to full and give enemies -2&#9635; for their next combat.<br><br>Deploy:  Gain a death shield until death."
+                    "english": "When Wraith King uses a death shield, heal to full and give enemies -2 Attack for their next combat.<br><br>Deploy:  Gain a death shield until death."
                 },
                 "references": []
             },
@@ -5374,7 +5374,7 @@
                     "english": "Farvhan the Dreamer"
                 },
                 "card_text": {
-                    "english": "Pack LeaderFarvhan the Dreamer has +1&#9635; for each ally in lane."
+                    "english": "Pack Leader<br>Farvhan the Dreamer has +1 Attack for each ally in lane."
                 },
                 "references": [
                     "11001"
@@ -5386,7 +5386,7 @@
                     "english": "Pack Leader"
                 },
                 "card_text": {
-                    "english": "Farvhan the Dreamer has +1&#9635; for each ally in lane."
+                    "english": "Farvhan the Dreamer has +1 Attack for each ally in lane."
                 },
                 "references": []
             },
@@ -5396,7 +5396,7 @@
                     "english": "Prowler Vanguard"
                 },
                 "card_text": {
-                    "english": "Aura:  Prowler Vanguard's neighbors have +1&#9636;."
+                    "english": "Aura:  Prowler Vanguard's neighbors have +1 Armor ."
                 },
                 "references": []
             },
@@ -5406,7 +5406,7 @@
                     "english": "Keefe the Bold"
                 },
                 "card_text": {
-                    "english": "Stop Hittin' YourselfActive 3 &#9632;, 1 Mana: Each unit pointing at Keefe the Bold battles itself."
+                    "english": "Stop Hittin' Yourself<br>Active 3, 1 Mana: Each unit pointing at Keefe the Bold battles itself."
                 },
                 "references": [
                     "11011"
@@ -5418,7 +5418,7 @@
                     "english": "Reckless Charge"
                 },
                 "card_text": {
-                    "english": "Swap caster to a neighboring position. It taunts. <br><br>&#9634; Quickcast"
+                    "english": "Swap caster to a neighboring position. It taunts. <br><br>Quickcast"
                 },
                 "references": []
             },
@@ -5428,7 +5428,7 @@
                     "english": "Debbi the Cunning"
                 },
                 "card_text": {
-                    "english": "Scrapper<br><br>After Combat:  If Debbi the Cunning dealt damage to a tower, give the tower -1&#9636; and give Debbi +1&#9636; permanently."
+                    "english": "Scrapper<br><br><br>After Combat:  If Debbi the Cunning dealt damage to a tower, give the tower -1 Armor and give Debbi +1 Armor permanently."
                 },
                 "references": [
                     "11006"
@@ -5440,7 +5440,7 @@
                     "english": "Scrapper"
                 },
                 "card_text": {
-                    "english": "<br><br>After Combat:  If Debbi the Cunning dealt damage to a tower, give the tower -1&#9636; and give Debbi +1&#9636; permanently."
+                    "english": "<br><br>After Combat:  If Debbi the Cunning dealt damage to a tower, give the tower -1 Armor and give Debbi +1 Armor permanently."
                 },
                 "references": []
             },
@@ -5460,7 +5460,7 @@
                     "english": "J'Muy the Wise"
                 },
                 "card_text": {
-                    "english": "Wisdom of the EldersActive 4 &#9632;, 1 Mana: Draw a card.<br><br>Reduce cooldown by 1, but not below 1."
+                    "english": "Wisdom of the Elders<br>Active 4, 1 Mana: Draw a card.<br><br>Reduce cooldown by 1, but not below 1."
                 },
                 "references": [
                     "11009"
@@ -5512,7 +5512,7 @@
                     "english": "Mjolnir"
                 },
                 "card_text": {
-                    "english": "+5&#9635; <br><br>After battling a unit, deal 3 damage to it. Repeat 3 more times: &#9633; Deal 3 damage to a random unit to its left or right."
+                    "english": "+5 Attack <br><br>After battling a unit, deal 3 damage to it. Repeat 3 more times:Deal 3 damage to a random unit to its left or right."
                 },
                 "references": []
             },
@@ -5522,7 +5522,7 @@
                     "english": "Silver Edge"
                 },
                 "card_text": {
-                    "english": "+5&#9635;<br><br>Active 2 &#9632;, 1 Mana: Disable passive abilities on an enemy in any lane. Battle that enemy.<br><br>  Cross Lane"
+                    "english": "+5 Attack <br><br>Active 2, 1 Mana: Disable passive abilities on an enemy in any lane. Battle that enemy.<br><br>  Cross Lane"
                 },
                 "references": []
             },
@@ -5532,7 +5532,7 @@
                     "english": "Nullifier"
                 },
                 "card_text": {
-                    "english": "+2&#9636;, +2 Regeneration<br><br>Active 3 &#9632;, 1 Mana: Purge opponent's effects from an enemy unit."
+                    "english": "+2 Armor , +2 Regeneration<br><br>Active 3, 1 Mana: Purge opponent's effects from an enemy unit."
                 },
                 "references": []
             },
@@ -5552,7 +5552,7 @@
                     "english": "Guardian Greaves"
                 },
                 "card_text": {
-                    "english": "+4&#9636; <br><br>Play Effect:  Activate.<br><br>Active 2 &#9632;, 1 Mana: Purge your opponent's effects from equipped hero. Heal each ally 4."
+                    "english": "+4 Armor <br><br>Play Effect:  Activate.<br><br>Active 2, 1 Mana: Purge your opponent's effects from equipped hero. Heal each ally 4."
                 },
                 "references": []
             },
@@ -5562,7 +5562,7 @@
                     "english": "Vladmir's Offering"
                 },
                 "card_text": {
-                    "english": "Aura:  Allied units have +4&#9636; and Lifesteal."
+                    "english": "Aura:  Allied units have +4 Armor and Lifesteal."
                 },
                 "references": []
             },
@@ -5572,7 +5572,7 @@
                     "english": "Spirit Vessel"
                 },
                 "card_text": {
-                    "english": "+9&#9637;, +1 Mana<br><br> After a hero dies, add a charge.<br><br>Active 0 &#9632;, 1 Mana: Spend a charge. Give an enemy +4 Decay or an ally +4 Regeneration."
+                    "english": "+9 Health , +1 Mana<br><br> After a hero dies, add a charge.<br><br>Active 0, 1 Mana: Spend a charge. Give an enemy +4 Decay or an ally +4 Regeneration."
                 },
                 "references": []
             },
@@ -5582,7 +5582,7 @@
                     "english": "Holy Locket"
                 },
                 "card_text": {
-                    "english": "+9&#9637;<br><br> When an enemy plays an ability or card from this lane, restore 1  Mana.<br><br> Aura:  Allies have doubled Healing and Regeneration."
+                    "english": "+9 Health <br><br> When an enemy plays an ability or card from this lane, restore 1  Mana.<br><br> Aura:  Allies have doubled Healing and Regeneration."
                 },
                 "references": []
             },
@@ -5592,7 +5592,7 @@
                     "english": "Radiance"
                 },
                 "card_text": {
-                    "english": "+10&#9635; <br><br>Round Start:  Deal 2 piercing damage to enemy units."
+                    "english": "+10 Attack <br><br>Round Start:  Deal 2 piercing damage to enemy units."
                 },
                 "references": []
             },
@@ -5602,7 +5602,7 @@
                     "english": "Darkblight Shield"
                 },
                 "card_text": {
-                    "english": "+7&#9636;<br><br> Aura:  Enemy units have -7&#9636;."
+                    "english": "+7 Armor <br><br> Aura:  Enemy units have -7 Armor ."
                 },
                 "references": []
             },
@@ -5612,7 +5612,7 @@
                     "english": "Refresher Orb"
                 },
                 "card_text": {
-                    "english": "+6&#9637;<br><br>Active 2 &#9632;, 1 Mana: Refresh all cooldowns on equipped hero. Draw a card. restore 3 mana."
+                    "english": "+6 Health <br><br>Active 2, 1 Mana: Refresh all cooldowns on equipped hero. Draw a card. restore 3 mana."
                 },
                 "references": []
             },
@@ -5622,7 +5622,7 @@
                     "english": "Dagon"
                 },
                 "card_text": {
-                    "english": "+9&#9637;<br><br>Active 1 &#9632;, 1 Mana: Deal 12 piercing damage to a unit."
+                    "english": "+9 Health <br><br>Active 1, 1 Mana: Deal 12 piercing damage to a unit."
                 },
                 "references": []
             },
@@ -5682,7 +5682,7 @@
                     "english": "Vanguard"
                 },
                 "card_text": {
-                    "english": "+5&#9636;, +3&#9637;, +3 Regeneration"
+                    "english": "+5 Armor , +3 Health , +3 Regeneration"
                 },
                 "references": []
             },
@@ -5692,7 +5692,7 @@
                     "english": "Gem of Truesight"
                 },
                 "card_text": {
-                    "english": "+6&#9637; <br><br>Round Start:  Reveal opponent's hand."
+                    "english": "+6 Health <br><br>Round Start:  Reveal opponent's hand."
                 },
                 "references": []
             },
@@ -5702,7 +5702,7 @@
                     "english": "Ghost Scepter"
                 },
                 "card_text": {
-                    "english": "+6&#9637;<br><br>Active 1 &#9632;, 1 Mana: Give a unit immunity to battle damage, other damage it takes is doubled."
+                    "english": "+6 Health <br><br>Active 1, 1 Mana: Give a unit immunity to battle damage, other damage it takes is doubled."
                 },
                 "references": []
             },
@@ -5742,7 +5742,7 @@
                     "english": "Viper"
                 },
                 "card_text": {
-                    "english": "Poison AttackPiercing (Viper's attacks isn't reduced by armor.) <br> <br>Give towers and units you damage +2 Decay for two rounds."
+                    "english": "Poison Attack<br>Piercing (Viper's attacks isn't reduced by armor.) <br> <br>Give towers and units you damage +2 Decay for two rounds."
                 },
                 "references": [
                     "11036"
@@ -5774,7 +5774,7 @@
                     "english": "Rod of Atos"
                 },
                 "card_text": {
-                    "english": "+3&#9637;<br><br>Active 2 &#9632;, 1 Mana: Root a unit for two rounds."
+                    "english": "+3 Health <br><br>Active 2, 1 Mana: Root a unit for two rounds."
                 },
                 "references": []
             },
@@ -5794,7 +5794,7 @@
                     "english": "Troll Warlord"
                 },
                 "card_text": {
-                    "english": "FervorWhen Troll Warlord deals battle damage to the same unit or tower, charge Troll Warlord. Otherwise, reset to 1. <br><br>+3 damage per charge when attacking the same unit or tower. <br><br>Troll Warlord has +1&#9636; per charge."
+                    "english": "Fervor<br>When Troll Warlord deals battle damage to the same unit or tower, charge Troll Warlord. Otherwise, reset to 1. <br><br>+3 damage per charge when attacking the same unit or tower. <br><br>Troll Warlord has +1 Armor per charge."
                 },
                 "references": [
                     "11040"
@@ -5806,7 +5806,7 @@
                     "english": "Fervor"
                 },
                 "card_text": {
-                    "english": "When Troll Warlord deals battle damage to the same unit or tower, charge Fervor. Otherwise, reset to 1. <br><br>+3 damage per charge when attacking the same unit or tower. <br><br>Troll Warlord has +1&#9636; per charge."
+                    "english": "When Troll Warlord deals battle damage to the same unit or tower, charge Fervor. Otherwise, reset to 1. <br><br>+3 damage per charge when attacking the same unit or tower. <br><br>Troll Warlord has +1 Armor per charge."
                 },
                 "references": []
             },
@@ -5846,7 +5846,7 @@
                     "english": "Root Boots"
                 },
                 "card_text": {
-                    "english": "+2&#9636;<br><br> Aura:  Adjacent enemies are rooted and have +2 Decay."
+                    "english": "+2 Armor <br><br> Aura:  Adjacent enemies are rooted and have +2 Decay."
                 },
                 "references": []
             },
@@ -5866,7 +5866,7 @@
                     "english": "Arc Warden"
                 },
                 "card_text": {
-                    "english": "Tempest DoubleActive 3 &#9632;, 1 Mana: Clone Arc Warden and its equipment for two rounds. <br> <br>The clone cannot make additional clones, does not redeploy when it dies, and has no bounty if it expires."
+                    "english": "Tempest Double<br>Active 3, 1 Mana: Clone Arc Warden and its equipment for two rounds. <br> <br>The clone cannot make additional clones, does not redeploy when it dies, and has no bounty if it expires."
                 },
                 "references": [
                     "11047"
@@ -5928,7 +5928,7 @@
                     "english": "Nyx Assassin"
                 },
                 "card_text": {
-                    "english": "VendettaActive 3 &#9632;, 1 Mana: Move to any position. <br> <br>Nyx Assassin sneak attacks the new unit blocking it with +3&#9635;."
+                    "english": "Vendetta<br>Active 3, 1 Mana: Move to any position. <br> <br>Nyx Assassin sneak attacks the new unit blocking it with +3 Attack ."
                 },
                 "references": [
                     "11057"
@@ -5940,7 +5940,7 @@
                     "english": "Vendetta"
                 },
                 "card_text": {
-                    "english": "Move to any position. <br> <br>Nyx Assassin sneak attacks the new unit blocking it with +3&#9635;."
+                    "english": "Move to any position. <br> <br>Nyx Assassin sneak attacks the new unit blocking it with +3 Attack ."
                 },
                 "references": []
             },
@@ -6040,7 +6040,7 @@
                     "english": "The Hunger Towers 1"
                 },
                 "card_text": {
-                    "english": "Your towers in all lanes have +20&#9637;."
+                    "english": "Your towers in all lanes have +20 Health ."
                 },
                 "references": []
             },
@@ -6050,7 +6050,7 @@
                     "english": "The Hunger Towers 2"
                 },
                 "card_text": {
-                    "english": "Your towers in all lanes have +20&#9637; and +10&#9636;."
+                    "english": "Your towers in all lanes have +20 Health and +10 Armor ."
                 },
                 "references": []
             },
@@ -6060,7 +6060,7 @@
                     "english": "The Hunger Towers 3"
                 },
                 "card_text": {
-                    "english": "Your towers in all lanes have +120&#9637; and +10&#9636;."
+                    "english": "Your towers in all lanes have +120 Health and +10 Armor ."
                 },
                 "references": []
             },
@@ -6070,7 +6070,7 @@
                     "english": "The Hunger Towers 4"
                 },
                 "card_text": {
-                    "english": "Your towers in all lanes have +240&#9637; and +20&#9636;."
+                    "english": "Your towers in all lanes have +240 Health and +20 Armor ."
                 },
                 "references": []
             },
@@ -6080,7 +6080,7 @@
                     "english": "Quoidgic Outreach Coordinator"
                 },
                 "card_text": {
-                    "english": "Quoidgic Outreach Coordinator has -1 Weapon slot, -1&#9636; slot, and -1 Accessory slot.<BR/>\\n<BR/>\\nLet's Keep MovingAfter the combat phase, move Quoidgic Outreach Coordinator to a random other lane.<BR/>\\n<BR/>\\nQuoidgic HospitalityCitizenofQuoidge units have \\\"Disarmed\\\". CitizenofQuoidge units have \\\"Silenced\\\"."
+                    "english": "Quoidgic Outreach Coordinator has -1 Weapon slot, -1 Armor slot, and -1 Accessory slot.<br><br><br><br>Let's Keep Moving<br>After the combat phase, move Quoidgic Outreach Coordinator to a random other lane.<br><br><br><br>Quoidgic Hospitality<br>CitizenofQuoidge units have \\\"Disarmed\\\". CitizenofQuoidge units have \\\"Silenced\\\"."
                 },
                 "references": [
                     "10826",
@@ -6113,7 +6113,7 @@
                     "english": "Merjuun the Gibbering"
                 },
                 "card_text": {
-                    "english": "Marrow RustActive 2 &#9632;, 1 Mana: Draw a card."
+                    "english": "Marrow Rust<br>Active 2, 1 Mana: Draw a card."
                 },
                 "references": [
                     "10868"
@@ -6135,7 +6135,7 @@
                     "english": "Living Shadow of Carter St."
                 },
                 "card_text": {
-                    "english": "Infectious BlightActive 3 &#9632;, 1 Mana: Give the enemy tower -1&#9636; this round for each enemy."
+                    "english": "Infectious Blight<br>Active 3, 1 Mana: Give the enemy tower -1 Armor this round for each enemy."
                 },
                 "references": [
                     "10864"
@@ -6147,7 +6147,7 @@
                     "english": "Infectious Blight"
                 },
                 "card_text": {
-                    "english": "Give the enemy tower -1&#9636; this round for each enemy."
+                    "english": "Give the enemy tower -1 Armor this round for each enemy."
                 },
                 "references": []
             },
@@ -6157,7 +6157,7 @@
                     "english": "Bodega Wraith"
                 },
                 "card_text": {
-                    "english": "You Are The ProductActive 2 &#9632;, 1 Mana: Draw a card."
+                    "english": "You Are The Product<br>Active 2, 1 Mana: Draw a card."
                 },
                 "references": [
                     "10865"
@@ -6179,7 +6179,7 @@
                     "english": "Sewer Phantom"
                 },
                 "card_text": {
-                    "english": "Sewer Phantom PowerActive 3 &#9632;, 1 Mana: Draw a card."
+                    "english": "Sewer Phantom Power<br>Active 3, 1 Mana: Draw a card."
                 },
                 "references": [
                     "10866"
@@ -6201,7 +6201,7 @@
                     "english": "Accumulated Pigeon Rage"
                 },
                 "card_text": {
-                    "english": "Pigeon Rage PowerActive 3 &#9632;, 1 Mana: Draw a card."
+                    "english": "Pigeon Rage Power<br>Active 3, 1 Mana: Draw a card."
                 },
                 "references": [
                     "10867"
@@ -6223,7 +6223,7 @@
                     "english": "Helpful Treant Tourist"
                 },
                 "card_text": {
-                    "english": "Calming VinesActive 2 &#9632;, 1 Mana: Give enemy neighbors \\\"Rooted\\\" and \\\"Disarmed\\\" this round."
+                    "english": "Calming Vines<br>Active 2, 1 Mana: Give enemy neighbors \\\"Rooted\\\" and \\\"Disarmed\\\" this round."
                 },
                 "references": [
                     "10871"
@@ -6245,7 +6245,7 @@
                     "english": "Djinni Tourist"
                 },
                 "card_text": {
-                    "english": "Djinni PowerActive 3 &#9632;, 1 Mana: Draw a card."
+                    "english": "Djinni Power<br>Active 3, 1 Mana: Draw a card."
                 },
                 "references": [
                     "10873"
@@ -6277,7 +6277,7 @@
                     "english": "Golem Tourist"
                 },
                 "card_text": {
-                    "english": "Golem PowerActive 3 &#9632;, 1 Mana: Draw a card."
+                    "english": "Golem Power<br>Active 3, 1 Mana: Draw a card."
                 },
                 "references": [
                     "10876"
@@ -6319,7 +6319,7 @@
                     "english": "Children of Necrophos"
                 },
                 "card_text": {
-                    "english": "Death Effect:  Give your Necrophos in every lane +1&#9637; and +1&#9635; permanently. Give enemy neighbors +2 Decay until end of their next combat phase."
+                    "english": "Death Effect:  Give your Necrophos in every lane +1 Health and +1 Attack permanently. Give enemy neighbors +2 Decay until end of their next combat phase."
                 },
                 "references": []
             },
@@ -6349,7 +6349,7 @@
                     "english": "Plague-Ridden Wolf"
                 },
                 "card_text": {
-                    "english": "Infectious BiteActive 3 &#9632;, 1 Mana: Give an enemy unit +3 Decay this round."
+                    "english": "Infectious Bite<br>Active 3, 1 Mana: Give an enemy unit +3 Decay this round."
                 },
                 "references": [
                     "10836"
@@ -6371,7 +6371,7 @@
                     "english": "Gelatinous Vapor"
                 },
                 "card_text": {
-                    "english": "Pneumonic SprayScheme: Give the unit blocking Gelatinous Vapor +1 Decay this round."
+                    "english": "Pneumonic Spray<br>Scheme: Give the unit blocking Gelatinous Vapor +1 Decay this round."
                 },
                 "references": [
                     "10838"
@@ -6393,7 +6393,7 @@
                     "english": "Sentient Pustule"
                 },
                 "card_text": {
-                    "english": "BurstActive 2 &#9632;, 1 Mana: Trigger allied Death Effects and condemn Sentient Pustule."
+                    "english": "Burst<br>Active 2, 1 Mana: Trigger allied Death Effects and condemn Sentient Pustule."
                 },
                 "references": [
                     "10840"
@@ -6425,7 +6425,7 @@
                     "english": "Rix, Legionnaire"
                 },
                 "card_text": {
-                    "english": "Kinetic DiplomacyActive 2 &#9632;, 1 Mana: Deal 1 damage to a unit and displace it."
+                    "english": "Kinetic Diplomacy<br>Active 2, 1 Mana: Deal 1 damage to a unit and displace it."
                 },
                 "references": [
                     "10843"
@@ -6477,7 +6477,7 @@
                     "english": "Marcus"
                 },
                 "card_text": {
-                    "english": "Out of EarshotAllied heroes in other lanes have +1&#9635;.<br><br>Behold my GloryActive 2 &#9632;, 1 Mana: Give Marcus +1&#9635; this round per allied unit and give allied units -1&#9635; this round."
+                    "english": "Out of Earshot<br>Allied heroes in other lanes have +1 Attack .<br><br>Behold my Glory<br>Active 2, 1 Mana: Give Marcus +1 Attack this round per allied unit and give allied units -1 Attack this round."
                 },
                 "references": [
                     "10853",
@@ -6490,7 +6490,7 @@
                     "english": "Out of Earshot"
                 },
                 "card_text": {
-                    "english": "Allied heroes in other lanes have +1&#9635;."
+                    "english": "Allied heroes in other lanes have +1 Attack ."
                 },
                 "references": []
             },
@@ -6500,7 +6500,7 @@
                     "english": "Behold my Glory"
                 },
                 "card_text": {
-                    "english": "Give Marcus +1&#9635; this round per allied unit and give allied units -1&#9635; this round."
+                    "english": "Give Marcus +1 Attack this round per allied unit and give allied units -1 Attack this round."
                 },
                 "references": []
             },
@@ -6520,7 +6520,7 @@
                     "english": "Alcur"
                 },
                 "card_text": {
-                    "english": "Meet the MomentAlcur has Rapid Deployment.<br><br>Fight For RoseleafActive 3 &#9632;, 1 Mana: Give all allied and enemy Vhouls +2 Siege this round."
+                    "english": "Meet the Moment<br>Alcur has Rapid Deployment.<br><br>Fight For Roseleaf<br>Active 3, 1 Mana: Give all allied and enemy Vhouls +2 Siege this round."
                 },
                 "references": [
                     "10857",
@@ -6563,7 +6563,7 @@
                     "english": "Undying"
                 },
                 "card_text": {
-                    "english": "Soul RipActive 3 &#9632;, 1 Mana: Deal 1 damage to an enemy for each other enemy or heal an ally 1 for each enemy."
+                    "english": "Soul Rip<br>Active 3, 1 Mana: Deal 1 damage to an enemy for each other enemy or heal an ally 1 for each enemy."
                 },
                 "references": [
                     "10901"
@@ -6595,7 +6595,7 @@
                     "english": "Restless Spirit"
                 },
                 "card_text": {
-                    "english": "Feeble.<BR/>\\n<BR/>\\nBefore the action phase, if Restless Spirit is blocked, deal 1 damage to the unit blocking Restless Spirit and give your Death Prophets in every lane +1 Regeneration this round."
+                    "english": "Feeble.<br><br><br><br>Before the action phase, if Restless Spirit is blocked, deal 1 damage to the unit blocking Restless Spirit and give your Death Prophets in every lane +1 Regeneration this round."
                 },
                 "references": []
             },
@@ -6615,7 +6615,7 @@
                     "english": "Sunken Ikhshid"
                 },
                 "card_text": {
-                    "english": "Fell EdictActive 3 &#9632;, 1 Mana: Give each enemy \\\"Feeble\\\" this round. &#9633; Pull them toward a position."
+                    "english": "Fell Edict<br>Active 3, 1 Mana: Give each enemy \\\"Feeble\\\" this round.Pull them toward a position."
                 },
                 "references": [
                     "10912"
@@ -6627,7 +6627,7 @@
                     "english": "Fell Edict"
                 },
                 "card_text": {
-                    "english": "Give each enemy \\\"Feeble\\\" this round. &#9633; Pull them toward a position."
+                    "english": "Give each enemy \\\"Feeble\\\" this round.Pull them toward a position."
                 },
                 "references": []
             },
@@ -6637,7 +6637,7 @@
                     "english": "Sogd Wraith"
                 },
                 "card_text": {
-                    "english": "Wretched CoffersActive 4 &#9632;, 1 Mana: Spend half your gold. Deal damage to the enemy tower for each gold spent."
+                    "english": "Wretched Coffers<br>Active 4, 1 Mana: Spend half your gold. Deal damage to the enemy tower for each gold spent."
                 },
                 "references": [
                     "10914"
@@ -6659,7 +6659,7 @@
                     "english": "Shadow Aspirant of Ra'hul"
                 },
                 "card_text": {
-                    "english": "Seal of BindingActive 1 &#9632;, 1 Mana: Deal 2 damage to a unit and root it this round."
+                    "english": "Seal of Binding<br>Active 1, 1 Mana: Deal 2 damage to a unit and root it this round."
                 },
                 "references": [
                     "10916"
@@ -6681,7 +6681,7 @@
                     "english": "Fae Haunt"
                 },
                 "card_text": {
-                    "english": "Malignant NotionActive 3 &#9632;, 1 Mana: Enemy unit Enchantment.<br><br>Deploy:  Allied neighbors have -2&#9636; this round."
+                    "english": "Malignant Notion<br>Active 3, 1 Mana: Enemy unit Enchantment.<br><br>Deploy:  Allied neighbors have -2 Armor this round."
                 },
                 "references": [
                     "10918"
@@ -6693,7 +6693,7 @@
                     "english": "Malignant Notion"
                 },
                 "card_text": {
-                    "english": "Enemy unit Enchantment.<br><br>Deploy:  Allied neighbors have -2&#9636; this round."
+                    "english": "Enemy unit Enchantment.<br><br>Deploy:  Allied neighbors have -2 Armor this round."
                 },
                 "references": []
             },
@@ -6703,7 +6703,7 @@
                     "english": "Elder Mass"
                 },
                 "card_text": {
-                    "english": "Devour. Death Effect:  Purge all effects from Elder Mass.<br><br>Informed ConsumptionActive 3 &#9632;, 1 Mana: Devour Elder Mass's neighbors and combat target.<BR/>\\n<BR/>\\nUnspeakable Seepage+1 Decay"
+                    "english": "Devour. Death Effect:  Purge all effects from Elder Mass.<br><br>Informed Consumption<br>Active 3, 1 Mana: Devour Elder Mass's neighbors and combat target.<br><br><br><br>Unspeakable Seepage<br>+1 Decay"
                 },
                 "references": [
                     "10920",
@@ -6736,7 +6736,7 @@
                     "english": "Entrail Adder"
                 },
                 "card_text": {
-                    "english": "Vile EmbraceActive 3 &#9632;, 1 Mana: Stun the unit blocking Entrail Adder and give it +4 Decay this round. Disarm Entrail Adder this round."
+                    "english": "Vile Embrace<br>Active 3, 1 Mana: Stun the unit blocking Entrail Adder and give it +4 Decay this round. Disarm Entrail Adder this round."
                 },
                 "references": [
                     "10923"
@@ -6758,7 +6758,7 @@
                     "english": "Ambassador of Quoidge"
                 },
                 "card_text": {
-                    "english": "Feeble. Ambassador of Quoidge is silenced. Ambassador of Quoidge has -1 Weapon slot, -1&#9636; slot, and -1 Accessory slot.<BR/>\\n<BR/>\\nMessage of PeaceAura:  Ambassador of Quoidge's enemy neighbors have +X Regeneration where X is equal to Ambassador of Quoidge's Attack. Ambassador of Quoidge's enemy neighbors have +1&#9636;. Ambassador of Quoidge is Disarmed."
+                    "english": "Feeble. Ambassador of Quoidge is silenced. Ambassador of Quoidge has -1 Weapon slot, -1 Armor slot, and -1 Accessory slot.<br><br><br><br>Message of Peace<br>Aura:  Ambassador of Quoidge's enemy neighbors have +X Regeneration where X is equal to Ambassador of Quoidge's Attack. Ambassador of Quoidge's enemy neighbors have +1 Armor . Ambassador of Quoidge is Disarmed."
                 },
                 "references": [
                     "10925"
@@ -6770,7 +6770,7 @@
                     "english": "Message of Peace"
                 },
                 "card_text": {
-                    "english": "Aura:  Ambassador of Quoidge's enemy neighbors have +X Regeneration where X is equal to Ambassador of Quoidge's Attack. Ambassador of Quoidge's enemy neighbors have +1&#9636;. Ambassador of Quoidge is Disarmed."
+                    "english": "Aura:  Ambassador of Quoidge's enemy neighbors have +X Regeneration where X is equal to Ambassador of Quoidge's Attack. Ambassador of Quoidge's enemy neighbors have +1 Armor . Ambassador of Quoidge is Disarmed."
                 },
                 "references": []
             },
@@ -6780,7 +6780,7 @@
                     "english": "Handmaiden of the Dead God"
                 },
                 "card_text": {
-                    "english": "Unclean BlessingActive 3 &#9632;, 1 Mana: Enemy unit Enchantment.<br><br>Death: -1&#9635; permanently."
+                    "english": "Unclean Blessing<br>Active 3, 1 Mana: Enemy unit Enchantment.<br><br>Death: -1 Attack permanently."
                 },
                 "references": [
                     "10927"
@@ -6792,7 +6792,7 @@
                     "english": "Unclean Blessing"
                 },
                 "card_text": {
-                    "english": "Enemy unit Enchantment.<br><br>Death: -1&#9635; permanently."
+                    "english": "Enemy unit Enchantment.<br><br>Death: -1 Attack permanently."
                 },
                 "references": []
             },
@@ -6802,7 +6802,7 @@
                     "english": "Phalangeal Horror"
                 },
                 "card_text": {
-                    "english": "Boneshard WeaponsActive 2 &#9632;, 1 Mana: Give Phalangeal Horror's allied neighbors +2 Cleave this round."
+                    "english": "Boneshard Weapons<br>Active 2, 1 Mana: Give Phalangeal Horror's allied neighbors +2 Cleave this round."
                 },
                 "references": [
                     "10934"
@@ -6834,7 +6834,7 @@
                     "english": "Hand of the Dead God"
                 },
                 "card_text": {
-                    "english": "Add 1 charges to Hand of the Dead God after an enemy hero dies. Allied units have +1&#9635; per charge."
+                    "english": "Add 1 charges to Hand of the Dead God after an enemy hero dies. Allied units have +1 Attack per charge."
                 },
                 "references": []
             },
@@ -6854,7 +6854,7 @@
                     "english": "Lukol-Po"
                 },
                 "card_text": {
-                    "english": "Cutting BoastActive 2 &#9632;, 1 Mana: Lukol-Po taunts.<BR/>\\n<BR/>\\nSly RiposteRetaliate 1."
+                    "english": "Cutting Boast<br>Active 2, 1 Mana: Lukol-Po taunts.<br><br><br><br>Sly Riposte<br>Retaliate 1."
                 },
                 "references": [
                     "10884",
@@ -6887,7 +6887,7 @@
                     "english": "Rumusque Consecration Ritual"
                 },
                 "card_text": {
-                    "english": "Active 1 &#9632;, 1 Mana: Condemn the opponent's towers in all lanes.<br><br> May only be used if you have five heroes in this lane."
+                    "english": "Active 1, 1 Mana: Condemn the opponent's towers in all lanes.<br><br> May only be used if you have five heroes in this lane."
                 },
                 "references": []
             },

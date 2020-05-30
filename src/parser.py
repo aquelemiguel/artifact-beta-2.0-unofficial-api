@@ -60,12 +60,30 @@ with open('../cards.json', 'w+') as f:
             repl = child_card['card_text']['english'].replace('{s:parentCardName}', parent_card['card_name']['english'])
             child_card['card_text']['english'] = repl
 
+            # Add <br> to ability
+            repl = parent_card['card_text']['english'].replace(ability, f'{ability}<br>')
+            parent_card['card_text']['english'] = repl
+
             parent_card['references'].append(child_card['card_id'])
 
-    # Add remaining {s:parentCardName} (possibly unreleased or unfinished cards)
+    
     for card in card_dict['card_set']['card_list']:
-        repl = card['card_text']['english'].replace('{s:parentCardName}', card['card_name']['english'])
-        card['card_text']['english'] = repl
-                
+        # Add remaining {s:parentCardName} (possibly unreleased or unfinished cards)
+
+        translations = {
+            r'{s:parentCardName}': card['card_name']['english'],
+            r'\s?&#9632;\s?': '',
+            r'\s?&#9633;\s?': '',
+            r'\s?&#9634;\s?': '',
+            r'\s?&#9635;\s?': ' Attack ',
+            r'\s?&#9636;\s?': ' Armor ',
+            r'\s?&#9637;\s?': ' Health ',
+            r'<BR/>\\n<BR/>\\n': '<br><br><br><br>'
+        }
+
+        for tk, tv in translations.items():
+            repl = re.sub(tk, tv, card['card_text']['english'])
+            card['card_text']['english'] = repl
+
     f.write(json.dumps(card_dict, indent=4))
     
