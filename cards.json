@@ -13,7 +13,9 @@
                 "references": [
                     "10429",
                     "10490"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10429",
@@ -55,7 +57,9 @@
                 },
                 "references": [
                     "10489"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10489",
@@ -87,7 +91,9 @@
                 },
                 "references": [
                     "10430"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10430",
@@ -119,7 +125,9 @@
                 },
                 "references": [
                     "10494"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10494",
@@ -141,7 +149,9 @@
                 },
                 "references": [
                     "10432"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10432",
@@ -163,7 +173,9 @@
                 },
                 "references": [
                     "10496"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10496",
@@ -185,7 +197,9 @@
                 },
                 "references": [
                     "10816"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10816",
@@ -207,7 +221,9 @@
                 },
                 "references": [
                     "10497"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10497",
@@ -229,7 +245,9 @@
                 },
                 "references": [
                     "10498"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10498",
@@ -252,7 +270,9 @@
                 "references": [
                     "10434",
                     "10290"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10434",
@@ -274,7 +294,9 @@
                 },
                 "references": [
                     "10435"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10435",
@@ -296,7 +318,9 @@
                 },
                 "references": [
                     "10500"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10500",
@@ -319,7 +343,9 @@
                 "references": [
                     "10437",
                     "11051"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10437",
@@ -352,7 +378,9 @@
                 "references": [
                     "10030",
                     "11012"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10502",
@@ -374,7 +402,9 @@
                 },
                 "references": [
                     "10504"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10504",
@@ -397,7 +427,9 @@
                 "references": [
                     "10438",
                     "10981"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10438",
@@ -429,7 +461,9 @@
                 },
                 "references": [
                     "10506"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10506",
@@ -451,7 +485,9 @@
                 },
                 "references": [
                     "10440"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10440",
@@ -473,7 +509,9 @@
                 },
                 "references": [
                     "10509"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10509",
@@ -495,7 +533,9 @@
                 },
                 "references": [
                     "10443"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10443",
@@ -517,7 +557,9 @@
                 },
                 "references": [
                     "10512"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10512",
@@ -539,7 +581,9 @@
                 },
                 "references": [
                     "10444"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10444",
@@ -561,7 +605,9 @@
                 },
                 "references": [
                     "10446"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10446",
@@ -583,7 +629,9 @@
                 },
                 "references": [
                     "10513"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10513",
@@ -605,7 +653,9 @@
                 },
                 "references": [
                     "10514"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10514",
@@ -627,7 +677,9 @@
                 },
                 "references": [
                     "10516"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10516",
@@ -650,7 +702,9 @@
                 "references": [
                     "10517",
                     "11042"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10517",
@@ -672,7 +726,9 @@
                 },
                 "references": [
                     "10451"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10451",
@@ -704,7 +760,9 @@
                 },
                 "references": [
                     "10518"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10518",
@@ -734,7 +792,9 @@
                 "card_text": {
                     "english": ""
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10068",
@@ -746,7 +806,9 @@
                 },
                 "references": [
                     "10452"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10452",
@@ -768,7 +830,9 @@
                 },
                 "references": [
                     "10520"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10520",
@@ -790,7 +854,9 @@
                 },
                 "references": [
                     "10521"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10521",
@@ -812,7 +878,9 @@
                 },
                 "references": [
                     "10812"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10812",
@@ -862,7 +930,9 @@
                 "card_text": {
                     "english": "When one of your units deals battle damage to an enemy, give it +1 Attack permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10077",
@@ -872,7 +942,9 @@
                 "card_text": {
                     "english": "After an ally dies: Summon an Eidolon and remove a charge."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10454",
@@ -892,7 +964,9 @@
                 "card_text": {
                     "english": "After opponent plays a card from this lane, burn 1 of their remaining Mana."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10079",
@@ -902,7 +976,9 @@
                 "card_text": {
                     "english": "Whenever an ally enters this lane, give it +1 armor permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10080",
@@ -912,7 +988,9 @@
                 "card_text": {
                     "english": "Active 1, 1 Mana: Swap Rebel Decoy with an ally."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10455",
@@ -942,7 +1020,9 @@
                 "card_text": {
                     "english": "After a neighbor dies: Gain +3 Attack permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10085",
@@ -952,7 +1032,9 @@
                 "card_text": {
                     "english": "Play Effect:  Give Assassin's Shadow quickstrike until it battles."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10086",
@@ -962,7 +1044,9 @@
                 "card_text": {
                     "english": "Aura:  Disciple of Nevermore's allies have +1 Attack and -1 Armor ."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10087",
@@ -972,7 +1056,9 @@
                 "card_text": {
                     "english": "Aura:  Neighbors have +3 Attack ."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10090",
@@ -982,7 +1068,9 @@
                 "card_text": {
                     "english": "Death Effect:  Summon a Zombie into the closest empty position to Relentless Zombie."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10091",
@@ -992,7 +1080,9 @@
                 "card_text": {
                     "english": "Revtel Convoy has bonus Attack equal to half your gold."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10092",
@@ -1002,7 +1092,9 @@
                 "card_text": {
                     "english": "Pillager<br><br>Play Effect:  Deal 2 damage to the enemy tower."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10094",
@@ -1032,7 +1124,9 @@
                 "card_text": {
                     "english": "Play Effect:  Discard your hand. Give Keenfolk Golem +1 Attack /+1 Health permanently for each card discarded."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10096",
@@ -1042,7 +1136,9 @@
                 "card_text": {
                     "english": "Active 1, 1 Mana: Give Emissary of the Quorum's allies +2 Attack /+2 Health permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10457",
@@ -1062,7 +1158,9 @@
                 "card_text": {
                     "english": "Give units damaged by Marrowfell Brawler -1 Attack permanently.<br><br> Play Effect:  Marrowfell Brawler battles the enemy blocking it."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10102",
@@ -1072,7 +1170,9 @@
                 "card_text": {
                     "english": "Trample"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10103",
@@ -1082,7 +1182,9 @@
                 "card_text": {
                     "english": "After an ally dies: Deal 1 piercing damage to the enemy tower."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10104",
@@ -1092,7 +1194,9 @@
                 "card_text": {
                     "english": ""
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10107",
@@ -1102,7 +1206,9 @@
                 "card_text": {
                     "english": "Death Effect:  Give Vhoul Martyr's allies +1 Attack /+1 Health permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10108",
@@ -1112,7 +1218,9 @@
                 "card_text": {
                     "english": ""
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10111",
@@ -1122,7 +1230,9 @@
                 "card_text": {
                     "english": "<br><br>After Combat:  Gain +3 Attack permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10112",
@@ -1142,7 +1252,9 @@
                 "card_text": {
                     "english": "<br><br>After Combat:  Gain +4 Attack permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10114",
@@ -1152,7 +1264,9 @@
                 "card_text": {
                     "english": "Active 3, 1 Mana: Choose a blocked unit. It battles the unit blocking it."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10737",
@@ -1172,7 +1286,9 @@
                 "card_text": {
                     "english": "Active 1, 1 Mana: Choose a hero adjacent to Ravenhook. Destroy a random item equipped by that hero. Gain gold equal to the base cost of that item."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10524",
@@ -1192,7 +1308,9 @@
                 "card_text": {
                     "english": "Play Effect:  Devour. Activate Ravenous Mass.<br><br>Active 0, 1 Mana: Devour Ravenous Mass's neighbors. Quickcast"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10459",
@@ -1222,7 +1340,9 @@
                 "card_text": {
                     "english": "Give units damaged by Hellbear Crippler -1 Armor permanently.<br><br> <br>Play Effect:  Hellbear Crippler battles the enemy blocking it."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10119",
@@ -1232,7 +1352,9 @@
                 "card_text": {
                     "english": "<br><br>After Combat:  Fully heal Selfish Cleric."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10127",
@@ -1242,7 +1364,9 @@
                 "card_text": {
                     "english": ""
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10128",
@@ -1252,7 +1376,9 @@
                 "card_text": {
                     "english": ""
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10129",
@@ -1262,7 +1388,9 @@
                 "card_text": {
                     "english": "Play Effect:  Give Assassin's Apprentice quickstrike until it battles."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10543",
@@ -1282,7 +1410,9 @@
                 "card_text": {
                     "english": "Transform into Stonehall Paragon after killing two enemy units."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10132",
@@ -1292,7 +1422,9 @@
                 "card_text": {
                     "english": "Pillager, Trample <br><br>After damaging a tower, Summon a Red Mist Pillager into the closest position."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10133",
@@ -1302,7 +1434,9 @@
                 "card_text": {
                     "english": "Play Effect:  For each enemy, gain +1 Attack /+1 Health and +1 Cleave permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10134",
@@ -1312,7 +1446,9 @@
                 "card_text": {
                     "english": "Play Effect:  Give your tower +5 Regeneration."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10136",
@@ -1332,7 +1468,9 @@
                 "card_text": {
                     "english": "Active 1, 1 Mana: Restore 4 Mana."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10138",
@@ -1342,7 +1480,9 @@
                 "card_text": {
                     "english": "Draw an extra card each round."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10141",
@@ -1362,7 +1502,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Disable Round Start and After Combat effects.<br><br>Active 1, 1 Mana: Trigger the disabled effects."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10463",
@@ -1382,7 +1524,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br> <br><br>After Combat:  Draw a card if your tower took damage this round."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10154",
@@ -1392,7 +1536,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>After a player plays a card from this lane, burn 2 of their Mana."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10155",
@@ -1402,7 +1548,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Round Start:  Disarm the rightmost enemy."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10156",
@@ -1412,7 +1560,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br><br><br>Combat:  Deal 1 damage to both towers for each charge then add a charge."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10157",
@@ -1422,7 +1572,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Round Start:  Deal 2 damage to each enemy."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10160",
@@ -1442,7 +1594,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br><br><br>Combat:  Deal 2 piercing damage to the enemy tower."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10162",
@@ -1462,7 +1616,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Round Start:  Get 1 gold for every 5 gold in your bank."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10165",
@@ -1472,7 +1628,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>+5 Income"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10168",
@@ -1482,7 +1640,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Round Start:  +1 Mana for each of your heroes in this lane."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10169",
@@ -1492,7 +1652,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Round Start:  Give allies +1 Attack permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10170",
@@ -1502,7 +1664,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Aura:  Your creeps have +1 Regeneration."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10171",
@@ -1512,7 +1676,9 @@
                 "card_text": {
                     "english": "Enchant Hero<br><br>Players draw an extra card each round.<br><br>Dispel Howling Mind on death."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10172",
@@ -1522,7 +1688,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Active 1, 1 Mana: Equip an allied hero with basic items."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10763",
@@ -1542,7 +1710,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>When your opponent plays a card from this lane, Deal 1 piercing damage to their tower and burn 1 of their mana."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10174",
@@ -1552,7 +1722,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>+2 Retaliate"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10175",
@@ -1562,7 +1734,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>The first time you play a card from this lane each round, restore 3  Mana."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10542",
@@ -1582,7 +1756,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Active 1, 1 Mana: Move one of your heroes to an adjacent lane."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10465",
@@ -1632,7 +1808,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Active 1, 1 Mana: Give a unit a Death Shield."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10539",
@@ -1652,7 +1830,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Draw a card after a hero dies."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10184",
@@ -1662,7 +1842,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Active 1, 1 Mana: Deal 2 piercing damage to a unit."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10467",
@@ -1682,7 +1864,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Active 1, 1 Mana: Deal 4 piercing damage to a unit in any lane.<br><br>  Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10468",
@@ -1702,7 +1886,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Whenever any unit enters this lane, stun it."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10192",
@@ -1712,7 +1898,9 @@
                 "card_text": {
                     "english": "Give caster +2 Health permanently and give your units in any lane +2 Health permanently. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10193",
@@ -1732,7 +1920,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>When the enemy casts a tower enchantment, draw a card. <br><br>Play Effect:  If the enemy tower has no enchantments, draw a card."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10202",
@@ -1762,7 +1952,9 @@
                 "card_text": {
                     "english": "+3 Health <br><br>Active 2, 1 Mana: Swap this hero to another position."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Item"
             },
             {
                 "card_id": "10470",
@@ -1782,7 +1974,9 @@
                 "card_text": {
                     "english": "+3 Health <br><br>After Combat:  Increase Health by 1."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10206",
@@ -1792,7 +1986,9 @@
                 "card_text": {
                     "english": "+2 Attack <br><br>Active 2, 1 Mana: Move this hero to an adjacent lane."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Item"
             },
             {
                 "card_id": "10471",
@@ -1812,7 +2008,9 @@
                 "card_text": {
                     "english": "+1 Armor , +2 Retaliate <br><br>Play Effect:  Taunt."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10210",
@@ -1822,7 +2020,9 @@
                 "card_text": {
                     "english": "+2 Attack <br><br> Dispel a random tower enchantment when dealing battle damage to a tower."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Item"
             },
             {
                 "card_id": "10212",
@@ -1832,7 +2032,9 @@
                 "card_text": {
                     "english": "+2 Attack , +3 Cleave"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10215",
@@ -1842,7 +2044,9 @@
                 "card_text": {
                     "english": "+5 Attack "
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10216",
@@ -1852,7 +2056,9 @@
                 "card_text": {
                     "english": "Get a random item from the Secret Shop."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Item"
             },
             {
                 "card_id": "10218",
@@ -1882,7 +2088,9 @@
                 "card_text": {
                     "english": "+3 Health , +3 Regeneration."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10222",
@@ -1892,7 +2100,9 @@
                 "card_text": {
                     "english": "+1 Armor <br><br>Active 0, 1 Mana: Slay this hero and deal 5 damage to adjacent enemies."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Item"
             },
             {
                 "card_id": "10476",
@@ -1912,7 +2122,9 @@
                 "card_text": {
                     "english": "+2 Attack , +3 Siege"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10224",
@@ -1922,7 +2134,9 @@
                 "card_text": {
                     "english": "+2 Armor <br><br>Active 2, 1 Mana: Steal an enemy creep."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Item"
             },
             {
                 "card_id": "10477",
@@ -1942,7 +2156,9 @@
                 "card_text": {
                     "english": "+3 Armor , Rapid Deployment<br><br> Your tower has +3 Armor ."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Item"
             },
             {
                 "card_id": "10226",
@@ -1952,7 +2168,9 @@
                 "card_text": {
                     "english": "Aura:  You and your neighbors have +3 Attack and +3 Regeneration."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Item"
             },
             {
                 "card_id": "10230",
@@ -1962,7 +2180,9 @@
                 "card_text": {
                     "english": "+2 Armor <br><br> Aura:  Adjacent enemies have -2 Armor ."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Item"
             },
             {
                 "card_id": "10231",
@@ -1972,7 +2192,9 @@
                 "card_text": {
                     "english": "+6 Health <br><br>The first time a neighbor dies each turn, Draw a card."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Item"
             },
             {
                 "card_id": "10234",
@@ -1992,7 +2214,9 @@
                 "card_text": {
                     "english": "+10 Attack "
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Item"
             },
             {
                 "card_id": "10252",
@@ -2002,7 +2226,9 @@
                 "card_text": {
                     "english": "+2 Attack <br><br>Round Start:  Disarm the closest enemy creep."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10260",
@@ -2012,7 +2238,9 @@
                 "card_text": {
                     "english": "+3 Health <br><br>Active 2, 1 Mana: Summon a Thunderhide Pack."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Item"
             },
             {
                 "card_id": "10483",
@@ -2032,7 +2260,9 @@
                 "card_text": {
                     "english": "+1 Armor <br><br>Active 1, 1 Mana: Reduce adjacent enemies to 1 Health. They are stunned, rooted and feeble."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Item"
             },
             {
                 "card_id": "10484",
@@ -2052,7 +2282,9 @@
                 "card_text": {
                     "english": "+6 Attack <br><br>Active 1, 1 Mana: Slay combat target and destroy all of their items. Dispel all enemy tower enchantments."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Item"
             },
             {
                 "card_id": "10541",
@@ -2072,7 +2304,9 @@
                 "card_text": {
                     "english": "Mulch<br><br>Destroy all items on enemy heroes in this lane."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10196",
@@ -2082,7 +2316,9 @@
                 "card_text": {
                     "english": "Choose a hero. Copy a random item from it. <br><br>Quickcast"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10270",
@@ -2092,7 +2328,9 @@
                 "card_text": {
                     "english": "Choose caster. Deal 1 piercing damage to a unit in any lane and deal 1 damage to the next unit away from the caster. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10272",
@@ -2112,7 +2350,9 @@
                 "card_text": {
                     "english": "Deal 3 Damage. <br><br>Quickcast"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10274",
@@ -2252,7 +2492,9 @@
                 "card_text": {
                     "english": "Enchant Unit<br><br> Aura:  Neighbors have +2 Armor ."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10303",
@@ -2262,7 +2504,9 @@
                 "card_text": {
                     "english": "Move a creep to the first empty position in another lane. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10305",
@@ -2272,7 +2516,9 @@
                 "card_text": {
                     "english": "Dispel enemy tower enchantments."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10306",
@@ -2282,7 +2528,9 @@
                 "card_text": {
                     "english": "Dispel a tower enchantment. <br>Draw a card."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10307",
@@ -2292,7 +2540,9 @@
                 "card_text": {
                     "english": "Draw 2 cards."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10308",
@@ -2312,7 +2562,9 @@
                 "card_text": {
                     "english": "+1 Siege. <br><br>Scheme: +1 Siege."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10311",
@@ -2322,7 +2574,9 @@
                 "card_text": {
                     "english": "Give your creeps +2 Attack and +1 Armor permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10312",
@@ -2332,7 +2586,9 @@
                 "card_text": {
                     "english": "Deal 1 damage.<br><br>Repeat twice:Jump left or right and deal 1 damage."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10313",
@@ -2342,7 +2598,9 @@
                 "card_text": {
                     "english": "Repeat three times:Deal 1 damage to a random enemy with the least Health."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10315",
@@ -2352,7 +2610,9 @@
                 "card_text": {
                     "english": "Slay each unit on both teams."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10318",
@@ -2382,7 +2642,9 @@
                 "card_text": {
                     "english": "Proceed to the combat phase in this lane."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10327",
@@ -2392,7 +2654,9 @@
                 "card_text": {
                     "english": "Enchant Caster<br><br> Caster has +1 Attack per missing Health."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10328",
@@ -2402,7 +2666,9 @@
                 "card_text": {
                     "english": "Caster battles a unit in any lane. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10330",
@@ -2422,7 +2688,9 @@
                 "card_text": {
                     "english": "Caster gains +6 Attack . Choose a combat target for it."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10334",
@@ -2432,7 +2700,9 @@
                 "card_text": {
                     "english": "Gain +2 Mana."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10335",
@@ -2442,7 +2712,9 @@
                 "card_text": {
                     "english": "Move caster to another lane and fill that lane with Melee Creeps. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10336",
@@ -2452,7 +2724,9 @@
                 "card_text": {
                     "english": "Choose caster. Summon a Terrapin Channeler to any lane. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10338",
@@ -2462,7 +2736,9 @@
                 "card_text": {
                     "english": "Give allies Damage Immunity."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10339",
@@ -2502,7 +2778,9 @@
                 "card_text": {
                     "english": "Choose one of your heroes. It taunts. Pick its combat target."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10344",
@@ -2512,7 +2790,9 @@
                 "card_text": {
                     "english": "Give your units Heroes and Creeps."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10348",
@@ -2542,7 +2822,9 @@
                 "card_text": {
                     "english": "Deal 4 damage to caster's combat target. (Can hit towers.)"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10353",
@@ -2552,7 +2834,9 @@
                 "card_text": {
                     "english": "Revealed when drawn.<br><br> Deal 15 damage to caster's combat target. (Can hit towers.)"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10354",
@@ -2562,7 +2846,9 @@
                 "card_text": {
                     "english": "Choose caster. Deal 2 damage to a unit in another lane or deal 4 damage to a unit in caster's lane. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10358",
@@ -2572,7 +2858,9 @@
                 "card_text": {
                     "english": "Mulch <br><br>Give your tower +8 Regeneration."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10359",
@@ -2592,7 +2880,9 @@
                 "card_text": {
                     "english": "Choose two enemies. They battle each other."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10365",
@@ -2602,7 +2892,9 @@
                 "card_text": {
                     "english": "Swap an ally with one of its neighbors. <br><br>Quickcast"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10366",
@@ -2622,7 +2914,9 @@
                 "card_text": {
                     "english": "Give a unit -Armor equal to its current Armor value permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10373",
@@ -2632,7 +2926,9 @@
                 "card_text": {
                     "english": "Enchant Hero<br><br> After you play a green card, this hero and its neighbors gain +3 Regeneration."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10374",
@@ -2642,7 +2938,9 @@
                 "card_text": {
                     "english": "Deal 2 damage to the enemy tower.<br><br>Draw a card. <br><br>Quickcast"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10376",
@@ -2652,7 +2950,9 @@
                 "card_text": {
                     "english": "Deal 5 damage to each enemy across from an empty slot."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10377",
@@ -2662,7 +2962,9 @@
                 "card_text": {
                     "english": "Disarm both teams' unblocked units."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10378",
@@ -2672,7 +2974,9 @@
                 "card_text": {
                     "english": "Give a unit Damage Immunity permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10379",
@@ -2682,7 +2986,9 @@
                 "card_text": {
                     "english": "Move an enemy to the first empty position in another lane. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10385",
@@ -2702,7 +3008,9 @@
                 "card_text": {
                     "english": "Choose a unit. Choose a combat target for it.<br><br>Draw a card."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10396",
@@ -2712,7 +3020,9 @@
                 "card_text": {
                     "english": "Stun a hero until they equip an item."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10402",
@@ -2722,7 +3032,9 @@
                 "card_text": {
                     "english": "Deal 2 damage to each enemy."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10403",
@@ -2732,7 +3044,9 @@
                 "card_text": {
                     "english": "Give a unit -3 Attack and give another +3 Attack ."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10404",
@@ -2742,7 +3056,9 @@
                 "card_text": {
                     "english": "Move caster to a empty position in any lane and give it \\\"Scheme: +4 Siege\\\". <br><br>Cross Lane  <br><br>Quickcast"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10410",
@@ -2752,7 +3068,9 @@
                 "card_text": {
                     "english": "Slay a creep."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10411",
@@ -2762,7 +3080,9 @@
                 "card_text": {
                     "english": "Swap a unit to a neighboring position."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10412",
@@ -2772,7 +3092,9 @@
                 "card_text": {
                     "english": "Deal 3 damage to each enemy."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10417",
@@ -2782,7 +3104,9 @@
                 "card_text": {
                     "english": "Summon two Centaur Poachers into any lane. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10418",
@@ -2792,7 +3116,9 @@
                 "card_text": {
                     "english": "Choose a unit. It taunts."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10419",
@@ -2822,7 +3148,9 @@
                 "card_text": {
                     "english": "Stun caster and adjacent units on both teams."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10424",
@@ -2832,7 +3160,9 @@
                 "card_text": {
                     "english": "Deal 4 damage to each unit on both teams in this lane."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10425",
@@ -2842,7 +3172,9 @@
                 "card_text": {
                     "english": "Give your heroes +3 Attack , +3 Health , +3 Armor , +3 Cleave, +3 Retaliate, and +3 Siege permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10536",
@@ -2854,7 +3186,9 @@
                 },
                 "references": [
                     "10537"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10537",
@@ -2884,7 +3218,9 @@
                 "card_text": {
                     "english": ""
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "CardBack"
             },
             {
                 "card_id": "10600",
@@ -2894,7 +3230,9 @@
                 "card_text": {
                     "english": "Devour. <br><br>Play Effect:  Deal damage equal to Berserker of the Abyssm's Health to the unit blocking it."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10601",
@@ -2904,7 +3242,9 @@
                 "card_text": {
                     "english": "After battling a unit, draw the next creep card from your deck. That card has +1 Armor and costs 2 less."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10602",
@@ -2914,7 +3254,9 @@
                 "card_text": {
                     "english": "Play Effect:  Give Unstable Elemental a Death Shield.<br><br>Active 1, 1 Mana: Deal 1 damage to all units on both teams."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10645",
@@ -2934,7 +3276,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br><br><br>Combat:  Deal 4 piercing damage to the enemy tower and 2 piercing damage to your tower."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10604",
@@ -2944,7 +3288,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Active 2, 1 Mana: Spend all your Mana. Summon an Ozkavosh Horror with +1 Attack /+1 Health for each Mana spent."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10363",
@@ -2974,7 +3320,9 @@
                 "card_text": {
                     "english": "<br>Minion:  Stun Slumbering Brute unless it neighbors a hero.<br><br> Round Start:  Slumbering Brute taunts."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10606",
@@ -2984,7 +3332,9 @@
                 "card_text": {
                     "english": "Copy a tower enchantment."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10607",
@@ -2994,7 +3344,9 @@
                 "card_text": {
                     "english": "Give caster Damage Immunity."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10608",
@@ -3004,7 +3356,9 @@
                 "card_text": {
                     "english": "Enchant Caster<br><br> When damaged, gain +1 Attack permanently.<br><br>Round Start:  Take one piecing damage."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10609",
@@ -3014,7 +3368,9 @@
                 "card_text": {
                     "english": "Death Effect:  Deal 3 piercing damage to the enemy tower."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10610",
@@ -3024,7 +3380,9 @@
                 "card_text": {
                     "english": "<br>Minion:  Honor Guard has +1 Attack and +1 Armor per neighboring hero.<br><br> Play Effect:  Honor Guard taunts."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10611",
@@ -3034,7 +3392,9 @@
                 "card_text": {
                     "english": "Deploy Wildwings instead of Melee Creeps."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10638",
@@ -3054,7 +3414,9 @@
                 "card_text": {
                     "english": "Active 2, 1 Mana: Disarm a unit."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10639",
@@ -3074,7 +3436,9 @@
                 "card_text": {
                     "english": "Swap one of your creeps with an enemy creep."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10614",
@@ -3084,7 +3448,9 @@
                 "card_text": {
                     "english": "When Wall of Secrets takes damage: draw a card."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10615",
@@ -3094,7 +3460,9 @@
                 "card_text": {
                     "english": "Each unit on both teams battles itself."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10616",
@@ -3104,7 +3472,9 @@
                 "card_text": {
                     "english": "Deal 3 damage to a unit and deal 3 damage to the enemy tower."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10617",
@@ -3114,7 +3484,9 @@
                 "card_text": {
                     "english": "Mulch <br><br>Give caster and another unit in any lane +1 Attack and +2 Regeneration. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10618",
@@ -3124,7 +3496,9 @@
                 "card_text": {
                     "english": "Deploy one of your heroes at random from the fountain to the first empty position."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10619",
@@ -3134,7 +3508,9 @@
                 "card_text": {
                     "english": "Play Effect:  Trigger neighbor Death Effects."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10621",
@@ -3154,7 +3530,9 @@
                 "card_text": {
                     "english": "+2 Attack , +3 damage when attacking a tower."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10623",
@@ -3164,7 +3542,9 @@
                 "card_text": {
                     "english": "+2 Attack <br> <br> Does not use an item slot.<br> <br>When you buy Main Gauche, get another one."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10624",
@@ -3184,7 +3564,9 @@
                 "card_text": {
                     "english": "+2 Attack , Quickstrike"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Item"
             },
             {
                 "card_id": "10626",
@@ -3194,7 +3576,9 @@
                 "card_text": {
                     "english": "+2 Attack <br><br>Play Effect:  Heal 4."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10627",
@@ -3204,7 +3588,9 @@
                 "card_text": {
                     "english": "+6 Health <br><br>Play Effect:  Give allies +2 Attack ."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10628",
@@ -3214,7 +3600,9 @@
                 "card_text": {
                     "english": "+2 Armor <br><br>After Combat:  Summon a Zombie into the closest position."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10629",
@@ -3224,7 +3612,9 @@
                 "card_text": {
                     "english": "+2 Armor <br><br>Active 1, 1 Mana: Destroy Artificer's Mail and summon an Animated Armor."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10640",
@@ -3254,7 +3644,9 @@
                 "card_text": {
                     "english": "+6 Health <br><br>Round Start:  Deal 1 piercing damage to adjacent enemies."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10631",
@@ -3264,7 +3656,9 @@
                 "card_text": {
                     "english": "Summon a Revtel Mercenary."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10642",
@@ -3304,7 +3698,9 @@
                 "card_text": {
                     "english": "+1 Armor , +5 Income"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10646",
@@ -3317,7 +3713,9 @@
                 "references": [
                     "10647",
                     "11035"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10647",
@@ -3349,7 +3747,9 @@
                 },
                 "references": [
                     "10650"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10650",
@@ -3381,7 +3781,9 @@
                 },
                 "references": [
                     "10653"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10653",
@@ -3413,7 +3815,9 @@
                 },
                 "references": [
                     "10656"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10656",
@@ -3445,7 +3849,9 @@
                 },
                 "references": [
                     "10659"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10659",
@@ -3488,7 +3894,9 @@
                 "references": [
                     "10664",
                     "10665"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10664",
@@ -3540,7 +3948,9 @@
                 },
                 "references": [
                     "10669"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10669",
@@ -3573,7 +3983,9 @@
                 "references": [
                     "10819",
                     "10672"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10819",
@@ -3615,7 +4027,9 @@
                 },
                 "references": [
                     "10675"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10675",
@@ -3657,7 +4071,9 @@
                 },
                 "references": [
                     "10679"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10679",
@@ -3689,7 +4105,9 @@
                 },
                 "references": [
                     "10702"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10702",
@@ -3721,7 +4139,9 @@
                 },
                 "references": [
                     "10705"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10705",
@@ -3751,7 +4171,9 @@
                 "card_text": {
                     "english": "Play Effect:  Give all item cards in opponent's hand +1 Lock."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10709",
@@ -3761,7 +4183,9 @@
                 "card_text": {
                     "english": "<br><br>After Combat:  Move Spirit Swordsman to the next lane.<br><br> Round Start:  Battle the unit blocking Spirit Swordsman.<br><br> Death Effect:  Summon a Spirit Swordsman"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10710",
@@ -3781,7 +4205,9 @@
                 "card_text": {
                     "english": "Caster gains +2 Attack . <br><br>Quickcast"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10712",
@@ -3801,7 +4227,9 @@
                 "card_text": {
                     "english": "Choose a lane. Deploy all heroes from both Fountains to that lane. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10714",
@@ -3811,7 +4239,9 @@
                 "card_text": {
                     "english": "Play Effect:  Give neighbors a Death Shield until death."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10715",
@@ -3821,7 +4251,9 @@
                 "card_text": {
                     "english": "<br><br>After Combat:  Move to the rightmost position in the next lane."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10721",
@@ -3834,7 +4266,9 @@
                 "references": [
                     "10722",
                     "11050"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10722",
@@ -3884,7 +4318,9 @@
                 "card_text": {
                     "english": "+2 Attack <br><br>Active 3, 1 Mana: <br><br>Silence an enemy and give it -3 Armor ."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Item"
             },
             {
                 "card_id": "10728",
@@ -3904,7 +4340,9 @@
                 "card_text": {
                     "english": "Play Effect:  Deal 1 damage to adjacent units on both teams."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10717",
@@ -3914,7 +4352,9 @@
                 "card_text": {
                     "english": "+2 damage when attacking a tower.<br><br>Active 1, 1 Mana: Move to an empty position."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10718",
@@ -3934,7 +4374,9 @@
                 "card_text": {
                     "english": "Put a Destroyed from Within card into opponent's hand."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10720",
@@ -3966,7 +4408,9 @@
                 },
                 "references": [
                     "10731"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10731",
@@ -4006,7 +4450,9 @@
                 "card_text": {
                     "english": "Death Effect:  Draw a card."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10735",
@@ -4026,7 +4472,9 @@
                 "card_text": {
                     "english": "Wild Boar deals +2 damage when attacking a unit."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10738",
@@ -4046,7 +4494,9 @@
                 "card_text": {
                     "english": "Disarm Hellbear Smasher when unblocked. <br><br>Round Start:  Move to a random blocked position."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10740",
@@ -4086,7 +4536,9 @@
                 "card_text": {
                     "english": "<br><br>After Combat:  Gain +1 Attack /+1 Health permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10744",
@@ -4096,7 +4548,9 @@
                 "card_text": {
                     "english": "Trample <br><br>Play Effect:  Give neighbors trample."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10745",
@@ -4106,7 +4560,9 @@
                 "card_text": {
                     "english": "Lashvine Creeper and its combat target are rooted.<br><br> Round Start:  If Lashvine Creeper is unblocked move a random enemy to block it."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10746",
@@ -4116,7 +4572,9 @@
                 "card_text": {
                     "english": "Play Effect:  Neighbors gain Regeneration equal to their current Health."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10747",
@@ -4126,7 +4584,9 @@
                 "card_text": {
                     "english": "Active 1, 1 Mana: Deal 1 damage to all enemies to the left of Moonglade Fusilier."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10545",
@@ -4146,7 +4606,9 @@
                 "card_text": {
                     "english": "Replace an allied unit. Bounce and gain the unit's attack and health.<br><br> Doppelgangers who replace heroes can cast spells."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10749",
@@ -4156,7 +4618,9 @@
                 "card_text": {
                     "english": "+1 Attack /+1 Health for each empty slot on your opponent's side."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10750",
@@ -4166,7 +4630,9 @@
                 "card_text": {
                     "english": "Play Effect:  Copy innate abilities from the enemy blocking Morphling Whelp."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10751",
@@ -4176,7 +4642,9 @@
                 "card_text": {
                     "english": "Deploy Resonant Constructs instead of Melee Creeps.<br><br> +1 Attack when you play a spell or enchantment in any lane."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10752",
@@ -4186,7 +4654,9 @@
                 "card_text": {
                     "english": "Active 1, 1 Mana: Choose a card in your hand. Discard all copies and draw to replace them."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10762",
@@ -4206,7 +4676,9 @@
                 "card_text": {
                     "english": "Play Effect:  Bounce the enemy blocking Defenestrating Ogre."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10754",
@@ -4216,7 +4688,9 @@
                 "card_text": {
                     "english": "Round Start:  Double charges on Maelrawn Pupate. If there are at least as many charges on Maelrawn Pupate as health on the Enemy Tower transform into Spawn of Maelrawn."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10758",
@@ -4238,7 +4712,9 @@
                 },
                 "references": [
                     "10756"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10756",
@@ -4268,7 +4744,9 @@
                 "card_text": {
                     "english": "Feeble, Pierce<br><br>Active 1, 1 Mana: Bounce Arclight Elemental and give it +2 Attack until end of its next combat phase. Summon a Arc Remnant into this position."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10760",
@@ -4308,7 +4786,9 @@
                 "card_text": {
                     "english": "Enchant Caster<br><br> Aura:  Caster and neighboring creeps ignore incoming damage of two or less."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10766",
@@ -4318,7 +4798,9 @@
                 "card_text": {
                     "english": "Bounce all items from caster and the enemy blocking them. They battle each other."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10767",
@@ -4328,7 +4810,9 @@
                 "card_text": {
                     "english": "Enchant Caster<br><br> Aura:  Allies randomly gain +1 Attack , Armor , or Health after dealing battle damage."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10768",
@@ -4338,7 +4822,9 @@
                 "card_text": {
                     "english": "Choose caster and an adjacent enemy. <br><br>Swap caster in front of that enemy then battle it."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10769",
@@ -4358,7 +4844,9 @@
                 "card_text": {
                     "english": "Bounce each item from a hero and equip it with cursed items."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10771",
@@ -4378,7 +4866,9 @@
                 "card_text": {
                     "english": "Enchant Caster, Mulch<br><br> Gain +1 Attack /+1 Health permanently.<br><br>Round Start:  Repeat this effect."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10773",
@@ -4388,7 +4878,9 @@
                 "card_text": {
                     "english": "Mulch<br><br> Root an enemy and give it +4 Decay. Your units adjacent to it gain +4 Regeneration."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10774",
@@ -4398,7 +4890,9 @@
                 "card_text": {
                     "english": "Move caster to an unblocked enemy in another lane. <br>Deal 2 damage to that enemy. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10775",
@@ -4408,7 +4902,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>The enemy tower has -1 Armor per charge.<br><br>Add a charge after you play a black card."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10776",
@@ -4418,7 +4914,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>After you play a blue card, deal 1 piercing damage to a random enemy with the least health."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10777",
@@ -4428,7 +4926,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>After you play a green card, give this tower +2 Health permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10778",
@@ -4438,7 +4938,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Your blocked heroes have +1 Attack per charge.<br><br>Add a charge after you play a red card."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10779",
@@ -4448,7 +4950,9 @@
                 "card_text": {
                     "english": "Put a Roused Rabble card into your hand after Rebel Rabble Rouser kills a unit."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10780",
@@ -4468,7 +4972,9 @@
                 "card_text": {
                     "english": "+12 Health "
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Item"
             },
             {
                 "card_id": "10782",
@@ -4478,7 +4984,9 @@
                 "card_text": {
                     "english": "+3 Health <br><br>+2 Lock to any extra cards your opponent draws each round."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Item"
             },
             {
                 "card_id": "10783",
@@ -4490,7 +4998,9 @@
                 },
                 "references": [
                     "10784"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10784",
@@ -4522,7 +5032,9 @@
                 },
                 "references": [
                     "10787"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10787",
@@ -4562,7 +5074,9 @@
                 "card_text": {
                     "english": "+2 Attack , +2 Siege <br><br>Scheme: +2 Attack and +2 Siege."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Item"
             },
             {
                 "card_id": "10792",
@@ -4582,7 +5096,9 @@
                 "card_text": {
                     "english": "+2 Attack , Pierce <br><br>Play Effect:  Purge your opponent's effects from equipped hero."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Item"
             },
             {
                 "card_id": "10794",
@@ -4592,7 +5108,9 @@
                 "card_text": {
                     "english": "Feeble<br><br> Death Effect:  Put a Short Sword card into your hand."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10795",
@@ -4612,7 +5130,9 @@
                 "card_text": {
                     "english": "<br><br>Silence each enemy in lane other than the target. That target takes 2 damage instead."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10797",
@@ -4622,7 +5142,9 @@
                 "card_text": {
                     "english": "Deal damage equal to the enemy player's current Mana."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10798",
@@ -4632,7 +5154,9 @@
                 "card_text": {
                     "english": "Swap colors and items permanently between a hero in this lane and another hero in any lane. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10799",
@@ -4652,7 +5176,9 @@
                 "card_text": {
                     "english": "Enchant Unit<br><br> Restore 1 Mana after you spend Mana in any lane."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10801",
@@ -4662,7 +5188,9 @@
                 "card_text": {
                     "english": "Enchant Unit<br><br> Scheme: +2 Attack <br><br>Dispel Killer Instinct on death. <br><br>Quickcast"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10802",
@@ -4682,7 +5210,9 @@
                 "card_text": {
                     "english": "Enchant Enemy<br><br> Scheme: Take 1 damage."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10804",
@@ -4692,7 +5222,9 @@
                 "card_text": {
                     "english": "Give a unit -3 Attack . It battles its adjacent enemies."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10805",
@@ -4702,7 +5234,9 @@
                 "card_text": {
                     "english": "Enchant Caster<br><br> If there are no adjacent enemies, this hero has +Attack equal to its Health."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10806",
@@ -4712,7 +5246,9 @@
                 "card_text": {
                     "english": "Deal damage equal to this spell's cost to an enemy with the lowest health. <br><br>Repeatable at +1 mana cost if this spell kills a unit."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10807",
@@ -4732,7 +5268,9 @@
                 "card_text": {
                     "english": "Restore 3 Mana after you play any card from this lane or activate an ability in this lane."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10810",
@@ -4742,7 +5280,9 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Your units are silenced and have +3 Attack ."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Improvement"
             },
             {
                 "card_id": "10817",
@@ -4825,7 +5365,9 @@
                 "references": [
                     "10907",
                     "10910"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10907",
@@ -4875,7 +5417,9 @@
                 "card_text": {
                     "english": "+2 Attack <br><br>Active 2, 1 Mana: Push a unit."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10929",
@@ -4895,7 +5439,9 @@
                 "card_text": {
                     "english": "+5 Attack <br><br>Active 2, 1 Mana: Hex an enemy for two rounds. (They are stunned and look like a sheep.)"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10931",
@@ -4957,7 +5503,9 @@
                 },
                 "references": [
                     "10939"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10938",
@@ -4989,7 +5537,9 @@
                 },
                 "references": [
                     "10941"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10941",
@@ -5021,7 +5571,9 @@
                 },
                 "references": [
                     "10523"
-                ]
+                ],
+                "rarity": "Uncommon",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10523",
@@ -5061,7 +5613,9 @@
                 "card_text": {
                     "english": "+1 Armor <br><br>Aura:  Your creeps have +1 Armor ."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10944",
@@ -5071,7 +5625,9 @@
                 "card_text": {
                     "english": "+6 Health . <br><br>Deploy Demonic Archers instead of Melee Creeps."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Item"
             },
             {
                 "card_id": "10955",
@@ -5091,7 +5647,9 @@
                 "card_text": {
                     "english": "Play Effect:  Push Snarling Harpy's combat target."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10957",
@@ -5101,7 +5659,9 @@
                 "card_text": {
                     "english": "Play Effect:  Move the unit blocking Screeching Harpy to the first empty position in a random other lane."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Uncommon",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10958",
@@ -5111,7 +5671,9 @@
                 "card_text": {
                     "english": "Your Greevils in all lanes have Pillager."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10959",
@@ -5121,7 +5683,9 @@
                 "card_text": {
                     "english": "Death Effect:  Deal 1 damage to adjacent units on both teams."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10960",
@@ -5131,7 +5695,9 @@
                 "card_text": {
                     "english": "Your Greevils in all lanes have +1 Cleave."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10961",
@@ -5141,7 +5707,9 @@
                 "card_text": {
                     "english": "Play Effect:  Shuffle a random Greevil into your deck and draw one."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10962",
@@ -5151,7 +5719,9 @@
                 "card_text": {
                     "english": "Your Greevils in all lanes have +1 Regeneration."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10963",
@@ -5161,7 +5731,9 @@
                 "card_text": {
                     "english": "Sticky Greevil's combat target is rooted."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10964",
@@ -5171,7 +5743,9 @@
                 "card_text": {
                     "english": "Play Effect:  Your Greevils in all lanes deal 1 damage to their combat targets."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10965",
@@ -5181,7 +5755,9 @@
                 "card_text": {
                     "english": "Play Effect:  Draw a spell from your deck."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10966",
@@ -5191,7 +5767,9 @@
                 "card_text": {
                     "english": ""
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Creep"
             },
             {
                 "card_id": "10967",
@@ -5201,7 +5779,9 @@
                 "card_text": {
                     "english": "Summon a random Greevil."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "10968",
@@ -5261,7 +5841,9 @@
                 "card_text": {
                     "english": "Slay an allied creep. Give another allied unit quickstrike permanently."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "10980",
@@ -5284,7 +5866,9 @@
                 "references": [
                     "10983",
                     "10984"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10983",
@@ -5346,7 +5930,9 @@
                 },
                 "references": [
                     "10992"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "10992",
@@ -5378,7 +5964,9 @@
                 },
                 "references": [
                     "11001"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "11001",
@@ -5410,7 +5998,9 @@
                 },
                 "references": [
                     "11011"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "11004",
@@ -5432,7 +6022,9 @@
                 },
                 "references": [
                     "11006"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "11006",
@@ -5464,7 +6056,9 @@
                 },
                 "references": [
                     "11009"
-                ]
+                ],
+                "rarity": "Common",
+                "card_type": "Hero"
             },
             {
                 "card_id": "11009",
@@ -5514,7 +6108,9 @@
                 "card_text": {
                     "english": "+5 Attack <br><br>After battling a unit, deal 3 damage to it. Repeat 3 more times:Deal 3 damage to a random unit to its left or right."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11014",
@@ -5524,7 +6120,9 @@
                 "card_text": {
                     "english": "+5 Attack <br><br>Active 2, 1 Mana: Disable passive abilities on an enemy in any lane. Battle that enemy.<br><br>  Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11015",
@@ -5534,7 +6132,9 @@
                 "card_text": {
                     "english": "+2 Armor , +2 Regeneration<br><br>Active 3, 1 Mana: Purge opponent's effects from an enemy unit."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11053",
@@ -5554,7 +6154,9 @@
                 "card_text": {
                     "english": "+4 Armor <br><br>Play Effect:  Activate.<br><br>Active 2, 1 Mana: Purge your opponent's effects from equipped hero. Heal each ally 4."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11017",
@@ -5564,7 +6166,9 @@
                 "card_text": {
                     "english": "Aura:  Allied units have +4 Armor and Lifesteal."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11018",
@@ -5574,7 +6178,9 @@
                 "card_text": {
                     "english": "+9 Health , +1 Mana<br><br> After a hero dies, add a charge.<br><br>Active 0, 1 Mana: Spend a charge. Give an enemy +4 Decay or an ally +4 Regeneration."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11019",
@@ -5584,7 +6190,9 @@
                 "card_text": {
                     "english": "+9 Health <br><br> When an enemy plays an ability or card from this lane, restore 1  Mana.<br><br> Aura:  Allies have doubled Healing and Regeneration."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11020",
@@ -5594,7 +6202,9 @@
                 "card_text": {
                     "english": "+10 Attack <br><br>Round Start:  Deal 2 piercing damage to enemy units."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11021",
@@ -5604,7 +6214,9 @@
                 "card_text": {
                     "english": "+7 Armor <br><br> Aura:  Enemy units have -7 Armor ."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11022",
@@ -5614,7 +6226,9 @@
                 "card_text": {
                     "english": "+6 Health <br><br>Active 2, 1 Mana: Refresh all cooldowns on equipped hero. Draw a card. restore 3 mana."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11023",
@@ -5624,7 +6238,9 @@
                 "card_text": {
                     "english": "+9 Health <br><br>Active 1, 1 Mana: Deal 12 piercing damage to a unit."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11024",
@@ -5684,7 +6300,9 @@
                 "card_text": {
                     "english": "+5 Armor , +3 Health , +3 Regeneration"
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11030",
@@ -5694,7 +6312,9 @@
                 "card_text": {
                     "english": "+6 Health <br><br>Round Start:  Reveal opponent's hand."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11031",
@@ -5704,7 +6324,9 @@
                 "card_text": {
                     "english": "+6 Health <br><br>Active 1, 1 Mana: Give a unit immunity to battle damage, other damage it takes is doubled."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11032",
@@ -5724,7 +6346,9 @@
                 "card_text": {
                     "english": "Push caster and Summon a Melee Creep in its place."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Spell"
             },
             {
                 "card_id": "11035",
@@ -5848,7 +6472,9 @@
                 "card_text": {
                     "english": "+2 Armor <br><br> Aura:  Adjacent enemies are rooted and have +2 Decay."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Common",
+                "card_type": "Item"
             },
             {
                 "card_id": "11045",
@@ -5870,7 +6496,9 @@
                 },
                 "references": [
                     "11047"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "11047",
@@ -5910,7 +6538,9 @@
                 "card_text": {
                     "english": "Play Effect:  Shattered Terrapin starts with 2 damage.<br><br> When healed, transform Shattered Terrapin into Terrapin Greatshell."
                 },
-                "references": []
+                "references": [],
+                "rarity": "Rare",
+                "card_type": "Creep"
             },
             {
                 "card_id": "11055",

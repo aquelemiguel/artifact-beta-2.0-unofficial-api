@@ -7,12 +7,14 @@ Visit the API link on [**this repository's webpage**](https://aquelemiguel.githu
 ### Attributes
 Currently, all card info is automatically fetched by parsing files in the SteamDatabase [**GameTracking-Artifact-Beta repository**](https://github.com/SteamDatabase/GameTracking-Artifact-Beta). Below follows an updated table of attributes:
 
-| Implemented | Work in progress | Not yet |
+| Implemented | Work in progress | Not found |
 | ------------ |-------------|-----------|
 | id | color | stats (e.g. attack, health, mana) |
-| name | type | in-game image |
-| text | rarity |  |
-| references | lore |  |
+| name | lore | in-game image |
+| text | | |
+| type | | |
+| rarity | | |
+| references |  |  |
 
 At this moment, I'd need new data sources to attempt to replicate the original API's size. For instance, I'm yet to find the game files that store a card's mana, attack, armor and health values. If you find anything promising, let me know by contacting me or **submitting an issue**!
 
