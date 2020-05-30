@@ -360,7 +360,7 @@
                     "english": "Bristleback"
                 },
                 "card_text": {
-                    "english": "When {s:parentCardName} takes non-battle damage, reduce that damage to 1, then activate Quill Spray."
+                    "english": "When Bristleback takes non-battle damage, reduce that damage to 1, then activate Quill Spray."
                 },
                 "references": []
             },
@@ -722,7 +722,7 @@
                     "english": "Static Field"
                 },
                 "card_text": {
-                    "english": "Deal 1 piercing damage to {s:parentCardName}'s adjacent enemies after you play a spell or enchantment from this lane."
+                    "english": "Deal 1 piercing damage to Static Field's adjacent enemies after you play a spell or enchantment from this lane."
                 },
                 "references": []
             },
@@ -880,7 +880,7 @@
                     "english": "Sister of the Void"
                 },
                 "card_text": {
-                    "english": "Choose a combat target for {s:parentCardName}. {s:parentCardName} deals +2 damage when attacking a unit.  &#9634; Quickcast"
+                    "english": "Choose a combat target for Sister of the Void. Sister of the Void deals +2 damage when attacking a unit.  &#9634; Quickcast"
                 },
                 "references": []
             },
@@ -920,7 +920,7 @@
                     "english": "Rebel Decoy"
                 },
                 "card_text": {
-                    "english": "Swap {s:parentCardName} with an ally."
+                    "english": "Swap Rebel Decoy with an ally."
                 },
                 "references": []
             },
@@ -1020,7 +1020,7 @@
                     "english": "Mercenary Exiles"
                 },
                 "card_text": {
-                    "english": "Spend all your gold. {s:parentCardName} gains Attack and Health permanently equal to half the gold spent."
+                    "english": "Spend all your gold. Mercenary Exiles gains Attack and Health permanently equal to half the gold spent."
                 },
                 "references": []
             },
@@ -1050,7 +1050,7 @@
                     "english": "Emissary of the Quorum"
                 },
                 "card_text": {
-                    "english": "Give {s:parentCardName}'s allies +2&#9635;/+2&#9637; permanently."
+                    "english": "Give Emissary of the Quorum's allies +2&#9635;/+2&#9637; permanently."
                 },
                 "references": []
             },
@@ -1180,7 +1180,7 @@
                     "english": "Ravenhook"
                 },
                 "card_text": {
-                    "english": "Choose a hero adjacent to {s:parentCardName}. Destroy a random item equipped by that hero. Gain gold equal to the base cost of that item."
+                    "english": "Choose a hero adjacent to Ravenhook. Destroy a random item equipped by that hero. Gain gold equal to the base cost of that item."
                 },
                 "references": []
             },
@@ -1200,7 +1200,7 @@
                     "english": "Ravenous Mass"
                 },
                 "card_text": {
-                    "english": "Devour {s:parentCardName}'s neighbors.  &#9634; Quickcast"
+                    "english": "Devour Ravenous Mass's neighbors.  &#9634; Quickcast"
                 },
                 "references": []
             },
@@ -1270,7 +1270,7 @@
                     "english": "Assassin's Apprentice"
                 },
                 "card_text": {
-                    "english": "Choose a combat target for {s:parentCardName}. {s:parentCardName} deals +2 damage when attacking a unit.  &#9634; Quickcast"
+                    "english": "Choose a combat target for Assassin's Apprentice. Assassin's Apprentice deals +2 damage when attacking a unit.  &#9634; Quickcast"
                 },
                 "references": []
             },
@@ -4134,7 +4134,7 @@
                     "english": "Moonglade Fusilier"
                 },
                 "card_text": {
-                    "english": "Deal 1 damage to all enemies to the left of {s:parentCardName}."
+                    "english": "Deal 1 damage to all enemies to the left of Moonglade Fusilier."
                 },
                 "references": []
             },
@@ -4276,7 +4276,7 @@
                     "english": "Arclight Elemental"
                 },
                 "card_text": {
-                    "english": "Bounce {s:parentCardName} and give it +2&#9635; until end of its next combat phase. Summon a Arc Remnant into this position."
+                    "english": "Bounce Arclight Elemental and give it +2&#9635; until end of its next combat phase. Summon a Arc Remnant into this position."
                 },
                 "references": []
             },
@@ -5888,7 +5888,7 @@
                     "english": "The Double"
                 },
                 "card_text": {
-                    "english": "This {s:parentCardName} does not redeploy when it dies.   After two rounds, slay {s:parentCardName} for no bounty."
+                    "english": "This The Double does not redeploy when it dies.   After two rounds, slay The Double for no bounty."
                 },
                 "references": []
             },
@@ -6605,7 +6605,7 @@
                     "english": "Spirit Strike"
                 },
                 "card_text": {
-                    "english": "Before the action phase, if {s:parentCardName} is blocked, deal 1 damage to the unit blocking {s:parentCardName} and give your Death Prophets in every lane +1 Regeneration this round."
+                    "english": "Before the action phase, if Spirit Strike is blocked, deal 1 damage to the unit blocking Spirit Strike and give your Death Prophets in every lane +1 Regeneration this round."
                 },
                 "references": []
             },
@@ -6703,7 +6703,7 @@
                     "english": "Elder Mass"
                 },
                 "card_text": {
-                    "english": "Devour. Death Effect:  Purge all effects from {s:parentCardName}.<br><br>Informed ConsumptionActive 3 &#9632;, 1 Mana: Devour Elder Mass's neighbors and combat target.<BR/>\\n<BR/>\\nUnspeakable Seepage+1 Decay"
+                    "english": "Devour. Death Effect:  Purge all effects from Elder Mass.<br><br>Informed ConsumptionActive 3 &#9632;, 1 Mana: Devour Elder Mass's neighbors and combat target.<BR/>\\n<BR/>\\nUnspeakable Seepage+1 Decay"
                 },
                 "references": [
                     "10920",

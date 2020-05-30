@@ -57,11 +57,15 @@ with open('../cards.json', 'w+') as f:
             child_card = get_card(card_dict, ability)
 
             # Replace possible {s:parentCardName} references by parent name
-            new_t = child_card['card_text']['english'].replace('{s:parentCardName}', parent_card['card_name']['english'])
-            child_card['card_text']['english'] = new_t
-
+            repl = child_card['card_text']['english'].replace('{s:parentCardName}', parent_card['card_name']['english'])
+            child_card['card_text']['english'] = repl
 
             parent_card['references'].append(child_card['card_id'])
+
+    # Add remaining {s:parentCardName} (possibly unreleased or unfinished cards)
+    for card in card_dict['card_set']['card_list']:
+        repl = card['card_text']['english'].replace('{s:parentCardName}', card['card_name']['english'])
+        card['card_text']['english'] = repl
                 
     f.write(json.dumps(card_dict, indent=4))
     
