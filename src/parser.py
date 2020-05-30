@@ -4,6 +4,7 @@ import requests
 
 CARD_SET_URL = 'https://raw.githubusercontent.com/SteamDatabase/GameTracking-Artifact-Beta/master/game/dcg/resource/card_set_01_english.txt'
 ITEMS_GAME_URL = 'https://raw.githubusercontent.com/SteamDatabase/GameTracking-Artifact-Beta/master/game/dcg/pak01_dir/scripts/items/items_game.txt'
+LORE_URL = 'https://raw.githubusercontent.com/SteamDatabase/GameTracking-Artifact-Beta/master/game/dcg/panorama/localization/dcg_lore_set_01_english.txt'
 
 def get_card(card_dict, identifier):
     card_list = card_dict['card_set']['card_list']
@@ -14,6 +15,9 @@ def get_card(card_dict, identifier):
     
     except ValueError:
         return [card for card in card_list if card['card_name']['english'] == identifier][0]
+
+    except IndexError:
+        return None
 
 def remove_attr_syntax(s): 
     m = re.findall(r'(?<=\[)([^\[\]]+)(?=\[)', s)
@@ -106,11 +110,29 @@ def parse_items_game_file(raw_f, card_dict):
         card['rarity'] = re.findall(r'card_(\w+)', entries[CARD_RARITY_IDX])[0].capitalize()
         card['card_type'] = re.findall(r'card_type\"\"(\w+)', entries[CARD_TYPE_IDX])[0]
 
+def parse_lore_file(raw_f, card_dict):
+    entries = [re.sub(r"[\n\t]*", '', l) for l in raw_f.splitlines()]
+
+    for entry in entries:
+        reg_m = re.match(r'"CardLore_(\d+)""(.*)"', entry)
+
+        if reg_m:
+            (lore_id, lore_text) = reg_m.groups()
+            lore_text = lore_text.replace(u'\u2014', '--')   # Replace this unicode with em dash (double-hyphen)
+
+            card = get_card(card_dict, lore_id)
+            
+            if card:
+                card['card_lore'] = lore_text
+
 csf = fetch_file_from_steamdb(CARD_SET_URL)
 card_dict = parse_card_set_file(csf)
 
 csf = fetch_file_from_steamdb(ITEMS_GAME_URL)
 parse_items_game_file(csf, card_dict)
+
+csf = fetch_file_from_steamdb(LORE_URL)
+parse_lore_file(csf, card_dict)
 
 with open('../cards.json', 'w+') as f:
     f.write(json.dumps(card_dict, indent=4))

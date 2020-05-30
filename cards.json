@@ -15,7 +15,8 @@
                     "10490"
                 ],
                 "rarity": "Rare",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "I'm not going to lie, life's been a little rough.  I was on a tear playin' the couriers in White Spire, when all of a sudden I hit a cold streak.  It happens.  We figure we were due for a win so we go to Momma Eeb and take out a marker.  Based on past dealings, Eeb's not too keen to let us borrow the money so we give her Meepo 3 as a collateral.  We go back to the track, and well- look, I can't stress enough how cold the couriers were that day.  We have a team meeting and decide it's not fair that Meepo 3 gets his legs broken because a sure thing fell through.  So I go the Jasper Circle and get a loan to pay Eeb and get Meepo 3 back. But now we're in it with the Jasper Circle so we really don't want to take any chances because Momma Eeb will mess you up, Lasan will straight up kill ya.  So we decide to do some odd jobs for the Ravenhooks and skim enough money off the top to be able to pay back the Jasper Circle, but that's when I realize that there's no way we could get cleaned out 3 times in a row... you're smart people, I think you can figure out where this is going.  So mistakes were made and now we're back to where we started with the Jasper Circle debt only this time the Ravenhooks won't take us back because, ya know, we robbed them.  We're freaking out and pointing fingers, and that's when Meepo 3 sees a wanted poster for our old friend Mireska.  Now Lord Sunbreeze has put a huge bounty on his daughter that would cover the Jasper debt in spades, but A: Mireska's a friend... and more importantly B: there was no way we'd get to her before Gondar did. So I come up with a new plan.  Gondar will capture Mireska.  We'll free Mireska.  Mireska will owe us.  And Mireska will keep the Jasper Circle from killing us.  It's a perfect plan.  What could go wrong? -- <i>Meepo, Petty Con Man</i>"
             },
             {
                 "card_id": "10429",
@@ -45,7 +46,8 @@
                 "card_text": {
                     "english": "Summon a Meepo."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "I think it's important to have friends that can compensate for your weakness.  For instance, I'm great at playing cards; whereas Meepo 2 is more of a dice guy.  Does that mean we all get along?  Of course not, one of us is always getting the rest of us in trouble... but at the end of the day, we always work together to find a way out... because if you can't count on yourselves... who can you count on? -- <i>Meepo, Team of Grifters</i>"
             },
             {
                 "card_id": "10006",
@@ -59,7 +61,8 @@
                     "10489"
                 ],
                 "rarity": "Uncommon",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "Once I was like Sorla Khan... a warlord that did as she pleased.  Strong and immortal I knew that no man or beast was my equal... until my hubris cost me everything.  It was there at my lowest that Selemene found me.  Tested me.  And showed me the moon lit path.  Much time has passed since that day, and I find purpose and pride in protecting the Nightsilver Woods with other members of the Dark Moon.  But word has spread of Sorla Khan's march, and while we have never met I understand her all too well.  And so I travel to Roseleaf to defeat her, and save her from herself. -- <i>Luna, the Moon Rider</i>"
             },
             {
                 "card_id": "10489",
@@ -79,7 +82,8 @@
                 "card_text": {
                     "english": "Repeat one time for each charge:Deal 2 piercing damage to a random enemy."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Selemene has rewarded my faith in her with terrible power, and I have taken a vow never to misuse it. -- <i>Luna, Servant of Selemene</i>"
             },
             {
                 "card_id": "10010",
@@ -93,7 +97,8 @@
                     "10430"
                 ],
                 "rarity": "Uncommon",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "Writers block.  It is an awful condition that can ensure even the most prolific of authors.  Once the words used to flow freely from my lips to my scribe Thrael's ears...but lately I have been... distracted by the pulp drivel Goodkind unleashes into the world.  I had no idea that the adventures of a monosyllabic red thug could capture so many readers, yet if I am to be honest my own works feel boring in comparison... its vexing.  Ah well, I guess it's time to find Goodkind and eat her. -- <i>Auroth, the Winter Wyvern</i>"
             },
             {
                 "card_id": "10430",
@@ -113,7 +118,8 @@
                 "card_text": {
                     "english": "Stun an enemy. It is attacked by its allied neighbors."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Feeble minds can prove useful for fleeting entertainment. -- <i>Winter Wyvern, Bored Poet</i>"
             },
             {
                 "card_id": "10014",
@@ -127,7 +133,8 @@
                     "10494"
                 ],
                 "rarity": "Common",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "My father was good man.  A regent over the lands of Slom, he ruled the small folk with fairness and justice.  My mother was the picture of patience and compassion, a woman beloved by her people as if they were her children.  And my siblings?  Gods we were trouble.  I remember the day we found Father's collection of ancient maps, Tressa thought it would be funny if we-  it doesn't matter now.  They're all dead. -- <i>Banehallow, the Lycan</i>"
             },
             {
                 "card_id": "10494",
@@ -151,7 +158,8 @@
                     "10432"
                 ],
                 "rarity": "Rare",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "The Rumusque Faithful have grown in number and in reputation and Lady Anshu is revered as a prophet and the second coming of Crella herself.  Such a woman will be a powerful convert to the Knights of the Fold.  And once I have shown her the true light of god... she will bring her followers to me. -- <i>Chen, Holy Knight of the Fold</i>"
             },
             {
                 "card_id": "10432",
@@ -175,7 +183,8 @@
                     "10496"
                 ],
                 "rarity": "Common",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "My homeland is a place of beauty and grace... of crystal streams and bountiful harvest...it is undeniably a gift from the gods.  But when such a gift is bestowed upon you, it is right to give thanks... and there is only one way to show gratitude to the Flayed Twins.   With blood. -- <i>Strygwyr, the Bloodseeker</i>"
             },
             {
                 "card_id": "10496",
@@ -199,7 +208,8 @@
                     "10816"
                 ],
                 "rarity": "Rare",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "Axe is a man of many talents.  Well one talent.  The murder talent.  However that seems to be enough for Axe to attract a legion of devoted fans that follow his adventures.  It also probably helps that Axe's bard, Goodkind is good at what she calls 'embellishment'. Axe is unsure what the word means, but it's probably a good thing.  -- <i>Axe, Adventurer and Murder Machine</i>"
             },
             {
                 "card_id": "10816",
@@ -223,7 +233,8 @@
                     "10497"
                 ],
                 "rarity": "Rare",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "The hunt is a sacred thing, and to be asked to lead it is a great honor.  These centaurs claim to be the finest hunters of the Marrowfell Tribe.  We shall see if any of them are worthy to claim the Horn of the Alpha. -- <i>Bradwarden, the Centaur Warrunner</i>"
             },
             {
                 "card_id": "10497",
@@ -247,7 +258,8 @@
                     "10498"
                 ],
                 "rarity": "Uncommon",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "I know they think I'm crazy... and that's ok... they didn't see what I saw... see what the trees did.  'Ohh it's nature, look at the beauty of the forest.'  Lies.  That's not a tranquil jungle... that's a sleeping army.  And unless we are prepared when that forest starts to march it will be the end of everybody. -- <i>Rizzrack, the Timbersaw</i>"
             },
             {
                 "card_id": "10498",
@@ -272,7 +284,8 @@
                     "10290"
                 ],
                 "rarity": "Uncommon",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "My dominion over the seas is absolute... and soon it will be the same on land. -- <i>Leviathan, the Tidehunter</i>"
             },
             {
                 "card_id": "10434",
@@ -296,7 +309,8 @@
                     "10435"
                 ],
                 "rarity": "Rare",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "The idea of working with Mazzie is...less exciting to me.  But Sniper has raised some excellent points: The keen have been divided for too long and at least he doesn't yell at trees.  Still, it's hard for me to overlook our past.  Do I think we'll be friends?  No.  Do I think I can stomach his presence and not 'accidently' shoot in him the back of the head?  Maybe if I drink enough.  Time will tell. -- <i>Boush, the Tinker</i>"
             },
             {
                 "card_id": "10435",
@@ -320,7 +334,8 @@
                     "10500"
                 ],
                 "rarity": "Uncommon",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "I was conscripted to the Bronze Legion when I was a pup.  They marched through my village with their shiny armor and promises of glory and I couldn't sign on fast enough.  I smiled when they put the conscript mark on my arm cause I knew that if I worked hard enough, if I followed orders, if I showed valor and skill in battle I would make something of myself and become more than just a stupid savage from redmaw.  And so I followed.  And fought.  And killed.  And with every town we occupied, every insurrection we quelled, every voice of dissent I silenced, the words 'for the glory of Stonehall' grew hollower, and that bronzed mark I took pride in became heavier.  So now we march through Roseleaf to intercept the Red Mist Horde, and again my Commander has asked me to 'speak to my savage people'...  well speak to them I shall... and when I do, they'll understand that I will fight beside them until every soldier is sent back to Stonehall in a bronzed coffin.  -- <i>Rix, Leader of the Vhoul Rebellion</i>"
             },
             {
                 "card_id": "10500",
@@ -345,7 +360,8 @@
                     "11051"
                 ],
                 "rarity": "Common",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "Every year the Marrowfell Centaurs send their bravest warriors into Roseleaf to hunt Thunderhides... to them this gruesome safari is a rite of passage, but I will not let these majestic creatures be hunted for sport.  The only question that remains is how many centaurs will I have to kill before they realize Roseleaf Forest is no longer their hunting grounds. -- <i>Karroch, the Beastmaster</i>"
             },
             {
                 "card_id": "10437",
@@ -404,7 +420,8 @@
                     "10504"
                 ],
                 "rarity": "Rare",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "Power is a funny thing.  It's something we all want but are taught to be ashamed to seek.  But power is neither good nor evil.  It's freedom. It's the ability to live the life you choose, on the terms that you want.  People like to criticize where that power came from but in time, history forgets... and only remembers what you chose to do with it.  People can judge me for helping Kanna.  But in time they will understand. -- <i>Traxex, the Drow Ranger</i>"
             },
             {
                 "card_id": "10504",
@@ -429,7 +446,8 @@
                     "10981"
                 ],
                 "rarity": "Rare",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "My existence shouldn't be.  I was not born of a mother, but from a rock...and yet I was carved by no artisan.  No... I willed my consciousness into being.    For so long, I walked alone... confused... but that all changed when I met Kanna.  I was rudderless, and she gave me direction.  I was ignorant of the ways of man, and she gave me understanding.  I was alone in this world, and she gave me companionship.    But above all, she gave me a name and sense of self.  Once I called myself Raigor Stonehoof...but she has given me a new name that is far more fitting...Earthshaker. -- <i>Earthshaker, Adopted Son</i>"
             },
             {
                 "card_id": "10438",
@@ -463,7 +481,8 @@
                     "10506"
                 ],
                 "rarity": "Common",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "Rix.  Tresdin.  Sorla Khan.  You ask any one of them and they will spin you a story about why their cause is just; and every single one of them is wrong.  This war is senseless, its cost will be immeasurable, and the only people who will profit are the future historians who'll sell books about the massacre.  I can't stop this war from happening... but I will do whatever I can to minimize the damage. -- <i>Aiustha, the Enchantress</i>"
             },
             {
                 "card_id": "10506",
@@ -487,7 +506,8 @@
                     "10440"
                 ],
                 "rarity": "Rare",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "Opportunity calls to me in Roseleaf.  Lion flees to Weeping Rose, and will undoubtedly be looking for allies to aid him.  The Vhoul are losing their battle against The Bronze Legion and are willing to do anything for victory... and the Crystal Maiden of Icewrack happens to be on holiday.  It truly is an embarrassment of riches.  The only lingering question is who should I kill first. -- <i>Ethreain, the Lich</i>"
             },
             {
                 "card_id": "10440",
@@ -511,7 +531,8 @@
                     "10509"
                 ],
                 "rarity": "Common",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "'It's not easy being the smartest ogre in the world.  There's lots of jealous people out there.'  <br>'Think about how many people you know with one head.'  <br>'I bet it's a lot.'  <br>'Now realize that every single one of them is half as smart as us.  Do you know how lonely it is to walk this earth, never finding an intellectual eq-' <br>'WE LIKE ROCKS!'  <br>'Yes...yes we do.' -- <i>Aggron Stonebreak, the Ogre Magi</i>"
             },
             {
                 "card_id": "10509",
@@ -535,7 +556,8 @@
                     "10443"
                 ],
                 "rarity": "Rare",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "Something is stirring in Roseleaf.  I'm not referring to Stonehall's war machine, or the Red Mist Horde... no... those are problems of flesh and blood, distractions keeping attention divided from the real danger.  The Court of Ristul.  But I cannot face this danger alone, and so I hope to meet with Luna of the Dark Moon.  With the combined might of Selemene and the All Seeing One, we may have a chance. -- <i>Omniknight, Devoted to the Allseeing One</i>"
             },
             {
                 "card_id": "10443",
@@ -559,7 +581,8 @@
                     "10512"
                 ],
                 "rarity": "Common",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "The Veiled Sisterhood gave me everything.  My life. My skills. My family...  My very purpose.  So when the Veiled Oracles provide me a list of names, I never question what it is I need to do. -- <i>Mortred, the Phantom Assassin</i>"
             },
             {
                 "card_id": "10512",
@@ -583,7 +606,8 @@
                     "10444"
                 ],
                 "rarity": "Rare",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "The Tyler Estate.  It seeks to control magic. Punish those that violate rules set by the Quorum.  But I will show them that some things cannot be controlled.  And when the Tyler Estate Burns, I will set my sights on Weeping Rose itself. -- <i>Pugna, Ill-Tempered Nihilist</i>"
             },
             {
                 "card_id": "10444",
@@ -607,7 +631,8 @@
                     "10446"
                 ],
                 "rarity": "Uncommon",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "For too long the Keenfolk have been fractured.  Little colonies spread across the world each coveting their own research... but as we kept to our workshops the world around us changed.  Stonehall rose to power.  The nation of Revtel was born.  The Quroum of Weeping Rose grew bolder... and what did we do?  We toiled and tinkered.  We built wondrous machines and used them for petty tasks.  This cannot continue.   The Keenfolk clans need to unite, and show the world what we're capable of. -- <i>Kardel, the Sniper</i>"
             },
             {
                 "card_id": "10446",
@@ -631,7 +656,8 @@
                     "10513"
                 ],
                 "rarity": "Common",
-                "card_type": "Hero"
+                "card_type": "Hero",
+                "card_lore": "I've given myself to the Vigil Knights.  I will train with them.  Learn their ways.   Become the best... and ultimately: destroy them from within. -- <i>Sven, Knight of the Vigil</i>"
             },
             {
                 "card_id": "10513",
@@ -932,7 +958,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "Greevils were terrible mistake.  Smeevils were created to fix mistake.  Greevils hurt.  Smeevils help.  For instance.  I make swords that can be used to kill Greevils.  And other people.  But ideally Greevils. -- <i>Kareth, Smeevil Armsmaster</i>"
             },
             {
                 "card_id": "10077",
@@ -944,7 +971,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "My role is not to question, but to act.  It doesn't matter if you are a pauper in the street, a king on a throne, or a mad wizard locked away in the Tyler Estate.  If your name is given to me by The Veiled Sisters... your death is inevitable.  The only question is when will I choose to take it. -- <i>Hetheel, Sister of the Veil</i>"
             },
             {
                 "card_id": "10454",
@@ -966,7 +994,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "There is no such thing as forbidden magic in Weeping Rose. But some mistake the Quorums...open mindedness... as a license to be irresponsible.  The Tyler Estate is what awaits those who would abuse the hospitality Weeping Rose provides. -- <i>Votajo, Tyler Estate Censor</i>"
             },
             {
                 "card_id": "10079",
@@ -978,7 +1007,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "My needs are simple.  A hammer.  An anvil.  And a master who appreciates my skill.  The first two are easy to come by.  The third is more elusive.  Fortunately bad masters have a tendency to die in battle.  Some say this is because of flaws in their armor.  I say...'prove it?' -- <i>Vareth, Smeevil Blacksmith</i>"
             },
             {
                 "card_id": "10080",
@@ -990,7 +1020,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "I'll never forget the day I met Rix.  It was in the early days of the revolution, when people were scared to even gather at night.  We met in the tailor's wine cellar and Rix talked... god did he talk.  Of passion.  Of mistakes.  Of his love for our people.  I was mesmerized.  We all were.  So when he turned to me and asked what I could give to help the rebellion, there was only one answer... 'My life.' -- <i>Lyla, Rebel Decoy</i>"
             },
             {
                 "card_id": "10455",
@@ -1022,7 +1053,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "I get it, I get it, 'The Fields of Endless Carnage' sounds like a horrible place to take a holiday but I'm tellin' you Quoidge is a great city filled with lovely people.  If you ever make the trip be sure to stop by the fightin' pits and say hello.  I may look different on account of the whole sewing-on-limbs thing but I'll remember you... I never forget a face. -- <i>Tristan, Undead Boxer and all around swell chap</i>"
             },
             {
                 "card_id": "10085",
@@ -1034,7 +1066,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "For the most powerful of our order... not even death removes us from our sacred duty.  Our communion with the Phantom Veil is strong enough to let our spirit live on, long after our bodies have rot.  The mortal coil is now behind me, and the presence of my sisters, while comforting, is a distraction from the work I must do.  My list still has names on it...and I won't rest until they are dead. -- <i>Elsbeth, the Assassin's Shadow</i>"
             },
             {
                 "card_id": "10086",
@@ -1046,7 +1079,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "There is delicious conflict here.  And where there is conflict there is desperation.  And where there is desperation there is blood to be shed and deals to be made. -- <i>Zo, Disciple of Nevermore</i>"
             },
             {
                 "card_id": "10087",
@@ -1058,7 +1092,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "As a boy I dreamed of being a member of the Stonehall Elite... to be trained by Belasanno himself in the ways of war... but the sad truth is that I have no gift for combat.   I am no soldier.  But I am a believer.  In our emperor.  In our country.  In our mission.  I may not be a swordsman, but I am proud to carry the bullsnake into battle. -- <i>Pololo, Standard Bearer of the Bronze Legion</i>"
             },
             {
                 "card_id": "10090",
@@ -1070,7 +1105,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "The dead are rising in Roseleaf, Knogh...someone took The Oath. -- <i>Vanessa, Heretic for Hire</i>"
             },
             {
                 "card_id": "10091",
@@ -1082,7 +1118,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "These are strange times in Revtel.  Iron Fog is terrorized by Losel.  The Veiled Sisters assassinated Kwerthias.  And Lord Sunbreeze's own daughter has burned down his estate.  But despite the setbacks, the wheel continues to turn and profits continue to roll in.  But there is no time to mourn in Revtel... there is business to be done. -- <i>Lowenplatt, Merchant of Revtel</i>"
             },
             {
                 "card_id": "10092",
@@ -1094,7 +1131,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "Besiege Stonehall.  I've seen Khan's over thrown for even suggesting it.  But when Sorla gave the order, not one of us batted an eye.  Not because she's the strongest.  Not because we fear her cruelty.  But because we knew that she would die before she failed her people.  And so The Red Mist marches... and may the gods have mercy on whoever stands in our way. -- <i>Seguri, Red Mist Vandal</i>"
             },
             {
                 "card_id": "10094",
@@ -1104,7 +1142,8 @@
                 "card_text": {
                     "english": "Active 2, 1 Mana: Spend all your gold. Mercenary Exiles gains Attack and Health permanently equal to half the gold spent."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "We were good soldiers that served Galanius and the Bronze Legion for years.  The blood we spilt didn't just bring glory to Stonehall, it helped build the whole damn empire.  And how were we rewarded?  With a fancy piece of red cloth to wear into battle.  But you can't build a keep out of honor. You can't feed your family with Pride. You can't repay a debt with Glory.  So now we fight for the only thing that matters.  Gold. -- <i>Tessgan, leader of the Black Hilt Mercenary Company</i>"
             },
             {
                 "card_id": "10456",
@@ -1126,7 +1165,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "Mazzie is horrible at lots of things.  Being dependable.  Staying sober.  Keeping secrets.  But I'll give him credit: he knows how to build a giant robot. -- <i>Tinker, Humbled Inventor</i>"
             },
             {
                 "card_id": "10096",
@@ -1138,7 +1178,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "The more judgmental call Weeping Rose a place where magic is unfettered by morality... a chaotic city of delights and horrors.  And they would be partially right.  The city was founded on the idea that 'good magic' and 'evil magic' are labels created by lesser minds... But there is no chaos in Weeping Rose... The Quorum ensures that is the case.  And it is on their behalf that I have traveled here. -- <i>The Emissary of the Quorum</i>"
             },
             {
                 "card_id": "10457",
@@ -1160,7 +1201,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "Every year my clan comes to Roseleaf for the Thunderhide migration... and while the denizens of Roseleaf were a minor nuisance we never bothered to hunt them... they were too frail to make a worthy trophy.  But now things have changed.  This 'Rix' has stirred their blood and now they fancy themselves warriors... perhaps it's time to start a new hunt. -- <i>Mavor, Marrowfell Brawler</i>"
             },
             {
                 "card_id": "10102",
@@ -1172,7 +1214,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "When hunting Thunderhides, you always come home with new scars...if you come home at all. -- <i>Warrunner warns his hunters</i>"
             },
             {
                 "card_id": "10103",
@@ -1184,7 +1227,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "Friends said throwing dead bodies was hobby, not real job.  Who's laughing now?  Not friends.  I kill them for not supporting my dream. -- <i>Lommett, Ogre Corpse Tosser</i>"
             },
             {
                 "card_id": "10104",
@@ -1196,7 +1240,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "The Red Mist Horde is on the march, looting and destroying every city that stands between them and our great capital of Stonehall.  If we wish to protect our home...if we wish to stop these monsters... we must be willing to do whatever it takes. -- <i>Decius, Bronze Legionnaire</i>"
             },
             {
                 "card_id": "10107",
@@ -1208,7 +1253,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "I knew this day would come the moment I agreed to host Rix's gatherings in my wine cellar... but I wasn't ready for what it felt like to be pulled from my home in the middle of the night.  I know it's only a matter of time before Tresdin has me executed, and I won't lie.  I'm scared.  But we all have our parts to play. -- <i>Papa Samet, Vhoul Martyr</i>"
             },
             {
                 "card_id": "10108",
@@ -1220,7 +1266,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "The Alpha is a fearsome beast, capable of untold destruction... only the strongest of centaurs dare to stand in its presence, let alone fight it one on one. -- <i>Warrunner on the trail of the Alpha</i>"
             },
             {
                 "card_id": "10111",
@@ -1232,7 +1279,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "I am not a swordsman.  I am artist.  Now, I'm not foolish enough to boast that none are my equal, after all the world is filled with exceptional individuals...but I am wise enough to know that I am better than most. -- <i>Trivian, the Satyr Duelist</i>"
             },
             {
                 "card_id": "10112",
@@ -1242,7 +1290,8 @@
                 "card_text": {
                     "english": "<br><br>After Combat:  Gain +2 Attack /+1 Health permanently."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "My family was taken from me; but in my solitude I found a new family... and they will help me have my revenge. -- <i>Lycan, Pack Leader</i>"
             },
             {
                 "card_id": "10113",
@@ -1254,7 +1303,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "Kwerthias took great pride in his menagerie, though ultimately it led to his undoing.  The Phantom Assassin unleashed his pets in the palace... while his guards were focused on his beasts... she slit his throat. -- <i>The Brass Herald giving respect where it is due</i>"
             },
             {
                 "card_id": "10114",
@@ -1266,7 +1316,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "I'm not proud of what I've done, we were children playing games... how could I've expected what would come, what she was willing to awaken.  Death is coming for us all now... but it is most certainly coming for me first. -- <i>Giamma, the Cursed Satyr</i>"
             },
             {
                 "card_id": "10737",
@@ -1288,7 +1339,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "I'm not oblivious to the reputation I have; after all, the visits my brothers and sisters make are... rarely social.  But it's not my fault I'm here, it's yours.  Maybe you stole from your noble father... perhaps you defaulted on a Revtel debt... or could it be something as pedestrian as revenge...  Eh, who's to say, the 'whys' don't matter do they?  No.  All that matters is that there is something you hold dear, and my employer wants me to take it from you. -- <i>Jorbiah, the Ravenhook</i>"
             },
             {
                 "card_id": "10524",
@@ -1310,7 +1362,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "In the Fields of Endless Carnage, the dead can never die... leading to the creation of grotesque perversions such as these. -- <i>Lady Anshu expresses her scorn</i>"
             },
             {
                 "card_id": "10459",
@@ -1342,7 +1395,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "Any centaur worth his skinning knife can kill a Hellbear.  The real trick is doing it without getting scarred. -- <i>Bradwarden remains unimpressed</i>"
             },
             {
                 "card_id": "10119",
@@ -1354,7 +1408,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "For generations the Rumusque Faithful have defended the living world from the abominations that slink from the Fields of Endless Carnage.  We were known as men and women of principle.  Of valor.  Of Devotion.  And then Necrophos tried to destroy us all. -- <i>Abajen, Rumusque Cleric</i>"
             },
             {
                 "card_id": "10127",
@@ -1366,7 +1421,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "The Bronze Legion brings peace, the stupid Vhoul bring chaos.  Like Rix I joined the Legion.  Unlike Rix I'm loyal.  Soon the rebellion will be finished, perhaps then Commander Tresdin will let me eat Vhoul. -- <i>Tox Armripper, Bronze Legion Conscript</i>"
             },
             {
                 "card_id": "10128",
@@ -1378,7 +1434,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "I know my parents feel betrayed that I left with the Red Mist.  My path was set to be an artisan... but they didn't see Sorla Khan stand in the marketplace.  They didn't hear her talk about the old ways.  About how the Red Mist isn't about destroying the past but protecting it.  Honoring it.  Together we're going to build a better future for the Oglodi. -- <i>Nalon, the Untested Grunt</i>"
             },
             {
                 "card_id": "10129",
@@ -1390,7 +1447,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "The Revtel campaign was successful, but I was only there to observe, not take part... they say I'm not ready to kill on my own... but I'll prove them wrong. -- <i>Myrian, the Assassin's Apprentice</i>"
             },
             {
                 "card_id": "10543",
@@ -1412,7 +1470,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "The Bronze Legion is Stonehall's first line of defense.  But sometimes the threats to our great nation don't come from external forces... they come from within.  Situations like Rix's betrayal are why Belasanno formed the Stonehall Elite, and it will be my privilege to end this rebellion. -- <i>Tyber, member of the Stonehall Elite</i>"
             },
             {
                 "card_id": "10132",
@@ -1424,7 +1483,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "The Bronze Legion thinks they can stop us at Roseleaf, but already the cracks are showing.  Tresdin is delusional if she thinks she can fight Rix's rebellion and the Red Mist.  No.  Stonehall will fall.  It's only a matter of time. -- <i>Mial, Red Mist Pillager</i>"
             },
             {
                 "card_id": "10133",
@@ -1436,7 +1496,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "My people have pledged their lives in service to the ancient... offering ourselves to be a tide of flesh that will protect the Radiant from Kanna and her Dire heretics.  Thanks to the blessing of the Radiant, I have become the crashing wave of that tide... and I will give the Dire something to fear. -- <i>Breno, the Champion of the Ancient</i>"
             },
             {
                 "card_id": "10134",
@@ -1448,7 +1509,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "The Treants of Roseleaf and the Vhoul have lived together peacefully for generations.  But now interlopers have turned our home into a battlefield.  We have made the call to our cousins in the Vale of Augery. The vhoul must be protected... and those that would despoil this place must be destroyed. -- <i>Springwind, the Roseleaf Rejuvenator</i>"
             },
             {
                 "card_id": "10136",
@@ -1458,7 +1520,8 @@
                 "card_text": {
                     "english": "<br>Minion:  +2 Attack /+2 Health when neighboring Beastmaster."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "This forest has been my home for many years... and its denizens are quick to come to my aid. -- <i>Beastmaster, Friend of the Forest</i>"
             },
             {
                 "card_id": "10137",
@@ -1470,7 +1533,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "Power.  Immortality.   Revenge. These are the three biggest reasons people seek mastery of the arcane arts.  But they are not my reasons.  I pursue magic because it makes anything possible... and if anything is possible then hope, no matter how remote, can never die. -- <i>Allegra, Satyr Magician</i>"
             },
             {
                 "card_id": "10138",
@@ -1482,7 +1546,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "The Red Mist Horde is just the beginning.  Another force is coming.  I've felt it in the winds and seen it in the bones.  Something Dark.  Something Seductive.  Something Evil.   If we don't prepare for its arrival, it will certainly consume us all. -- <i>Ruseth, Troll Soothsayer</i>"
             },
             {
                 "card_id": "10141",
@@ -1492,7 +1557,8 @@
                 "card_text": {
                     "english": "Aura:  All Enemy and Allied heroes have +2 Siege."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "The difference between victory and defeat is the willingness to make unconscionable choices and sacrifice everything. -- <i>Sorla Khan, Destroyer</i>"
             },
             {
                 "card_id": "10148",
@@ -1504,7 +1570,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "I respect the Claszureme Treaty and the human wizard that helped broker it.  As such I would never rewrite time for my own amusement... however, I think it's healthy to remind the Sapphire Conclave what I am capable of; lest they grow complacent and fail to live up to their end of the bargain. -- <i>Faceless Void, Lord of Claszureme</i>"
             },
             {
                 "card_id": "10463",
@@ -1526,7 +1593,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "For so long I was afraid to return home...but the time has come to confront the past. -- <i>Lycan, Last Son of House Ambry</i>"
             },
             {
                 "card_id": "10154",
@@ -1538,7 +1606,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "Most of the magical world acknowledges the authority of the Sapphire Conclave.  But in Weeping Rose we govern ourselves, answering only to The Quorum, a senate of 31 powerful wizards.  And while Weeping Rose is not home to many rules, the few we have are obeyed without question.   Because to fail to do so is to be sent to the Tyler Estate. -- <i>Vanessa, 'law abiding' citizen of Weeping Rose</i>"
             },
             {
                 "card_id": "10155",
@@ -1550,7 +1619,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "The armor the bronze legion wears makes them tough to kill, but surprisingly easy to outrun... -- <i>Enchantress, Conscientious Objector</i>"
             },
             {
                 "card_id": "10156",
@@ -1562,7 +1632,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "'Look around you commander, this is what awaits your beloved Stonehall.'<br><br>'You're very confident for a woman who's about to die.<br><br>'You have a high opinion of yourself.'<br><br>'No. Just a very poor one of you.'<br>-- <i>Roseleaf in flames</i>"
             },
             {
                 "card_id": "10157",
@@ -1574,7 +1645,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "We may sort of hate each other, but at the end of the day if I was going to war I'd want her on my side. -- <i>Crystal Maiden, Twin Sister</i>"
             },
             {
                 "card_id": "10160",
@@ -1584,7 +1656,8 @@
                 "card_text": {
                     "english": "Enchant Caster<br><br> Round Start:  Deal 1 piercing damage to each enemy."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "'I think we're probably the first person to figure out that fire can be used not just to cook meat.  But also light people on fire.'  <br>'If not the first, definitely in the top five.' -- <i>Ogre Magi, Innovator</i>"
             },
             {
                 "card_id": "10161",
@@ -1596,7 +1669,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "I almost feel sorry for Tresdin, were it not for Rix her little ambush may have worked.  But in the end, the Bronze Legion cannot wage a two front war. -- <i>Sorla Khan seizes the moment</i>"
             },
             {
                 "card_id": "10162",
@@ -1606,7 +1680,8 @@
                 "card_text": {
                     "english": "<br><br>Combat:  Deal 3 piercing damage to the enemy tower if there are any unblocked allies."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Yes you can find cheaper alternatives to the Jasper Circle, but you almost always get what you pay for. -- <i>Lorlin Lasan, Dealmaker</i>"
             },
             {
                 "card_id": "10164",
@@ -1618,7 +1693,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "Revtel is the result of 3 different societies uniting to build something better.  Each of the Merchant Kings brings a...unique perspective on how to do business, but all of us have an eye for profit. -- <i>The Brass Herald, Merchant King of Revtel</i>"
             },
             {
                 "card_id": "10165",
@@ -1630,7 +1706,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "Iron Fog.  A city of industry.  Of Precision.  Of perfection.  I guided not only its constrution, but its conception.  And while some take issue with our labor practices, the results speak for themselves. -- <i>The Brass Herald, King of Iron Fog</i>"
             },
             {
                 "card_id": "10168",
@@ -1642,7 +1719,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "Lead by Luna, the Dark Moon worship Selemene, goddess of magic and the moon.  To underestimate their power is to court disaster -- <i>Omniknight, Theologist</i>"
             },
             {
                 "card_id": "10169",
@@ -1654,7 +1732,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "True power awaits those who bathe in the Mist of Avernus... -- <i>Abaddon, Keeper of the Mist of Avernus</i>"
             },
             {
                 "card_id": "10170",
@@ -1666,7 +1745,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "Mother sings of the Radiant's benevolence... but I've seen what the Radiant truly wants.  What it is willing to do.  And I will never be its slave. -- <i>Kanna, Reborn by the Dire</i>"
             },
             {
                 "card_id": "10171",
@@ -1678,7 +1758,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "It doesn't happen often, but every now and again a wizard is allowed to leave the Tyler Estate... though when they do they are irreparably changed. -- <i>Vanessa, Occult Investigator</i>"
             },
             {
                 "card_id": "10172",
@@ -1690,7 +1771,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "Our god is strange to the Vhoul.  I understand.  Once She was strange to me.  But in time they will learn to love her as we do. -- <i>Legion Commander on the repurposing of a Vhoul place of worship</i>"
             },
             {
                 "card_id": "10763",
@@ -1712,7 +1794,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "You could tell me that there are more sublime things than watching a wizard slowly kill themselves... but I'm not sure I'd believe you. -- <i>Pugna, Maniacal Tormentor</i>"
             },
             {
                 "card_id": "10174",
@@ -1724,7 +1807,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "I know Sorla's tactics...when her men come to scale these walls they will find an unpleasant surprise. -- <i>Legion Commander plans to secure Roseleaf</i>"
             },
             {
                 "card_id": "10175",
@@ -1736,7 +1820,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "Aghanim is the greatest wizard of all time.  There is no question.  There is no debate.  No one is his equal.  So when he vanished one day, we never wondered 'how' we wondered 'why'. Some say he feared for his life and ran into hiding, but I don't believe that for a second.  You ask me, Aghanim is working on something.  Something important.  Something that will change the world. -- <i>Vanessa, on Aghanim's disappearance</i>"
             },
             {
                 "card_id": "10542",
@@ -1758,7 +1843,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "Losel.  We both know who wants you dead... and we both know the wealth they command.  However, seeing as I\u2019m sitting here talking and not hiding your family\u2019s bodies it should be obvious that the Jasper Circle has not been extended a contract yet.   And while there is good money in murder, there\u2019s also a lot of effort in it and I\u2019m a busy man.  So, if you were to say, hire the Jasper Circle to smuggle you out of town safely, I would be forced to tell the gentleman whom I\u2019m meeting tonight that my services are already under retainer.  Regardless of what you choose, our paths will cross again this evening... but the circumstances of that visit are entirely up to you. -- <i>Lorlin Lasan, Leader of the Jasper Circle</i>"
             },
             {
                 "card_id": "10465",
@@ -1788,7 +1874,8 @@
                 "card_text": {
                     "english": "Active 1, 1 Mana: Choose an ally. Choose a combat target for it. Give that unit Pierce until end of its next combat phase."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "The holdings of Revtel are vast, and so the Merchant Kings rely on Wildwing messengers to communicate between the capital and our lands. -- <i>The Brass Herald, Lover of Efficiency</i>"
             },
             {
                 "card_id": "10466",
@@ -1810,7 +1897,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "The Narrow Maze is a nightmarish labyrinth where the souls of dead Heroes are given a chance to return to the living.  Axe claims that he's escaped it twice, but I don't believe him... mainly for two reasons.  1: You can't kill Axe. 2.  Even if he DID die, he would punch death in the face before he could be taken to the narrow maze. -- <i>Goodkind on metaphysics</i>"
             },
             {
                 "card_id": "10539",
@@ -1832,7 +1920,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "The Omexe Arena is where I made a name for myself.  I was its champion, and no one was my equal. -- <i>Bradwarden reflects on his glory days</i>"
             },
             {
                 "card_id": "10184",
@@ -1844,7 +1933,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "They're not particularly mobile, but they do the job when it comes to defending your workshop -- <i>Sniper wants people off his lawn</i>"
             },
             {
                 "card_id": "10467",
@@ -1866,7 +1956,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "Sniper asked me to design him a gun.  I got over excited. -- <i>Tinker, Founding Member of the S.O.L.K.</i>"
             },
             {
                 "card_id": "10468",
@@ -1888,7 +1979,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "It is a nasty world out there, and when a non-trivial percentage of it would like to see you dead you learn to take certain precautionary measures. -- <i>Vanessa, People Person</i>"
             },
             {
                 "card_id": "10192",
@@ -1900,7 +1992,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Go forth and do good.  Through your deeds may the humble be inspired to greatness; and the plans of the wicked made undone. -- <i>traditional blessing of the Rumusque</i>"
             },
             {
                 "card_id": "10193",
@@ -1910,7 +2003,8 @@
                 "card_text": {
                     "english": "Choose a creep and another enemy. They battle each other. Allied creeps used this way deal +2 damage."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "I'm not a fighter.  I'm a protector.  It's not too late for you to walk away, but if you try to hurt these people, I promise it will not go well for you. -- <i>Enchantress takes a stand</i>"
             },
             {
                 "card_id": "10194",
@@ -1922,7 +2016,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Improvement"
+                "card_type": "Improvement",
+                "card_lore": "Kanna's forces are always a threat... we must remain vigilant. -- <i>Prellex, Mother of Sorrow</i>"
             },
             {
                 "card_id": "10202",
@@ -1932,7 +2027,8 @@
                 "card_text": {
                     "english": "+3 Health <br><br>Active 2, 1 Mana: Choose a combat target for equipped hero. (needs fix, should be equip effect)"
                 },
-                "references": []
+                "references": [],
+                "card_lore": "To bolster their numbers, the Sisters of the Veil often abduct children and train them in their ways. When they come of age, they are bestowed this in preparation of their first kill. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10469",
@@ -1954,7 +2050,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "To many this pair of boots seems like a lesser magical item... but in the right hands these can turn the tide of any battle. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10470",
@@ -1976,7 +2073,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "The bullsnake is a fitting symbol for Stonehall. They conquer. They occupy. They move on. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10206",
@@ -1988,7 +2086,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "For years Axe has yearned to trade out his blink dagger for a blink axe, and for years Goodkind has had to remind him that blink axes don't exist. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10471",
@@ -2010,7 +2109,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "You have to be really careful when you put this thing on. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10210",
@@ -2022,7 +2122,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "Magic can be more fragile than most people think. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10212",
@@ -2034,7 +2135,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "The Knights of the Vigil were renowned for their skill in battle. The stories of Sven, Geeta the Wildblade, and Klemens have captured the imagination of so many... you can't throw a rock in the Gardens of Freth without hitting a group of school kids recreating their adventures. But playing a knight is easy... wielding one of their swords is far more challenging. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10215",
@@ -2046,7 +2148,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "Perfect for the warrior on a budget. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10216",
@@ -2058,7 +2161,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "In Revtel everyone is looking for a bargain...  -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10218",
@@ -2068,7 +2172,8 @@
                 "card_text": {
                     "english": "+2 Attack <br><br>Active 2, 1 Mana: Deal 2 damage to a unit. (needs fix, should be an equip effect)"
                 },
-                "references": []
+                "references": [],
+                "card_lore": "The Keenfolk are a clever people always looking for a way to use science to improve things... even warfare. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10474",
@@ -2090,7 +2195,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "Some say this ring can let it's bearer live forever. Naturally that's an exaggeration, a Tarrasque itself isn't an immortal creature, though it does make you wonder... if this ring is fashioned out of bone and muscle, what could someone do with a Tarrasque's heart? -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10222",
@@ -2102,7 +2208,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "In Xhacatocatl, High Priests don these bracers when preparing to make an offering to the Flayed Twins. So devout are the priests in their faith, that if a suitable sacrifice can not be found to please The Twins, they are willing to offer themselves instead. Well, \\\"willing\\\" is relative, some try to make a run for it and are tied down screaming, but generally they're all on board. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10476",
@@ -2124,7 +2231,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "Long ago, the Oglodi capital was a shining beacon of art and philosophy... and then they met the Tarnsmen. A barbarous group of demon worshipers, the Tarns lay siege to the Oglodi's great city, sating their bloodlust on any they could find. It was a massacre. The battle ended, only because the Tarns grew bored... and left a great civilization in ashes. Ever a resilient people, the Oglodi rebuilt and started again... referring to the razing of their capital as 'The Bleak Day'. But for some rebuilding was not enough. They believed that forsaking the martial in favor of the esoteric is what led to their down fall... and so they left and formed the first Red Mist Horde. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10224",
@@ -2136,7 +2244,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "It takes the blackest of hearts to be willing to bend the wills of men. Or you could be Chen. Chen does it all the time. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10477",
@@ -2158,7 +2267,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "To say Galanius is a polarizing figure is an understatement. The Emperor of Stonehall is seen by many of his people as a savior who brought them safety... to others he is a merciless conqueror that has destroyed their people's way of life. But no matter their position, everyone knows better than to publically question his authority. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10226",
@@ -2170,7 +2280,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "The All Seeing One anointed this hammer, giving its wielder the strength to bolster their allies and crush their enemies. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10230",
@@ -2182,7 +2293,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "To those willing to step into a world of Demonic etiquette and politics, the Court of Ristul is willing to offer considerable power... for a price. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10231",
@@ -2194,7 +2306,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "Nestled in the Fields of Endless Carnage lies the city of Quoidge. An undead metropolis where slovenly butchers rub shoulders with the most proper of corpses. To the living, this cloak is grotesque. To dead, it's the height of fashion. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10234",
@@ -2204,7 +2317,8 @@
                 "card_text": {
                     "english": "+2 Attack +5 gold when this kills a hero."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "A Marrowfell Hunter's skinning knife is one of their most prized possession. Made during a centaur coming-of-age ritual, each knife is unique to its wielder, and each one tells a specific story. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10238",
@@ -2216,7 +2330,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "You can kill a whole lotta people with this thing.  -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10252",
@@ -2228,7 +2343,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "The Bronze Legion's hallmark is discipline... not a day goes by where its soldiers aren't training to be the best. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10260",
@@ -2240,7 +2356,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "Every year, a group of centaurs from the Marrowfell Tribe are chosen to go on 'The Great Hunt'. The goal of this expedition is to test the skill and endurance of the tribe's finest trackers. To these men and women, there is no glory greater than claiming the horn of a Thunderhide Alpha for their own. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10483",
@@ -2262,7 +2379,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "Legend has it that the God of Fear herself forged this shield, and that no enemy of its wielder can dare to stand its presence. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10484",
@@ -2284,7 +2402,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Item"
+                "card_type": "Item",
+                "card_lore": "Long ago, the Apotheosis Blade was forged with a singular and wicked purpose: to let the wielder kill a god and assume its power. Today, it is but one of many accursed artifacts safely tucked away inside the Burnt Hall of Weeping Rose. -- <i>Jolixia, The Card Faun</i>"
             },
             {
                 "card_id": "10541",
@@ -2306,7 +2425,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "I am able to thrive in... less hospitable environs. -- <i>Viper, Ultimate Survivor</i>"
             },
             {
                 "card_id": "10196",
@@ -2318,7 +2438,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "'Where we come from; when an Ogre wants something, they tend just to kill whoever's holding it.'  <br>'But since we couldn't exactly do that, we invented a process of giving and taking items without murder.' <br>'It's like sharing.'  <br>'But better, because we came up with it.' -- <i>Ogre Magi, His Own Best Friend</i>"
             },
             {
                 "card_id": "10270",
@@ -2330,7 +2451,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Listen I'm not saying Windranger is a bad shot, I'm saying she's an aggressively mediocre shot. -- <i>Drow Ranger, Not-So-Friendly Rival</i>"
             },
             {
                 "card_id": "10272",
@@ -2340,7 +2462,8 @@
                 "card_text": {
                     "english": "Choose Caster.<br><br>Slay a unit in any lane. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Don't get me wrong I'm impressed with what these young Keen are able to dream up, but lasers and robots take away the artistry of killing a man.  In my day you had to have skill and patience to assassinate someone at range.  Now they just set off an explosion. -- <i>Sniper reminisces about the good old days</i>"
             },
             {
                 "card_id": "10273",
@@ -2352,7 +2475,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "I may be old, but my reflexes are as sharp as ever.  Unless I skipped my nap, in which case my reflexes are significantly less sharp. -- <i>Sniper, Oldie But A Goodie</i>"
             },
             {
                 "card_id": "10274",
@@ -2412,7 +2536,8 @@
                 "card_text": {
                     "english": "Slay a damaged enemy hero with 3 or less Health.<br><br>Repeatable this round."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Axe doesn't look back on his time in the Red Mist with particular fondness, but he acknowledges that he learned a lot about violence. -- <i>Axe, Former Khan of the Red Mist</i>"
             },
             {
                 "card_id": "10289",
@@ -2422,7 +2547,8 @@
                 "card_text": {
                     "english": "Choose Caster. Choose an enemy unit, reduce it to 3 Health and heal caster for the amount removed."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "My role is a sacred one.  The holy blades and armor I wield allows me to be a conduit to the Flayed Ones... and the blood I spill in combat becomes tribute, given in the name of my people. -- <i>Bloodseeker, Servant of the Flayed Ones</i>"
             },
             {
                 "card_id": "10290",
@@ -2432,7 +2558,8 @@
                 "card_text": {
                     "english": "The first time Tidehunter takes damage each round, purge your opponent's effects from it."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Don't call it a backpack. -- <i>Tidehunter, In Denial</i>"
             },
             {
                 "card_id": "10975",
@@ -2452,7 +2579,8 @@
                 "card_text": {
                     "english": "Enchant Tower<br><br>Round Start:  Deal 2 damage to the enemy tower, and each enemy unit. <br><br>Dispel after 3 rounds."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Every Keenfolk has a pet obsession.  Sniper likes shooting things.  Timbersaw cuts down trees.  I develop fun and exciting ways to kill Mazzie.  Some might frown at my attempted murder, but if I never developed these drones, he never would have built his robot suit to hide in.   So really, he should be thanking me. -- <i>Tinker, No Friend Of Mazzie</i>"
             },
             {
                 "card_id": "10292",
@@ -2462,7 +2590,8 @@
                 "card_text": {
                     "english": "Give a hero on either team +6 Attack and -6 Armor ."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "In battle, as in life; there are moments where you are forced to choose between greatness and security. -- <i>Warrunner, Fearless Warrior</i>"
             },
             {
                 "card_id": "10293",
@@ -2472,7 +2601,8 @@
                 "card_text": {
                     "english": "Stun an enemy. Push its neighbors away."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "I've seen many hunters in my day.  Each one bold.  And strong.  And fearless.  Fearless that is, until they realize they're not the Apex Predator... and then they run like the cowards they are.-- <i>Beastmaster, Apex Predator</i>"
             },
             {
                 "card_id": "10296",
@@ -2482,7 +2612,8 @@
                 "card_text": {
                     "english": "Deal 2 damage to caster's adjacent enemies and give them -2 Attack ."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "I was nervous about following the Society of Likeminded Keenfolk to Roseleaf... Sniper had a lot of rules.  Rules like 'we can't stop to cut down every tree'.  But when he saw the Treants marching towards us, he quickly made an exception. -- <i>Timbersaw, Crazed Lumberjack</i>"
             },
             {
                 "card_id": "10299",
@@ -2494,7 +2625,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Ilexa has no idea how important she will be in the days to come.  She must be protected at all costs. -- <i>Magnus to the Prowlers</i>"
             },
             {
                 "card_id": "10303",
@@ -2506,7 +2638,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "It's the rule of nature: there is always something stronger and deadlier than you.  Some people need to be reminded of that truth. -- <i>Magnus on Jungle Survival</i>"
             },
             {
                 "card_id": "10305",
@@ -2518,7 +2651,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Sometimes I think Sniper doesn't really want to be my friend, he just wants me on his side so I won't destroy everything he loves. -- <i>Timbersaw, Paranoid Keen</i>"
             },
             {
                 "card_id": "10306",
@@ -2530,7 +2664,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Everyone likes to think they build things that last, but if you give the Keen enough time, we'll figure out how to destroy anything. -- <i>Timbersaw, Founding Member of the S.O.L.K.</i>"
             },
             {
                 "card_id": "10307",
@@ -2542,7 +2677,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "The Oracle claims to see every eventuality; if true such a man could be a powerful ally... or at the very least a foe worth testing myself against. -- <i>Dark Seer ponders the future</i>"
             },
             {
                 "card_id": "10308",
@@ -2552,7 +2688,8 @@
                 "card_text": {
                     "english": "Discard a random card. Slay a hero."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "I'm immoral, not a sadist.  If I am asked to kill you it will be clean and quick. -- <i>Phantom Assassin, Efficient Killer</i>"
             },
             {
                 "card_id": "10310",
@@ -2564,7 +2701,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Creep"
+                "card_type": "Creep",
+                "card_lore": "The Bronze Legion weren't supposed be in Roseleaf, but it doesn't matter... we were going to have to face them eventually. On one hand it's a shame. A warrior like Tresdin deserves more than dying in some backwater vhoul city. On the other, perhaps it is a mercy that she will be spared from seeing her beloved city burn. -- <i>Vreth, Oglodi Artillerist</i>"
             },
             {
                 "card_id": "10311",
@@ -2576,7 +2714,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "I'll never forget the first day of the rebellion.  Tresdin sent me to collect rations from the farmers of Roseleaf... supplies in case the Red Mist siege would be prolonged... but it was a lean year for those farmers. I reported what they could spare, but Tresdin decided it wasn't enough, and so she instructed her thugs to take what they needed by force...after all, 'it was for their own good.'  Well when her people arrived they didn't find cowering farmers.  They found an army that I will lead until my dying day.   The men, women and pups of Roseleaf deserve to live their lives free of Stonehall's grip.  And while the price of their freedom will be blood, it is a price we are all willing to pay. -- <i>Rix, Rabble-Rouser</i>"
             },
             {
                 "card_id": "10312",
@@ -2588,7 +2727,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Soaring through the air is not just a liberating experience, it is also an effective way to dispatch one's enemies. -- <i>Skywrath Mage, Flying Free</i>"
             },
             {
                 "card_id": "10313",
@@ -2600,7 +2740,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Courage is not what makes a hunter great.  It's patience. -- <i>Warrunner speaks to the hunters of Marrowfell</i>"
             },
             {
                 "card_id": "10315",
@@ -2612,7 +2753,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "It is wise to fear the power of the Ancients... -- <i>Kanna, Seeker of Matricide</i>"
             },
             {
                 "card_id": "10318",
@@ -2622,7 +2764,8 @@
                 "card_text": {
                     "english": "Deal 2 damage.<br><br>Repeat 7 times:Jump left or right and deal 2 damage."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Could I simply cast out a wave of frost?  Certainly.  But flash freezing your enemies isn't nearly as satisfying as watching them panic before their impending death. -- <i>Lich on savoring the moment</i>"
             },
             {
                 "card_id": "10323",
@@ -2632,7 +2775,8 @@
                 "card_text": {
                     "english": "Deal damage to each enemy equal to the number of enemies."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Prellex is raising an army to destroy her daughter, but I won't allow that to happen.  Let them come in droves... no one will get past me. -- <i>Earthshaker, Protector of Kanna</i>"
             },
             {
                 "card_id": "10326",
@@ -2644,7 +2788,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Axe doesn't know much about magic except that you have to punch it. -- <i>Axe, Fan of Simple Solutions</i>"
             },
             {
                 "card_id": "10327",
@@ -2656,7 +2801,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "The world is a like a 280 lbs belligerent walrus man... it's not just gonna try to beat you down, it's gonna try to beat you while you're down.  So when that metaphorical, or in my case very literal, walrus man starts stalkin' towards ya... you only got one option:  pick yourself up and punch that bastard in the face. -- <i>Bristleback, 5 Pint Philosopher</i>"
             },
             {
                 "card_id": "10328",
@@ -2668,7 +2814,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "If you want someone dead, Slark is a wonderful gentleman to know. -- <i>Lorlin Lasan, Kobold Spymaster</i>"
             },
             {
                 "card_id": "10330",
@@ -2678,7 +2825,8 @@
                 "card_text": {
                     "english": "Caster gains +3 Attack permanently."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "I am not yet strong enough to avenge my father's execution.  But in time... I will be. -- <i>Sven, Preparing for Vengeance</i>"
             },
             {
                 "card_id": "10332",
@@ -2690,7 +2838,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "My task in Revtel has set many events into motion.  A new Merchant King will rise to stand alongside Sunbreeze and the Brass Herald.  The Relic Slayer has grown bolder in Iron Fog... and the Veiled Sisterhood is now at war with Revtel... but all of this was seen by the Veiled Oracles and all is as it needs to be. -- <i>Phantom Assassin, Kingslayer</i>"
             },
             {
                 "card_id": "10334",
@@ -2702,7 +2851,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Weeping Rose is shrouded in perpetual nightfall, a means for the Quorum to harness the power of the stars. -- <i>Silencer welcomes a visitor to Weeping Rose</i>"
             },
             {
                 "card_id": "10335",
@@ -2714,7 +2864,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "There is no place to hide from the wrath of the Dire. -- <i>Kanna, Vengeful Daughter</i>"
             },
             {
                 "card_id": "10336",
@@ -2726,7 +2877,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Prellex's army grows larger by the day.  For now they're disorganized, but I know my mother.  It won't take long before they're a threat. -- <i>Kanna strategizes with her allies</i>"
             },
             {
                 "card_id": "10338",
@@ -2738,7 +2890,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "The Allseeing one will never forsake His agents. -- <i>Omniknight, Soldier of the Divine</i>"
             },
             {
                 "card_id": "10339",
@@ -2748,7 +2901,8 @@
                 "card_text": {
                     "english": "<br><br>Silence an enemy and its neighbors."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Never take victory for granted... the moment you assume there's nothing an enemy can do to stop you, is the moment you're most likely to lose.-- <i>Drow Ranger, Spoiler</i>"
             },
             {
                 "card_id": "10340",
@@ -2758,7 +2912,8 @@
                 "card_text": {
                     "english": "Give allied heroes in all lanes +4 temporary health. <br><br>Cross Lane"
                 },
-                "references": []
+                "references": [],
+                "card_lore": "The Knights of the Fold gave me a fresh start and a new life.  It will do the same for you was well. -- <i>Chen, Converter of Many</i>"
             },
             {
                 "card_id": "10341",
@@ -2780,7 +2935,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "It takes a lot to get me mad- ok that's a lie, I'm always mad.  It takes a lot to make me wanna fight someone- yeah, that's not true either. I- oh to hell with it, let's be honest I like punching people. -- <i>Bristleback, Lover of Violence</i>"
             },
             {
                 "card_id": "10344",
@@ -2792,7 +2948,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Kunkka can hide on his boat all he likes... it won't be enough to save him. -- <i>Tidehunter, Kunkka's Rival</i>"
             },
             {
                 "card_id": "10348",
@@ -2802,7 +2959,8 @@
                 "card_text": {
                     "english": "Purge opponent's effects from a unit. Give it Untargetable. <br><br>Quickcast"
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Once I doubted my faith; but no longer.  The All Seeing one has chosen me to be its champion and I will not let the Omniscience down. -- <i>Omniknight, Rewarded For His Faith</i>"
             },
             {
                 "card_id": "10350",
@@ -2812,7 +2970,8 @@
                 "card_text": {
                     "english": "Caster stuns and deals 2 to its combat target."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "There are few things more annoying than fighting a cat man that makes copies of himself.  Every time you think you kill the last one, there\u2019s always another one behind you. -- <i>Axe, Easily Fooled</i>"
             },
             {
                 "card_id": "10352",
@@ -2824,7 +2983,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Be grateful you only annoyed me mortal, had you offended me the results would be far more... interesting. -- <i>Zeus, 'Merciful' God</i>"
             },
             {
                 "card_id": "10353",
@@ -2836,7 +2996,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Some mistake my taking on the mortal coil as a sign that I have grown weaker.  Every now and again I like to remind the world that that isn't the case.  My wife would say that cratering a city is overkill.  She's probably right.  But I've always been a fan of grand gestures. -- <i>Zeus, Poor Impulse Control</i>"
             },
             {
                 "card_id": "10354",
@@ -2848,7 +3009,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "If I'm to survive long enough to make it to Weeping Rose, I need to stay vigilant... and remove any threats before they could possibly harm me. -- <i>Lion, Asylum Seeker</i>"
             },
             {
                 "card_id": "10358",
@@ -2860,7 +3022,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Eventually the war will be over and the armies will scatter, but that's when the real work will begin. -- <i>Enchantress, Bringer of Hope</i>"
             },
             {
                 "card_id": "10359",
@@ -2870,7 +3033,8 @@
                 "card_text": {
                     "english": "Give two random cards in opponent's hand +2 Lock."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Pierpont and I don\u2019t agree on a lot of things, but he was wise to recognize the dangers of angering The Faceless Void.  I'm not super wild about the Claszureme Treaty, Chronomancy was a lot of fun.  But you know what's also fun?  Not having your timeline obliterated. -- <i>Vanessa opines on the Claszureme Treaty</i>"
             },
             {
                 "card_id": "10360",
@@ -2882,7 +3046,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Friends always let you down. -- <i>Drow Ranger, Force Unto Herself</i>"
             },
             {
                 "card_id": "10365",
@@ -2894,7 +3059,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "I've lived a long as I have because I always stay mobile... -- <i>Drow Ranger, On The Move</i>"
             },
             {
                 "card_id": "10366",
@@ -2904,7 +3070,8 @@
                 "card_text": {
                     "english": "Choose an ally. Choose a combat target for it."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Armies lose battles when their generals are unable to adapt to the situation. -- <i>Legion Commander on maintaining poise</i>"
             },
             {
                 "card_id": "10367",
@@ -2916,7 +3083,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "The keen believe that their soulless contraptions give them an edge in battle, but I will show them that their 'sci-ance' is not strong enough. -- <i>Ursa, Armor's Bane</i>"
             },
             {
                 "card_id": "10373",
@@ -2928,7 +3096,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Hope never dies, it just goes dormant... and when the conditions are right, it can be reborn anew. -- <i>Enchantress, on the destruction of Roseleaf</i>"
             },
             {
                 "card_id": "10374",
@@ -2940,7 +3109,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Rubick claims to be Aghanim's son.  I'm not sure I believe it, but I certainly wouldn't say that to Rubick's face. -- <i>Vanessa, Opinionated Occultist</i>"
             },
             {
                 "card_id": "10376",
@@ -2952,7 +3122,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "The purist in me hates how much Techies rely on explosives... but you can't deny they're effective. -- <i>Kardel debates the pros and cons of Techies</i>"
             },
             {
                 "card_id": "10377",
@@ -2964,7 +3135,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Chronicling Axe's adventure's has taken me to lots of interesting places.  It first it was scary but eventually you get used to a certain level of baseline terror. -- <i>Goodkind, Axe's Voice of Reason</i>"
             },
             {
                 "card_id": "10378",
@@ -2976,7 +3148,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "My god gave me purpose.  A holy mission.  Until this geas is completed I will not know defeat. -- <i>Omniknight, Man on a Mission</i>"
             },
             {
                 "card_id": "10379",
@@ -2988,7 +3161,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Pugna taught me to savor every delicious moment before the kill. -- <i>Viper, Trained by Pugna</i>"
             },
             {
                 "card_id": "10385",
@@ -2998,7 +3172,8 @@
                 "card_text": {
                     "english": "Enchant Caster<br><br> During the action phase, When an enemy enters an adjacent space, deal 1 damage per charge to it. (needs fix) After Killing a unit, gain a charge. (needs fix)"
                 },
-                "references": []
+                "references": [],
+                "card_lore": "Emperor Galanius expects much from me.  And I expect the same from those I command. -- <i>a quiet moment between Tresdin and Belasanno</i>"
             },
             {
                 "card_id": "10391",
@@ -3010,7 +3185,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Some are fit to rule.  Most live to obey. -- <i>Kanna, Cult of Personality</i>"
             },
             {
                 "card_id": "10396",
@@ -3022,7 +3198,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "You don't need a gun, just a drop on the guy who has one. -- <i>Traxex, Keenfolk Hunter</i>"
             },
             {
                 "card_id": "10402",
@@ -3034,7 +3211,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Our defenses are strong, but not impenetrable... Fortunately our towers tend to ward off all but the most determined. -- <i>Prellex, Defender of the Radiant</i>"
             },
             {
                 "card_id": "10403",
@@ -3046,7 +3224,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "The strong always think they are untouchable. But the look on their faces when they realize they are not, is a joy to behold. -- <i>Shendelzare, beloved of Skywrath Mage</i>"
             },
             {
                 "card_id": "10404",
@@ -3058,7 +3237,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Don't worry.  I travel at night all the time.   -- <i>in which the Enchantress makes a horrible decision</i>"
             },
             {
                 "card_id": "10410",
@@ -3070,7 +3250,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "The Phantom Assassin wastes no effort in her function.  Almost as if she was a creature of my design. -- <i>The Brass Herald, Architect of Iron Fog</i>"
             },
             {
                 "card_id": "10411",
@@ -3082,7 +3263,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Mireska likes the long con.  Me?  I like to shake things up and see what happens. -- <i>Meepo, Impulsive Criminal</i>"
             },
             {
                 "card_id": "10412",
@@ -3094,7 +3276,8 @@
                 },
                 "references": [],
                 "rarity": "Uncommon",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Zeus destroyed a building so I destroyed an army... I thought the matter was settled but then he decided to go throw a temper tantrum and crater a city. -- <i>Storm Spirit, Sore Loser </i>"
             },
             {
                 "card_id": "10417",
@@ -3106,7 +3289,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "There are no words to describe the anticipation you feel the moment before you descend on your prey. -- <i>Warrunner, Leader of the Hunt</i>"
             },
             {
                 "card_id": "10418",
@@ -3118,7 +3302,8 @@
                 },
                 "references": [],
                 "rarity": "Common",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "The best way to survive in this world is knowing who you can shove in front of the town guards so you can make a quick getaway. -- <i>Meepo, Always Skipping the Check</i>"
             },
             {
                 "card_id": "10419",
@@ -3138,7 +3323,8 @@
                 "card_text": {
                     "english": "<br><br>Silence a unit for two rounds."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "The powerful would have the weak be silent.  To accept the status quo.  To bend the knee.  To accept their lot in life.  For too long I was complicit in Stonehall\u2019s grab for power.  It ends today.  I will be a voice for my people, and I will not be silenced. -- <i>Rix, Ex-Bronze Legion</i>"
             },
             {
                 "card_id": "10422",
@@ -3150,7 +3336,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "Pierpont always warns me about 'dabbling with things you don't understand'.  Most of the time he's being a sanctimonious bastard... unfortunately sometimes he's right.  Well, mostly right, I mean I've never died permanently.  Ya know, now that I think about it, he's basically always just being a sanctimonious bastard. -- <i>Vanessa, Pierpont's Foil</i>"
             },
             {
                 "card_id": "10424",
@@ -3162,7 +3349,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "There's a lot things you can say about my sister.  Most of them revolve around her being a rage-filled arson machine. -- <i>Crystal Maiden calls it like she sees it</i>"
             },
             {
                 "card_id": "10425",
@@ -3174,7 +3362,8 @@
                 },
                 "references": [],
                 "rarity": "Rare",
-                "card_type": "Spell"
+                "card_type": "Spell",
+                "card_lore": "I've written a lot of books about Axe, the most popular of which is easily 'The Roshan Expedition'.  Personally I think, 'Red Mist, Red Passion' is better, but people heard 'erotic thriller' and never gave it a chance. -- <i>Goodkind, Literary Icon</i>"
             },
             {
                 "card_id": "10536",
@@ -6370,7 +6559,8 @@
                 },
                 "references": [
                     "11036"
-                ]
+                ],
+                "card_lore": "Once Pugna used me.  Controlled me.  Owned me.  Eventually I escaped, and while at first I relished in my newfound freedom, as years passed it became a more hollow existence... for a while I thought this ennui came because my tormentor still roamed free, and I wouldn't find peace until I make him suffer as I did.  But after I began my quest for vengeance I came to a realization.  Pugna is not an abnormality.  How many dabble in magic to summon and control.  To create life then force it to obey.  No.  Pugna's enslavement won't bring me peace... but enslaving every wizard?  Now that is something that will help me sleep well at night. -- <i>Viper, the Netherdrake</i>"
             },
             {
                 "card_id": "11036",
@@ -6390,7 +6580,8 @@
                 "card_text": {
                     "english": "Disable passives and give +2 Decay to enemies entering or already in this lane.  <br> <br>Round Start:  Repeat this effect, then dispel Nethertoxin."
                 },
-                "references": []
+                "references": [],
+                "card_lore": "In time, all things will die... I just like to do my part to speed up the process. -- <i>Viper, Lethal Fangs</i>"
             },
             {
                 "card_id": "11037",
