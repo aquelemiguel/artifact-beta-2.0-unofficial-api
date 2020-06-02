@@ -852,7 +852,7 @@
                     "english": "Legion Commander"
                 },
                 "card_text": {
-                    "english": "Moment of Courage<br>After battling a unit, heal 2."
+                    "english": "Moment of Courage<br>After attacking a unit in battle, heal 3."
                 },
                 "references": [
                     "10520"
@@ -866,7 +866,7 @@
                     "english": "Moment of Courage"
                 },
                 "card_text": {
-                    "english": "After battling a unit, heal 2."
+                    "english": "After attacking a unit in battle, heal 3."
                 },
                 "references": []
             },
@@ -1062,7 +1062,7 @@
                     "english": "Assassin's Shadow"
                 },
                 "card_text": {
-                    "english": "Play Effect:  Give Assassin's Shadow quickstrike until it battles."
+                    "english": "Quickstrike"
                 },
                 "references": [],
                 "rarity": "Rare",
@@ -1358,7 +1358,7 @@
                     "english": "Ravenous Mass"
                 },
                 "card_text": {
-                    "english": "Play Effect:  Devour. Activate Ravenous Mass.<br><br>Active 0, 1 Mana: Devour Ravenous Mass's neighbors. Quickcast"
+                    "english": "Devour<br><br>Active 0, 1 Mana: Move to an allied neighobr and devour it. Quickcast"
                 },
                 "references": [],
                 "rarity": "Rare",
@@ -1371,7 +1371,7 @@
                     "english": "Ravenous Mass"
                 },
                 "card_text": {
-                    "english": "Devour Ravenous Mass's neighbors. Quickcast"
+                    "english": "Move to an allied neighobr and devour it. Quickcast"
                 },
                 "references": []
             },
@@ -1443,7 +1443,7 @@
                     "english": "Assassin's Apprentice"
                 },
                 "card_text": {
-                    "english": "Play Effect:  Give Assassin's Apprentice quickstrike until it battles."
+                    "english": "Quickstrike"
                 },
                 "references": [],
                 "rarity": "Common",
@@ -2131,7 +2131,7 @@
                     "english": "Blade of the Vigil"
                 },
                 "card_text": {
-                    "english": "+2 Attack , +3 Cleave"
+                    "english": "+4 Cleave"
                 },
                 "references": [],
                 "rarity": "Common",
@@ -3543,7 +3543,7 @@
                     "english": "Iron Sharpens Iron"
                 },
                 "card_text": {
-                    "english": "Enchant Caster<br><br> When damaged, gain +1 Attack permanently.<br><br>Round Start:  Take one piecing damage."
+                    "english": "Enchant Caster<br><br> When damaged, gain +1 Attack permanently.<br><br>Round Start:  Take one piercing damage."
                 },
                 "references": [],
                 "rarity": "Rare",
@@ -3821,7 +3821,7 @@
                     "english": "Animated Armor"
                 },
                 "card_text": {
-                    "english": "Death Effect:  Put an Artificer's Mail card into your hand."
+                    "english": "Death Effect:  Put a locked Artificer's Mail card into your hand."
                 },
                 "references": []
             },
@@ -4034,7 +4034,7 @@
                     "english": "Pierpont"
                 },
                 "card_text": {
-                    "english": "Inspect<br>Active 2, 1 Mana: Increase Mana cost of two random cards in your opponents hand by 1. Reveal them.<br><br> Quickcast"
+                    "english": "Inspect<br>Active 2, 1 Mana: Increase Mana cost of two random non-item cards in your opponents hand by 1. Reveal them.<br><br> Quickcast"
                 },
                 "references": [
                     "10659"
@@ -4048,7 +4048,7 @@
                     "english": "Inspect"
                 },
                 "card_text": {
-                    "english": "Increase Mana cost of two random cards in your opponents hand by 1. Reveal them.<br><br> Quickcast"
+                    "english": "Increase Mana cost of two random non-item cards in your opponents hand by 1. Reveal them.<br><br> Quickcast"
                 },
                 "references": []
             },
@@ -4078,7 +4078,7 @@
                     "english": "Rix, Oathbound"
                 },
                 "card_text": {
-                    "english": "Assault<br>Rapid Deployment<br><br> Deploy:  Give your other allies +1 Siege.<br><br><br><br>Oathed<br>+3 Attack . Silenced."
+                    "english": "Assault<br>Rapid Deployment<br><br><br><br><br><br>Oathed<br>+3 Attack . Silenced."
                 },
                 "references": [
                     "10664",
@@ -4093,7 +4093,7 @@
                     "english": "Assault"
                 },
                 "card_text": {
-                    "english": "Rapid Deployment<br><br> Deploy:  Give your other allies +1 Siege."
+                    "english": "Rapid Deployment<br><br>"
                 },
                 "references": []
             },
@@ -4290,7 +4290,7 @@
                     "english": "Vanessa"
                 },
                 "card_text": {
-                    "english": "Versatile Occultist<br>Active 2, 1 Mana: Reduce the Mana cost of two random cards in your hand by 1. Change their color to blue.<br><br> Quickcast"
+                    "english": "Versatile Occultist<br>Active 2, 1 Mana: Reduce the Mana cost of two random non-item cards in your hand by 1. Change their color to blue.<br><br> Quickcast"
                 },
                 "references": [
                     "10702"
@@ -4304,7 +4304,7 @@
                     "english": "Versatile Occultist"
                 },
                 "card_text": {
-                    "english": "Reduce the Mana cost of two random cards in your hand by 1. Change their color to blue.<br><br> Quickcast"
+                    "english": "Reduce the Mana cost of two random non-item cards in your hand by 1. Change their color to blue.<br><br> Quickcast"
                 },
                 "references": []
             },
@@ -4747,7 +4747,7 @@
                     "english": "Lashvine Creeper"
                 },
                 "card_text": {
-                    "english": "Lashvine Creeper and its combat target are rooted.<br><br> Round Start:  If Lashvine Creeper is unblocked move a random enemy to block it."
+                    "english": "Lashvine Creeper and its combat target are rooted.<br><br> Round Start:  If Lashvine Creeper is unblocked move the closest enemy to block it."
                 },
                 "references": [],
                 "rarity": "Common",
@@ -5317,7 +5317,7 @@
                     "english": "Sonic Bubble"
                 },
                 "card_text": {
-                    "english": "<br><br>Silence each enemy in lane other than the target. That target takes 2 damage instead."
+                    "english": "Deal 2 damage to an enemy unit. <br><br>Silence each enemy other than the target."
                 },
                 "references": [],
                 "rarity": "Common",
@@ -5688,7 +5688,7 @@
                     "english": "Sand King"
                 },
                 "card_text": {
-                    "english": "Burrowstrike<br>Active 4, 1 Mana: Move up to 4 slots away in any lane. Stun and deal 1 damage to the new adjacent enemies.<br><br>  Cross Lane"
+                    "english": "Burrowstrike<br>Active 4, 1 Mana: Move up to 5 slots away in any lane. Stun and deal 1 damage to the new adjacent enemies.<br><br>  Cross Lane"
                 },
                 "references": [
                     "10939"
@@ -5712,7 +5712,7 @@
                     "english": "Burrowstrike"
                 },
                 "card_text": {
-                    "english": "Move up to 4 slots away in any lane. Stun and deal 1 damage to the new adjacent enemies.<br><br>  Cross Lane"
+                    "english": "Move up to 5 slots away in any lane. Stun and deal 1 damage to the new adjacent enemies.<br><br>  Cross Lane"
                 },
                 "references": []
             },
@@ -5870,7 +5870,7 @@
                     "english": "Gaseous Greevil"
                 },
                 "card_text": {
-                    "english": "Death Effect:  Deal 1 damage to adjacent units on both teams."
+                    "english": "Death Effect:  Deal 1 damage to adjacent enemies."
                 },
                 "references": [],
                 "rarity": "Common",
@@ -6413,7 +6413,7 @@
                     "english": "Refresher Orb"
                 },
                 "card_text": {
-                    "english": "+6 Health <br><br>Active 2, 1 Mana: Refresh all cooldowns on equipped hero. Draw a card. restore 3 mana."
+                    "english": "+6 Health <br><br>Active 2, 1 Mana: Refresh all cooldowns on equipped hero. Draw a card. Restore 3 mana."
                 },
                 "references": [],
                 "rarity": "Common",
@@ -6467,7 +6467,7 @@
                     "english": "Refresher Orb"
                 },
                 "card_text": {
-                    "english": "Refresh all cooldowns on equipped hero. Draw a card. restore 3 mana."
+                    "english": "Refresh all cooldowns on equipped hero. Draw a card. Restore 3 mana."
                 },
                 "references": []
             },
@@ -6651,7 +6651,7 @@
                     "english": "Courier"
                 },
                 "card_text": {
-                    "english": "Restore 1 mana, per round, when you play an item in any lane.  Cross Lane"
+                    "english": "The first item you play each round cost 1 less.  Cross Lane"
                 },
                 "references": []
             },
@@ -6749,11 +6749,13 @@
                     "english": "Nyx Assassin"
                 },
                 "card_text": {
-                    "english": "Vendetta<br>Active 3, 1 Mana: Move to any position. <br> <br>Nyx Assassin sneak attacks the new unit blocking it with +3 Attack ."
+                    "english": "Vendetta<br>Active 3, 1 Mana: Move to a position in any lane. <br><br>Nyx Assassin sneak attacks the new unit blocking it with +3 Attack ."
                 },
                 "references": [
                     "11057"
-                ]
+                ],
+                "rarity": "Rare",
+                "card_type": "Hero"
             },
             {
                 "card_id": "11057",
@@ -6761,7 +6763,7 @@
                     "english": "Vendetta"
                 },
                 "card_text": {
-                    "english": "Move to any position. <br> <br>Nyx Assassin sneak attacks the new unit blocking it with +3 Attack ."
+                    "english": "Move to a position in any lane. <br><br>Nyx Assassin sneak attacks the new unit blocking it with +3 Attack ."
                 },
                 "references": []
             },
@@ -6771,7 +6773,7 @@
                     "english": "Spiked Carapace"
                 },
                 "card_text": {
-                    "english": "Enchant Caster<br><br> Reflect damage that would be dealt to caster this round. Then, stun that caster or attacker and purge your opponent's effects from this hero."
+                    "english": "Choose Caster. When taking damage this turn, reflect damage back, stun its source until its next combat, then purge enemy effects from this unit."
                 },
                 "references": []
             },
