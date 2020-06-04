@@ -389,7 +389,7 @@
                     "english": "Bristleback"
                 },
                 "card_text": {
-                    "english": "Bristleback<br>When Bristleback<br> takes non-battle damage, reduce that damage to 1, then activate Quill Spray<br>.<br><br>Quill Spray<br>Active 3, 1 Mana: Deal 1 battle damage to adjacent enemies."
+                    "english": "Bristleback<br>When Bristleback<br> takes non-battle damage, reduce that damage to 1, then activate Quill Spray<br>.<br><br>Quill Spray<br>Active 3, 1 Mana: Deal 1 damage to adjacent enemies."
                 },
                 "references": [
                     "10030",
@@ -1358,7 +1358,7 @@
                     "english": "Ravenous Mass"
                 },
                 "card_text": {
-                    "english": "Devour<br><br>Active 0, 1 Mana: Move to an allied neighobr and devour it. Quickcast"
+                    "english": "Devour<br><br>Active 0, 1 Mana: Move to an allied neighbor and devour it. Quickcast"
                 },
                 "references": [],
                 "rarity": "Rare",
@@ -1371,7 +1371,7 @@
                     "english": "Ravenous Mass"
                 },
                 "card_text": {
-                    "english": "Move to an allied neighobr and devour it. Quickcast"
+                    "english": "Move to an allied neighbor and devour it. Quickcast"
                 },
                 "references": []
             },
@@ -2447,7 +2447,7 @@
                     "english": "Grazing Shot"
                 },
                 "card_text": {
-                    "english": "Choose caster. Deal 1 piercing damage to a unit in any lane and deal 1 damage to the next unit away from the caster. <br><br>Cross Lane"
+                    "english": "Choose caster as a starting point. Deal 1 piercing damage to a unit in any lane then deal 1 damage to the unit after it. <br><br>Cross Lane"
                 },
                 "references": [],
                 "rarity": "Common",
@@ -2484,7 +2484,7 @@
                     "english": "Heartstopper Aura"
                 },
                 "card_text": {
-                    "english": "Enchant Caster<br><br> Round Start:  Deal 1 piecing damage to this hero's adjacent enemies."
+                    "english": "Enchant Caster<br><br> Round Start:  Deal 1 piercing damage to this hero's adjacent enemies."
                 },
                 "references": []
             },
@@ -6285,7 +6285,7 @@
                     "english": "Quill Spray"
                 },
                 "card_text": {
-                    "english": "Deal 1 battle damage to adjacent enemies."
+                    "english": "Deal 1 damage to adjacent enemies."
                 },
                 "references": []
             },
@@ -6295,7 +6295,7 @@
                     "english": "Mjolnir"
                 },
                 "card_text": {
-                    "english": "+5 Attack <br><br>After battling a unit, deal 3 damage to it. Repeat 3 more times:Deal 3 damage to a random unit to its left or right."
+                    "english": "+5 Attack <br><br>After battling a unit, deal 3 damage to it. Repeat 3 more times:Jump left or right and deal 3 damage."
                 },
                 "references": [],
                 "rarity": "Common",
