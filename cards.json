@@ -1592,8 +1592,6 @@
                     "english": "Enchant Tower<br><br> <br><br>After Combat:  Draw a card if your tower took damage this round."
                 },
                 "references": [],
-                "rarity": "Rare",
-                "card_type": "Improvement",
                 "card_lore": "For so long I was afraid to return home...but the time has come to confront the past. -- <i>Lycan, Last Son of House Ambry</i>"
             },
             {
@@ -1919,8 +1917,6 @@
                     "english": "Enchant Tower<br><br>Draw a card after a hero dies."
                 },
                 "references": [],
-                "rarity": "Uncommon",
-                "card_type": "Improvement",
                 "card_lore": "The Omexe Arena is where I made a name for myself.  I was its champion, and no one was my equal. -- <i>Bradwarden reflects on his glory days</i>"
             },
             {
@@ -2305,8 +2301,6 @@
                     "english": "+6 Health <br><br>The first time a neighbor dies each turn, Draw a card."
                 },
                 "references": [],
-                "rarity": "Rare",
-                "card_type": "Item",
                 "card_lore": "Nestled in the Fields of Endless Carnage lies the city of Quoidge. An undead metropolis where slovenly butchers rub shoulders with the most proper of corpses. To the living, this cloak is grotesque. To dead, it's the height of fashion. -- <i>Jolixia, The Card Faun</i>"
             },
             {
